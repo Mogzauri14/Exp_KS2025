@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Global Elections Calendar</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <header class="header">
+      <div class="header-icon">&#x1F5F3;</div>
+      <div class="header-text">
+        <h1 class="title">Elections</h1>
+        <p class="subtitle" id="subtitle">Loading…</p>
+      </div>
+      <button class="refresh-btn" id="refreshBtn" title="Refresh data" aria-label="Refresh">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+             stroke-linecap="round" stroke-linejoin="round" width="16" height="16">
+          <path d="M23 4v6h-6"/><path d="M1 20v-6h6"/>
+          <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10"/>
+          <path d="M20.49 15a9 9 0 0 1-14.85 3.36L1 14"/>
+        </svg>
+      </button>
+    </header>
+
+    <!-- Loading state -->
+    <div class="state" id="stateLoading">
+      <div class="spinner"></div>
+      <p>Fetching election data…</p>
+    </div>
+
+    <!-- Error state -->
+    <div class="state hidden" id="stateError">
+      <div class="error-icon">&#x26A0;</div>
+      <p class="error-msg" id="errorMsg">Could not load election data.</p>
+      <button class="retry-btn" id="retryBtn">Try again</button>
+    </div>
+
+    <!-- Empty state -->
+    <div class="state hidden" id="stateEmpty">
+      <div class="empty-icon">&#x1F4C5;</div>
+      <p>No elections found for this month.</p>
+    </div>
+
+    <!-- Results -->
+    <div class="hidden" id="stateResults">
+      <div class="filter-bar">
+        <input class="search-input" id="searchInput" type="text"
+               placeholder="Filter by country or type…" aria-label="Filter elections" />
+      </div>
+      <ul class="election-list" id="electionList" role="list"></ul>
+      <footer class="footer" id="footer"></footer>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
