@@ -3,7 +3,7 @@
 // ── Configuration ────────────────────────────────────────────
 // Replace YOUR_GITHUB_USER and YOUR_REPO before deploying.
 const DATA_URL =
-  "https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_REPO/main/elections.json";
+  "https://raw.githubusercontent.com/Mogzauri14/Exp_KS2025/main/elections.json";
 
 // Cache key + TTL (30 minutes)
 const CACHE_KEY = "elections_cache";
