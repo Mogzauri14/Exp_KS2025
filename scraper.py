@@ -434,6 +434,86 @@ def scrape_ipu() -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Source 7: Wikipedia — 2026 local electoral calendar
+# ---------------------------------------------------------------------------
+
+def scrape_wikipedia_local() -> list[dict]:
+    SOURCE = "Wikipedia"
+    BASE = "https://en.wikipedia.org"
+    URL = f"{BASE}/wiki/2026_local_electoral_calendar"
+    log.info("Scraping %s ...", SOURCE)
+    soup = _get(URL)
+    if soup is None:
+        return []
+
+    # Month name → number mapping (covers full names on Wikipedia headings)
+    MONTH_NUM = {
+        "january": 1, "february": 2, "march": 3, "april": 4,
+        "may": 5, "june": 6, "july": 7, "august": 8,
+        "september": 9, "october": 10, "november": 11, "december": 12,
+    }
+
+    results = []
+    content = soup.find("div", class_="mw-parser-output")
+    if not content:
+        log.warning("%s: mw-parser-output not found", SOURCE)
+        return results
+
+    # Wikipedia wraps each h2 in <div class="mw-heading mw-heading2">.
+    # The <ul> of elections is a sibling of that wrapper div.
+    # Walk every mw-heading2 div, resolve the month, then grab the next <ul>.
+    for heading_div in content.find_all("div", class_="mw-heading2"):
+        h2 = heading_div.find("h2")
+        if not h2:
+            continue
+        heading_text = re.sub(r"\[.*?\]", "", h2.get_text(strip=True)).strip().lower()
+        month_num = MONTH_NUM.get(heading_text)
+        if month_num is None:
+            continue
+        month_name_str = heading_text.capitalize()
+
+        # The elections <ul> is the next sibling tag after the heading div
+        ul = heading_div.find_next_sibling("ul")
+        if not ul:
+            continue
+
+        for li in ul.find_all("li", recursive=False):
+            raw_text = li.get_text(" ", strip=True)
+
+            # Date is the text before the first colon
+            colon_pos = raw_text.find(":")
+            if colon_pos == -1:
+                continue
+            date_part = raw_text[:colon_pos].strip()
+
+            # date_part already contains the month name (e.g. "4 April");
+            # just append the year to get a parseable string.
+            date_str = f"{date_part} 2026"
+            d = _parse_date(date_str)
+            if not _is_target_month(d):
+                continue
+
+            # Country: first <a> link in the li
+            description = raw_text[colon_pos + 1:].strip()
+            first_link = li.find("a")
+            country = first_link.get_text(strip=True) if first_link else description.split(",")[0].strip()
+
+            # Type: everything after the country name (strip leading separators)
+            etype = re.sub(r"^[\s,–—-]+", "", description[len(country):]).strip()
+            if not etype:
+                etype = "Local election"
+
+            # Link: prefer the first wiki link
+            href = first_link["href"] if first_link and first_link.get("href") else URL
+            link = href if href.startswith("http") else BASE + href
+
+            results.append(_entry(d, country, etype, SOURCE, link, raw_text))
+
+    log.info("%s: %d local elections in target months", SOURCE, len(results))
+    return results
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -444,6 +524,7 @@ SCRAPERS = [
     scrape_election_guide,
     scrape_aweb,
     scrape_ipu,
+    scrape_wikipedia_local,
 ]
 
 
