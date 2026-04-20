@@ -84,9 +84,27 @@ function statusChipClass(status) {
 }
 
 // ── Card builder ──────────────────────────────────────────────
+
+// Normalise: support both old schema (source_name/link) and new (sources[])
+function getSources(election) {
+  if (election.sources && election.sources.length) return election.sources;
+  // Legacy fallback
+  return [{ name: election.source_name || "?", link: election.link || "#" }];
+}
+
+function buildSourceChips(sources) {
+  return sources.map(s =>
+    `<span class="chip chip-source source-chip-link" data-link="${escHtml(s.link)}"
+           title="Open ${escHtml(s.name)}">${escHtml(s.name)}</span>`
+  ).join("");
+}
+
 function buildCard(election) {
   const { day, mon } = formatDate(election.date);
-  const status = election.status || "Unknown";
+  const status  = election.status || "Unknown";
+  const sources = getSources(election);
+  const primaryLink = sources[0].link;
+
   const li = document.createElement("li");
   li.className = "election-item";
   li.innerHTML = `
@@ -109,16 +127,25 @@ function buildCard(election) {
       </div>
       <div class="election-type">${escHtml(election.type)}</div>
       <div class="election-chips">
-        <span class="chip chip-source">${escHtml(election.source_name)}</span>
+        ${buildSourceChips(sources)}
         <span class="chip ${statusChipClass(status)}">${escHtml(status)}</span>
       </div>
     </div>`;
 
+  // Source chips: each opens its own link
+  li.querySelectorAll(".source-chip-link").forEach(chip => {
+    chip.addEventListener("click", (e) => {
+      e.stopPropagation();
+      chrome.tabs.create({ url: chip.dataset.link });
+    });
+  });
+
+  // External link icon and card body → primary source
   li.querySelector(".election-link-icon").addEventListener("click", (e) => {
     e.stopPropagation();
-    chrome.tabs.create({ url: election.link });
+    chrome.tabs.create({ url: primaryLink });
   });
-  li.addEventListener("click", () => chrome.tabs.create({ url: election.link }));
+  li.addEventListener("click", () => chrome.tabs.create({ url: primaryLink }));
 
   return li;
 }
@@ -144,12 +171,15 @@ function renderCurrentMonth() {
   // Apply search query
   if (filterQuery) {
     const q = filterQuery.toLowerCase();
-    filtered = filtered.filter(e =>
-      e.country.toLowerCase().includes(q) ||
-      e.type.toLowerCase().includes(q) ||
-      e.source_name.toLowerCase().includes(q) ||
-      (e.status || "").toLowerCase().includes(q)
-    );
+    filtered = filtered.filter(e => {
+      const srcText = e.source_names ? e.source_names.join(" ") : (e.source_name || "");
+      return (
+        e.country.toLowerCase().includes(q) ||
+        e.type.toLowerCase().includes(q) ||
+        srcText.toLowerCase().includes(q) ||
+        (e.status || "").toLowerCase().includes(q)
+      );
+    });
   }
 
   // Update bento stats (always from full list, not filtered)

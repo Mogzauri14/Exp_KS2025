@@ -514,6 +514,203 @@ def scrape_wikipedia_local() -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
+# Golden Record — data fusion engine
+# ---------------------------------------------------------------------------
+
+# Country name synonyms → canonical name
+COUNTRY_SYNONYMS: dict[str, str] = {
+    "united states of america": "United States",
+    "usa": "United States",
+    "u.s.": "United States",
+    "u.s.a.": "United States",
+    "russian federation": "Russia",
+    "democratic republic of the congo": "DR Congo",
+    "drc": "DR Congo",
+    "republic of korea": "South Korea",
+    "korea, republic of": "South Korea",
+    "democratic people's republic of korea": "North Korea",
+    "iran, islamic republic of": "Iran",
+    "islamic republic of iran": "Iran",
+    "syrian arab republic": "Syria",
+    "united kingdom": "United Kingdom",
+    "great britain": "United Kingdom",
+    "türkiye": "Turkey",
+    "turkiye": "Turkey",
+    "czechia": "Czech Republic",
+    "slovak republic": "Slovakia",
+    "lao pdr": "Laos",
+    "lao people's democratic republic": "Laos",
+    "viet nam": "Vietnam",
+    "taiwan, province of china": "Taiwan",
+    "tanzania, united republic of": "Tanzania",
+    "bolivia, plurinational state of": "Bolivia",
+    "venezuela, bolivarian republic of": "Venezuela",
+    "moldova, republic of": "Moldova",
+    "north macedonia": "North Macedonia",
+    "republic of north macedonia": "North Macedonia",
+    "kingdom of eswatini": "Eswatini",
+    "swaziland": "Eswatini",
+    "cabo verde": "Cape Verde",
+    "timor-leste": "East Timor",
+    "myanmar": "Myanmar",
+    "burma": "Myanmar",
+}
+
+# Source priority for golden record field selection (lower index = higher priority)
+SOURCE_PRIORITY = [
+    "ElectionGuide",
+    "OSCE/ODIHR",
+    "A-WEB",
+    "IPU",
+    "Carter Center",
+    "Wikipedia",
+    "EEAS",
+]
+
+
+def _standardize_country(name: str) -> str:
+    """Return canonical country name, lowercasing for lookup."""
+    return COUNTRY_SYNONYMS.get(name.strip().lower(), name.strip())
+
+
+def _source_rank(source_name: str) -> int:
+    """Lower = higher priority. Unknown sources go last."""
+    try:
+        return SOURCE_PRIORITY.index(source_name)
+    except ValueError:
+        return len(SOURCE_PRIORITY)
+
+
+def _is_partial_date(iso_date: str) -> bool:
+    """Return True if the date is a month placeholder (day == 01 from a Month YYYY parse)."""
+    # We can't tell for certain, but EEAS always uses day=01 as a placeholder.
+    # We mark it partial; exact scrapers rarely land on the 1st.
+    return iso_date.endswith("-01")
+
+
+def _types_are_similar(a: str, b: str) -> bool:
+    """
+    Heuristic: two election type strings refer to the same election if they
+    share enough words (ignoring stop words and punctuation).
+    """
+    stop = {"of", "the", "and", "for", "in", "a", "an", "election", "elections"}
+    def tokens(s: str) -> set:
+        return {w.lower() for w in re.split(r"[\W_]+", s) if w.lower() not in stop and len(w) > 1}
+    ta, tb = tokens(a), tokens(b)
+    if not ta or not tb:
+        return True   # one is empty/generic — treat as compatible
+    overlap = len(ta & tb)
+    smaller = min(len(ta), len(tb))
+    return overlap / smaller >= 0.4   # 40 % token overlap → same election
+
+
+def build_golden_records(raw_elections: list[dict]) -> list[dict]:
+    """
+    Fuse raw scraped records into deduplicated Golden Records.
+
+    Grouping key: (date, standardized_country) — only same-date, same-country
+    records with similar type strings are merged.  Different elections on the
+    same day for the same country (different chambers, districts, rounds) are
+    kept separate.
+
+    Golden record schema:
+      date, country, type, status, source_names[], links[], sources[]
+    """
+    # 1. Standardize country names
+    for e in raw_elections:
+        e["country"] = _standardize_country(e["country"])
+
+    # 2. Sort by source priority so the best source comes first within each group
+    raw_elections.sort(key=lambda e: _source_rank(e["source_name"]))
+
+    # 3. Group: for each (date, country) pair, cluster by type similarity
+    #    We build clusters greedily: each new record is added to the first
+    #    existing cluster whose representative type is similar; otherwise a
+    #    new cluster is created.
+    date_country_buckets: dict[tuple, list[list[dict]]] = {}
+
+    for e in raw_elections:
+        key = (e["date"], e["country"].lower())
+        clusters = date_country_buckets.setdefault(key, [])
+        placed = False
+        for cluster in clusters:
+            rep_type = cluster[0]["type"]
+            if _types_are_similar(e["type"], rep_type):
+                cluster.append(e)
+                placed = True
+                break
+        if not placed:
+            clusters.append([e])
+
+    # 4. Fuse each cluster into one Golden Record
+    golden: list[dict] = []
+
+    for (iso_date, _), clusters in date_country_buckets.items():
+        for cluster in clusters:
+            # Representative = highest-priority source (already sorted)
+            rep = cluster[0]
+
+            # Date: prefer exact (non-partial) date; then highest-priority source
+            best_date = rep["date"]
+            for e in cluster:
+                if not _is_partial_date(e["date"]):
+                    best_date = e["date"]
+                    break   # cluster is priority-sorted; first exact date wins
+
+            # Type: highest-priority source; fallback to longest string
+            best_type = rep["type"]
+            if not best_type:
+                best_type = max((e["type"] for e in cluster), key=len, default="")
+
+            # Status: highest-priority source that has a non-Unknown value
+            best_status = "Unknown"
+            for e in cluster:
+                if e["status"] not in ("Unknown", ""):
+                    best_status = e["status"]
+                    break
+
+            # Collect all unique sources and links (preserving priority order)
+            seen_sources: set[str] = set()
+            source_names: list[str] = []
+            seen_links: set[str] = set()
+            sources: list[dict] = []   # [{name, link}] for UI rendering
+
+            for e in cluster:
+                sn = e["source_name"]
+                lk = e["link"]
+                if sn not in seen_sources:
+                    seen_sources.add(sn)
+                    source_names.append(sn)
+                if lk not in seen_links:
+                    seen_links.add(lk)
+                if sn not in {s["name"] for s in sources}:
+                    sources.append({"name": sn, "link": lk})
+
+            golden.append({
+                "date": best_date,
+                "country": rep["country"],
+                "type": best_type,
+                "status": best_status,
+                "source_names": source_names,
+                "links": [s["link"] for s in sources],
+                "sources": sources,
+            })
+
+    # 5. Sort by date
+    golden.sort(key=lambda x: x["date"])
+
+    merged_count = sum(
+        len(c) - 1
+        for clusters in date_country_buckets.values()
+        for c in clusters
+        if len(c) > 1
+    )
+    log.info("Golden record engine: %d raw -> %d records (%d merged)",
+             len(raw_elections), len(golden), merged_count)
+    return golden
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -548,17 +745,8 @@ def main():
             log.error("Unhandled error in %s: %s", name, exc, exc_info=True)
             errors.append(f"{name}: {exc}")
 
-    # Deduplicate on (date, country, type)
-    seen: set = set()
-    unique: list[dict] = []
-    for e in all_elections:
-        key = (e["date"], e["country"].lower(), e["type"].lower())
-        if key not in seen:
-            seen.add(key)
-            unique.append(e)
-
-    # Sort by date
-    unique.sort(key=lambda x: x["date"])
+    # Fuse duplicates into Golden Records
+    unique = build_golden_records(all_elections)
 
     # Bucket into per-month lists
     months_data: dict[str, list[dict]] = {}
