@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T12:26:24Z",
+  "generated_at": "2026-04-20T12:52:36Z",
   "month": "2026-04",
   "elections": [
     {
@@ -27,14 +27,6 @@
       "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
     },
     {
-      "date": "2026-04-02",
-      "country": "Nepal",
-      "type": "House of Representatives",
-      "status": "Held",
-      "source_name": "IPU",
-      "link": "https://data.ipu.org/parliament/NP/NP-LC01/elections/elections"
-    },
-    {
       "date": "2026-04-04",
       "country": "Maldives",
       "type": "Referendum",
@@ -43,36 +35,12 @@
       "link": "https://www.electionguide.org/elections/id/5154/"
     },
     {
-      "date": "2026-04-06",
-      "country": "Viet Nam",
-      "type": "National Assembly",
-      "status": "Held",
-      "source_name": "IPU",
-      "link": "https://data.ipu.org/parliament/VN/VN-LC01/elections/elections"
-    },
-    {
       "date": "2026-04-10",
       "country": "Djibouti",
       "type": "Djiboutian Presidency",
       "status": "Held",
       "source_name": "ElectionGuide",
       "link": "https://www.electionguide.org/elections/id/5061/"
-    },
-    {
-      "date": "2026-04-10",
-      "country": "Denmark",
-      "type": "The Danish Parliament",
-      "status": "Held",
-      "source_name": "IPU",
-      "link": "https://data.ipu.org/parliament/DK/DK-LC01/elections/elections"
-    },
-    {
-      "date": "2026-04-10",
-      "country": "Slovenia",
-      "type": "National Assembly",
-      "status": "Held",
-      "source_name": "IPU",
-      "link": "https://data.ipu.org/parliament/SI/SI-LC01/elections/elections"
     },
     {
       "date": "2026-04-12",
