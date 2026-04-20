@@ -1,111 +1,301 @@
 {
-  "generated_at": "2026-04-20T12:52:36Z",
-  "month": "2026-04",
-  "elections": [
-    {
-      "date": "2026-04-01",
-      "country": "Colombia",
-      "type": "EU Election Observation Mission",
-      "status": "Held",
-      "source_name": "EEAS",
-      "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
-    },
-    {
-      "date": "2026-04-01",
-      "country": "Peru",
-      "type": "EU Election Observation Mission",
-      "status": "Held",
-      "source_name": "EEAS",
-      "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
-    },
-    {
-      "date": "2026-04-01",
-      "country": "Bangladesh",
-      "type": "EU Election Observation Mission",
-      "status": "Held",
-      "source_name": "EEAS",
-      "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
-    },
-    {
-      "date": "2026-04-04",
-      "country": "Maldives",
-      "type": "Referendum",
-      "status": "Held",
-      "source_name": "ElectionGuide",
-      "link": "https://www.electionguide.org/elections/id/5154/"
-    },
-    {
-      "date": "2026-04-10",
-      "country": "Djibouti",
-      "type": "Djiboutian Presidency",
-      "status": "Held",
-      "source_name": "ElectionGuide",
-      "link": "https://www.electionguide.org/elections/id/5061/"
-    },
-    {
-      "date": "2026-04-12",
-      "country": "Hungary",
-      "type": "Hungarian National Assembly",
-      "status": "Held",
-      "source_name": "ElectionGuide",
-      "link": "https://www.electionguide.org/elections/id/5062/"
-    },
-    {
-      "date": "2026-04-12",
-      "country": "Peru",
-      "type": "Peruvian Presidency",
-      "status": "Held",
-      "source_name": "ElectionGuide",
-      "link": "https://www.electionguide.org/elections/id/5057/"
-    },
-    {
-      "date": "2026-04-12",
-      "country": "Peru",
-      "type": "Peruvian Chamber of Deputies",
-      "status": "Held",
-      "source_name": "ElectionGuide",
-      "link": "https://www.electionguide.org/elections/id/5058/"
-    },
-    {
-      "date": "2026-04-12",
-      "country": "Benin",
-      "type": "Beninese Presidency",
-      "status": "Held",
-      "source_name": "ElectionGuide",
-      "link": "https://www.electionguide.org/elections/id/5056/"
-    },
-    {
-      "date": "2026-04-12",
-      "country": "Peru",
-      "type": "Peruvian Senate",
-      "status": "Held",
-      "source_name": "ElectionGuide",
-      "link": "https://www.electionguide.org/elections/id/5155/"
-    },
-    {
-      "date": "2026-04-19",
-      "country": "Bulgaria",
-      "type": "Bulgarian National Assembly",
-      "status": "Held",
-      "source_name": "ElectionGuide",
-      "link": "https://www.electionguide.org/elections/id/5120/"
-    },
-    {
-      "date": "2026-04-25",
-      "country": "Palestine",
-      "type": "2026 Local elections",
-      "status": "Upcoming",
-      "source_name": "A-WEB",
-      "link": "https://www.elections.ps/tabid/1301/language/en-US/Default.aspx"
-    },
-    {
-      "date": "2026-04-30",
-      "country": "Antigua and Barbuda",
-      "type": "Antiguan and Barbudan House of Representatives",
-      "status": "Upcoming",
-      "source_name": "ElectionGuide",
-      "link": "https://www.electionguide.org/elections/id/5157/"
-    }
-  ],
+  "generated_at": "2026-04-20T13:29:38Z",
+  "current_month": "2026-04",
+  "months": {
+    "2026-03": [
+      {
+        "date": "2026-03-09",
+        "country": "Nepal",
+        "type": "National Assembly",
+        "status": "Held",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/NP/NP-UC01/elections/elections"
+      },
+      {
+        "date": "2026-03-11",
+        "country": "Chile",
+        "type": "Chamber of Deputies",
+        "status": "Held",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/CL/CL-LC01/elections/elections"
+      },
+      {
+        "date": "2026-03-11",
+        "country": "Chile",
+        "type": "Senate",
+        "status": "Held",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/CL/CL-UC01/elections/elections"
+      },
+      {
+        "date": "2026-03-12",
+        "country": "Bangladesh",
+        "type": "Parliament",
+        "status": "Held",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/BD/BD-LC01/elections/elections"
+      },
+      {
+        "date": "2026-03-14",
+        "country": "Thailand",
+        "type": "House of Representatives",
+        "status": "Held",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/TH/TH-LC01/elections/elections"
+      },
+      {
+        "date": "2026-03-22",
+        "country": "Democratic People's Republic of Korea",
+        "type": "Supreme People's Assembly",
+        "status": "Held",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/KP/KP-LC01/elections/elections"
+      },
+      {
+        "date": "2026-03-23",
+        "country": "Lao People's Democratic Republic",
+        "type": "National Assembly",
+        "status": "Held",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/LA/LA-LC01/elections/elections"
+      },
+      {
+        "date": "2026-03-26",
+        "country": "Faroe Islands",
+        "type": "Faroese Parliament",
+        "status": "Held",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5111/"
+      }
+    ],
+    "2026-04": [
+      {
+        "date": "2026-04-01",
+        "country": "Colombia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_name": "EEAS",
+        "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
+      },
+      {
+        "date": "2026-04-01",
+        "country": "Peru",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_name": "EEAS",
+        "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
+      },
+      {
+        "date": "2026-04-01",
+        "country": "Bangladesh",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_name": "EEAS",
+        "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
+      },
+      {
+        "date": "2026-04-02",
+        "country": "Nepal",
+        "type": "House of Representatives",
+        "status": "Held",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/NP/NP-LC01/elections/elections"
+      },
+      {
+        "date": "2026-04-04",
+        "country": "Maldives",
+        "type": "Referendum",
+        "status": "Held",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5154/"
+      },
+      {
+        "date": "2026-04-06",
+        "country": "Viet Nam",
+        "type": "National Assembly",
+        "status": "Held",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/VN/VN-LC01/elections/elections"
+      },
+      {
+        "date": "2026-04-10",
+        "country": "Djibouti",
+        "type": "Djiboutian Presidency",
+        "status": "Held",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5061/"
+      },
+      {
+        "date": "2026-04-10",
+        "country": "Denmark",
+        "type": "The Danish Parliament",
+        "status": "Held",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/DK/DK-LC01/elections/elections"
+      },
+      {
+        "date": "2026-04-10",
+        "country": "Slovenia",
+        "type": "National Assembly",
+        "status": "Held",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/SI/SI-LC01/elections/elections"
+      },
+      {
+        "date": "2026-04-12",
+        "country": "Hungary",
+        "type": "Hungarian National Assembly",
+        "status": "Held",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5062/"
+      },
+      {
+        "date": "2026-04-12",
+        "country": "Peru",
+        "type": "Peruvian Presidency",
+        "status": "Held",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5057/"
+      },
+      {
+        "date": "2026-04-12",
+        "country": "Peru",
+        "type": "Peruvian Chamber of Deputies",
+        "status": "Held",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5058/"
+      },
+      {
+        "date": "2026-04-12",
+        "country": "Benin",
+        "type": "Beninese Presidency",
+        "status": "Held",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5056/"
+      },
+      {
+        "date": "2026-04-12",
+        "country": "Peru",
+        "type": "Peruvian Senate",
+        "status": "Held",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5155/"
+      },
+      {
+        "date": "2026-04-19",
+        "country": "Bulgaria",
+        "type": "Bulgarian National Assembly",
+        "status": "Held",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5120/"
+      },
+      {
+        "date": "2026-04-25",
+        "country": "Palestine",
+        "type": "2026 Local elections",
+        "status": "Upcoming",
+        "source_name": "A-WEB",
+        "link": "https://www.elections.ps/tabid/1301/language/en-US/Default.aspx"
+      },
+      {
+        "date": "2026-04-30",
+        "country": "Antigua and Barbuda",
+        "type": "Antiguan and Barbudan House of Representatives",
+        "status": "Upcoming",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5157/"
+      }
+    ],
+    "2026-05": [
+      {
+        "date": "2026-05-01",
+        "country": "Costa Rica",
+        "type": "Legislative Assembly",
+        "status": "Upcoming",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/CR/CR-LC01/elections/elections"
+      },
+      {
+        "date": "2026-05-02",
+        "country": "Niue",
+        "type": "Niuean Assembly",
+        "status": "Upcoming",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5119/"
+      },
+      {
+        "date": "2026-05-07",
+        "country": "Scotland (part of the United Kingdom)",
+        "type": "Scottish Parliament",
+        "status": "Upcoming",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5064/"
+      },
+      {
+        "date": "2026-05-07",
+        "country": "Wales (part of the United Kingdom)",
+        "type": "Welsh National Assembly",
+        "status": "Upcoming",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5065/"
+      },
+      {
+        "date": "2026-05-10",
+        "country": "Lebanon",
+        "type": "Lebanese National Assembly",
+        "status": "Upcoming",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5069/"
+      },
+      {
+        "date": "2026-05-12",
+        "country": "Bahamas",
+        "type": "Bahaman House of Assembly",
+        "status": "Upcoming",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5081/"
+      },
+      {
+        "date": "2026-05-13",
+        "country": "Uganda",
+        "type": "Parliament",
+        "status": "Upcoming",
+        "source_name": "IPU",
+        "link": "https://data.ipu.org/parliament/UG/UG-LC01/elections/elections"
+      },
+      {
+        "date": "2026-05-17",
+        "country": "Cabo Verde",
+        "type": "Cabo Verdean National Assembly",
+        "status": "Upcoming",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5060/"
+      },
+      {
+        "date": "2026-05-24",
+        "country": "Cyprus",
+        "type": "Cypriot House of Representatives",
+        "status": "Upcoming",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5067/"
+      },
+      {
+        "date": "2026-05-31",
+        "country": "Colombia",
+        "type": "Colombian Presidency",
+        "status": "Upcoming",
+        "source_name": "ElectionGuide",
+        "link": "https://www.electionguide.org/elections/id/5066/"
+      },
+      {
+        "date": "2026-05-31",
+        "country": "Colombia",
+        "type": "2026 Presidential Election (first round)",
+        "status": "Upcoming",
+        "source_name": "A-WEB",
+        "link": "https://www.as-coa.org/articles/voter-concerns-and-intentions-one-year-colombias-2026-elections"
+      }
+    ]
+  },
   "errors": []
 }

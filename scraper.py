@@ -1,7 +1,7 @@
 """
 Global Elections Calendar Scraper
 Scrapes 6 election monitoring sources and outputs elections.json
-filtered to the current calendar month.
+with data for the previous, current, and next calendar months.
 """
 
 import json
@@ -41,6 +41,20 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 NOW = datetime.utcnow()
 CURRENT_YEAR = NOW.year
 CURRENT_MONTH = NOW.month
+
+
+def _add_months(year: int, month: int, delta: int) -> tuple[int, int]:
+    """Return (year, month) shifted by delta months."""
+    m = month - 1 + delta
+    return year + m // 12, m % 12 + 1
+
+
+# Build the set of (year, month) we want to collect
+TARGET_MONTHS: set[tuple[int, int]] = {
+    _add_months(CURRENT_YEAR, CURRENT_MONTH, -1),
+    (CURRENT_YEAR, CURRENT_MONTH),
+    _add_months(CURRENT_YEAR, CURRENT_MONTH, 1),
+}
 
 
 # ---------------------------------------------------------------------------
@@ -96,8 +110,8 @@ def _parse_date(raw: str) -> Optional[date]:
     return None
 
 
-def _is_current_month(d: Optional[date]) -> bool:
-    return d is not None and d.year == CURRENT_YEAR and d.month == CURRENT_MONTH
+def _is_target_month(d: Optional[date]) -> bool:
+    return d is not None and (d.year, d.month) in TARGET_MONTHS
 
 
 def _get(url: str, verify: bool = True) -> Optional[BeautifulSoup]:
@@ -185,7 +199,7 @@ def scrape_osce() -> list[dict]:
             link = URL
 
         d = _parse_date(date_str)
-        if _is_current_month(d):
+        if _is_target_month(d):
             raw = row.get_text(" ")
             results.append(_entry(d, country, etype, SOURCE, link, raw))
 
@@ -208,7 +222,8 @@ def scrape_eeas() -> list[dict]:
     results = []
     # Links follow the pattern: text = "EOM [Country] [YYYY]"
     # We can only extract year from the link text; no specific date available.
-    # We include missions where the year == current year, date set to YYYY-MM-01.
+    # Include missions whose year appears in any of our target months.
+    target_years = {y for y, _ in TARGET_MONTHS}
     pattern = re.compile(r"EOM\s+(.+?)\s+(\d{4})$", re.IGNORECASE)
 
     for a in soup.find_all("a"):
@@ -218,7 +233,7 @@ def scrape_eeas() -> list[dict]:
             continue
         country = m.group(1).strip()
         year = int(m.group(2))
-        if year != CURRENT_YEAR:
+        if year not in target_years:
             continue
 
         href = a.get("href", "")
@@ -267,7 +282,7 @@ def scrape_carter_center() -> list[dict]:
         for token in dates_text.split(","):
             token = token.strip().lstrip("*").strip()
             d = _parse_date(token)
-            if _is_current_month(d):
+            if _is_target_month(d):
                 raw = (dt.get_text(" ") + " " + (dd.get_text(" ") if dd else ""))
                 results.append(_entry(d, country, "Election Observation", SOURCE, link, raw))
 
@@ -310,7 +325,7 @@ def scrape_election_guide() -> list[dict]:
             link = href if href.startswith("http") else BASE + href
 
             d = _parse_date(date_str)
-            if _is_current_month(d):
+            if _is_target_month(d):
                 raw = row.get_text(" ")
                 results.append(_entry(d, country, etype, SOURCE, link, raw))
 
@@ -324,7 +339,7 @@ def scrape_election_guide() -> list[dict]:
                 continue
             date_str = strong.get_text(strip=True)
             d = _parse_date(date_str)
-            if not _is_current_month(d):
+            if not _is_target_month(d):
                 continue
             etype = links[0].get_text(strip=True)
             country = links[1].get_text(strip=True)
@@ -370,7 +385,7 @@ def scrape_aweb() -> list[dict]:
         date_str = cells[3].get_text(strip=True)
 
         d = _parse_date(date_str)
-        if _is_current_month(d):
+        if _is_target_month(d):
             raw = row.get_text(" ")
             results.append(_entry(d, country, etype, SOURCE, link, raw))
 
@@ -410,7 +425,7 @@ def scrape_ipu() -> list[dict]:
         date_str = cells[6].get_text(strip=True)
 
         d = _parse_date(date_str)
-        if _is_current_month(d):
+        if _is_target_month(d):
             raw = row.get_text(" ")
             results.append(_entry(d, country, etype, SOURCE, link, raw))
 
@@ -433,7 +448,13 @@ SCRAPERS = [
 
 
 def main():
-    log.info("Running elections scraper — target month: %04d-%02d", CURRENT_YEAR, CURRENT_MONTH)
+    prev_ym  = _add_months(CURRENT_YEAR, CURRENT_MONTH, -1)
+    next_ym  = _add_months(CURRENT_YEAR, CURRENT_MONTH,  1)
+    log.info(
+        "Running elections scraper — collecting %04d-%02d / %04d-%02d / %04d-%02d",
+        prev_ym[0], prev_ym[1], CURRENT_YEAR, CURRENT_MONTH, next_ym[0], next_ym[1],
+    )
+
     all_elections: list[dict] = []
     errors: list[str] = []
 
@@ -447,8 +468,8 @@ def main():
             errors.append(f"{name}: {exc}")
 
     # Deduplicate on (date, country, type)
-    seen = set()
-    unique = []
+    seen: set = set()
+    unique: list[dict] = []
     for e in all_elections:
         key = (e["date"], e["country"].lower(), e["type"].lower())
         if key not in seen:
@@ -458,10 +479,19 @@ def main():
     # Sort by date
     unique.sort(key=lambda x: x["date"])
 
+    # Bucket into per-month lists
+    months_data: dict[str, list[dict]] = {}
+    for ym in sorted(TARGET_MONTHS):
+        months_data[f"{ym[0]}-{ym[1]:02d}"] = []
+    for e in unique:
+        ym_key = e["date"][:7]  # "YYYY-MM"
+        if ym_key in months_data:
+            months_data[ym_key].append(e)
+
     output = {
         "generated_at": NOW.strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "month": f"{CURRENT_YEAR}-{CURRENT_MONTH:02d}",
-        "elections": unique,
+        "current_month": f"{CURRENT_YEAR}-{CURRENT_MONTH:02d}",
+        "months": months_data,
         "errors": errors,
     }
 
@@ -469,7 +499,8 @@ def main():
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    log.info("Wrote %d unique elections to %s", len(unique), out_path)
+    total = sum(len(v) for v in months_data.values())
+    log.info("Wrote %d unique elections across %d months to %s", total, len(months_data), out_path)
     if errors:
         log.warning("Sources with errors: %s", ", ".join(errors))
 
