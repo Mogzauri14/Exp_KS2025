@@ -111,11 +111,38 @@ def _get(url: str, verify: bool = True) -> Optional[BeautifulSoup]:
         return None
 
 
-def _entry(date_obj: date, country: str, etype: str, source: str, link: str) -> dict:
+STATUS_KEYWORDS = {
+    "postponed": "Postponed",
+    "delayed": "Postponed",
+    "cancelled": "Cancelled",
+    "canceled": "Cancelled",
+    "disputed": "Disputed",
+}
+
+TODAY = date.today()
+
+
+def _derive_status(raw_text: str, date_obj: Optional[date]) -> str:
+    """
+    Derive election status from scraped text and/or date comparison.
+    Keyword scan takes priority; falls back to temporal logic.
+    """
+    lower = raw_text.lower()
+    for kw, status in STATUS_KEYWORDS.items():
+        if kw in lower:
+            return status
+    if date_obj is None:
+        return "Unknown"
+    return "Upcoming" if date_obj > TODAY else "Held"
+
+
+def _entry(date_obj: date, country: str, etype: str, source: str, link: str,
+           raw_text: str = "") -> dict:
     return {
         "date": date_obj.strftime("%Y-%m-%d"),
         "country": country.strip(),
         "type": etype.strip(),
+        "status": _derive_status(raw_text, date_obj),
         "source_name": source,
         "link": link.strip(),
     }
@@ -159,7 +186,8 @@ def scrape_osce() -> list[dict]:
 
         d = _parse_date(date_str)
         if _is_current_month(d):
-            results.append(_entry(d, country, etype, SOURCE, link))
+            raw = row.get_text(" ")
+            results.append(_entry(d, country, etype, SOURCE, link, raw))
 
     log.info("%s: %d elections this month", SOURCE, len(results))
     return results
@@ -201,7 +229,7 @@ def scrape_eeas() -> list[dict]:
 
         # No exact date — use first day of current month as placeholder
         mission_date = date(CURRENT_YEAR, CURRENT_MONTH, 1)
-        results.append(_entry(mission_date, country, "EU Election Observation Mission", SOURCE, href))
+        results.append(_entry(mission_date, country, "EU Election Observation Mission", SOURCE, href, text))
 
     log.info("%s: %d missions this year", SOURCE, len(results))
     return results
@@ -240,7 +268,8 @@ def scrape_carter_center() -> list[dict]:
             token = token.strip().lstrip("*").strip()
             d = _parse_date(token)
             if _is_current_month(d):
-                results.append(_entry(d, country, "Election Observation", SOURCE, link))
+                raw = (dt.get_text(" ") + " " + (dd.get_text(" ") if dd else ""))
+                results.append(_entry(d, country, "Election Observation", SOURCE, link, raw))
 
     log.info("%s: %d elections this month", SOURCE, len(results))
     return results
@@ -282,7 +311,8 @@ def scrape_election_guide() -> list[dict]:
 
             d = _parse_date(date_str)
             if _is_current_month(d):
-                results.append(_entry(d, country, etype, SOURCE, link))
+                raw = row.get_text(" ")
+                results.append(_entry(d, country, etype, SOURCE, link, raw))
 
     # --- Card divs (upcoming section) ---
     # Look for divs that contain a <strong> date + two <a> tags
@@ -300,7 +330,8 @@ def scrape_election_guide() -> list[dict]:
             country = links[1].get_text(strip=True)
             href = links[0].get("href", "")
             link = href if href.startswith("http") else BASE + href
-            results.append(_entry(d, country, etype, SOURCE, link))
+            raw = div.get_text(" ")
+            results.append(_entry(d, country, etype, SOURCE, link, raw))
 
     log.info("%s: %d elections this month", SOURCE, len(results))
     return results
@@ -340,7 +371,8 @@ def scrape_aweb() -> list[dict]:
 
         d = _parse_date(date_str)
         if _is_current_month(d):
-            results.append(_entry(d, country, etype, SOURCE, link))
+            raw = row.get_text(" ")
+            results.append(_entry(d, country, etype, SOURCE, link, raw))
 
     log.info("%s: %d elections this month", SOURCE, len(results))
     return results
@@ -379,7 +411,8 @@ def scrape_ipu() -> list[dict]:
 
         d = _parse_date(date_str)
         if _is_current_month(d):
-            results.append(_entry(d, country, etype, SOURCE, link))
+            raw = row.get_text(" ")
+            results.append(_entry(d, country, etype, SOURCE, link, raw))
 
     log.info("%s: %d elections this month", SOURCE, len(results))
     return results

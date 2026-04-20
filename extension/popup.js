@@ -59,8 +59,21 @@ function externalLinkIcon() {
   </svg>`;
 }
 
+function statusClass(status) {
+  if (!status) return "status-unknown";
+  switch (status.toLowerCase()) {
+    case "upcoming":   return "status-upcoming";
+    case "held":       return "status-held";
+    case "postponed":  return "status-postponed";
+    case "cancelled":  return "status-cancelled";
+    case "disputed":   return "status-disputed";
+    default:           return "status-unknown";
+  }
+}
+
 function buildCard(election) {
   const { day, mon } = formatDate(election.date);
+  const status = election.status || "Unknown";
   const li = document.createElement("li");
   li.className = "election-item";
   li.innerHTML = `
@@ -71,7 +84,10 @@ function buildCard(election) {
     <div class="election-info">
       <div class="election-country">${escHtml(election.country)}</div>
       <div class="election-type">${escHtml(election.type)}</div>
-      <span class="source-chip">${escHtml(election.source_name)}</span>
+      <div class="election-meta">
+        <span class="source-chip">${escHtml(election.source_name)}</span>
+        <span class="status-badge ${statusClass(status)}">${escHtml(status)}</span>
+      </div>
     </div>
     <a class="election-link" href="${escHtml(election.link)}"
        target="_blank" rel="noopener noreferrer"
@@ -119,7 +135,8 @@ function applyFilter(query) {
     (e) =>
       e.country.toLowerCase().includes(q) ||
       e.type.toLowerCase().includes(q) ||
-      e.source_name.toLowerCase().includes(q)
+      e.source_name.toLowerCase().includes(q) ||
+      (e.status || "").toLowerCase().includes(q)
   );
   renderList(filtered);
   if (filtered.length === 0) showState(stateEmpty);
