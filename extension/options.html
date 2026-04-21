@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Elections Calendar — Settings</title>
+  <link rel="stylesheet" href="options.css" />
+</head>
+<body>
+
+  <div class="options-container">
+
+    <header class="options-header">
+      <h1 class="options-title">Country Filter</h1>
+      <p class="options-subtitle">Select which countries to include in your elections feed.</p>
+    </header>
+
+    <input
+      type="text"
+      id="country-search"
+      placeholder="Search for a country..."
+      autocomplete="off"
+      spellcheck="false"
+    />
+
+    <div id="country-list-container">
+      <!-- Dynamically populated by options.js -->
+    </div>
+
+    <div class="options-footer">
+      <div class="footer-actions-left">
+        <button id="select-all-btn" class="btn-secondary">Select All</button>
+        <button id="clear-all-btn" class="btn-secondary">Clear All</button>
+      </div>
+      <button id="save-btn" class="btn-primary">Save</button>
+    </div>
+
+  </div>
+
+  <script src="options.js"></script>
+</body>
+</html>

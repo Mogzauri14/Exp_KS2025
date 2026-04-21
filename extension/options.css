@@ -1,0 +1,188 @@
+/* ── Reset ──────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* ── Design tokens (matches popup theme) ───────────────────── */
+:root {
+  --bg:              #101223;
+  --surface-low:     #181a2c;
+  --surface-mid:     #1c1e30;
+  --surface-high:    #27293b;
+  --surface-highest: #323347;
+  --border:          #36384b;
+  --outline:         #8c909f;
+  --outline-var:     #424754;
+
+  --primary:         #adc6ff;
+  --primary-dim:     #4d8eff;
+  --primary-soft:    rgba(173, 198, 255, 0.12);
+  --secondary:       #b1c6f9;
+  --on-surface:      #e0e0fa;
+  --on-surf-var:     #c2c6d6;
+  --green:           #45d09e;
+  --green-soft:      rgba(69, 208, 158, 0.15);
+
+  --r:    0.125rem;
+  --r-lg: 0.5rem;
+  --r-xl: 0.75rem;
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+  --font-head: Manrope, "Segoe UI", system-ui, sans-serif;
+}
+
+/* ── Base ───────────────────────────────────────────────────── */
+body {
+  background: var(--bg);
+  color: var(--on-surface);
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.5;
+  min-height: 100vh;
+  padding: 32px 24px;
+}
+
+/* ── Layout container ───────────────────────────────────────── */
+.options-container {
+  max-width: 560px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* ── Header ─────────────────────────────────────────────────── */
+.options-header {
+  margin-bottom: 4px;
+}
+
+.options-title {
+  font-family: var(--font-head);
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--primary);
+  letter-spacing: -0.02em;
+  margin-bottom: 4px;
+}
+
+.options-subtitle {
+  font-size: 13px;
+  color: var(--on-surf-var);
+}
+
+/* ── Search bar ─────────────────────────────────────────────── */
+#country-search {
+  width: 100%;
+  background: var(--surface-high);
+  border: 1px solid var(--outline-var);
+  border-radius: var(--r-lg);
+  color: var(--on-surface);
+  font-size: 14px;
+  font-family: var(--font-body);
+  padding: 10px 14px;
+  outline: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+  flex-shrink: 0;
+}
+#country-search::placeholder { color: var(--outline); }
+#country-search:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px var(--primary-soft);
+}
+
+/* ── Country list container ─────────────────────────────────── */
+#country-list-container {
+  background: var(--surface-low);
+  border: 1px solid var(--border);
+  border-radius: var(--r-xl);
+  max-height: 400px;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) transparent;
+  padding: 8px 0;
+}
+#country-list-container::-webkit-scrollbar { width: 4px; }
+#country-list-container::-webkit-scrollbar-track { background: transparent; }
+#country-list-container::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+
+/* ── Country item (checkbox row) ────────────────────────────── */
+.country-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 16px;
+  transition: background 0.1s;
+  cursor: pointer;
+}
+.country-item:hover { background: var(--surface-mid); }
+
+.country-item input[type="checkbox"] {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  accent-color: var(--primary);
+  cursor: pointer;
+}
+
+.country-item label {
+  font-size: 13px;
+  color: var(--on-surface);
+  cursor: pointer;
+  flex: 1;
+  user-select: none;
+}
+
+/* ── No-data message ────────────────────────────────────────── */
+.no-data {
+  padding: 24px 16px;
+  text-align: center;
+  font-size: 13px;
+  color: var(--outline);
+}
+
+/* ── Footer buttons ─────────────────────────────────────────── */
+.options-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.footer-actions-left {
+  display: flex;
+  gap: 8px;
+}
+
+.btn-secondary {
+  background: var(--surface-high);
+  border: 1px solid var(--outline-var);
+  border-radius: var(--r-lg);
+  color: var(--on-surf-var);
+  cursor: pointer;
+  font-size: 13px;
+  font-family: var(--font-body);
+  padding: 8px 14px;
+  transition: background 0.15s, color 0.15s;
+}
+.btn-secondary:hover { background: var(--surface-highest); color: var(--on-surface); }
+
+.btn-primary {
+  background: var(--primary-soft);
+  border: 1px solid var(--primary);
+  border-radius: var(--r-lg);
+  color: var(--primary);
+  cursor: pointer;
+  font-size: 13px;
+  font-family: var(--font-body);
+  font-weight: 600;
+  padding: 8px 20px;
+  transition: background 0.15s, color 0.15s;
+}
+.btn-primary:hover { background: rgba(173, 198, 255, 0.2); }
+
+.btn-primary.btn-saved {
+  background: var(--green-soft);
+  border-color: var(--green);
+  color: var(--green);
+}
