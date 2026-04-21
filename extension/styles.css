@@ -203,6 +203,20 @@ body {
 
 .filter-btn { color: var(--outline); }
 
+/* ── Pin bar ────────────────────────────────────────────────── */
+.pin-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 0 16px 6px;
+  flex-shrink: 0;
+  color: var(--primary);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
 /* ── Filter bar ─────────────────────────────────────────────── */
 .filter-bar {
   padding: 0 16px 8px;
@@ -408,6 +422,20 @@ body {
   text-align: center;
   opacity: 0.8;
   z-index: 40;
+}
+
+.footer.stale-data-warning {
+  color: var(--error);
+  font-weight: 600;
+  opacity: 1;
+  background: rgba(255, 95, 95, 0.08);
+  border-top-color: rgba(255, 95, 95, 0.3);
+  animation: stale-pulse 2s ease-in-out infinite;
+}
+
+@keyframes stale-pulse {
+  0%, 100% { background: rgba(255, 95, 95, 0.08); }
+  50%       { background: rgba(255, 95, 95, 0.16); }
 }
 
 /* ── Bottom Navigation ──────────────────────────────────────── */

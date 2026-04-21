@@ -4,8 +4,9 @@
 const DATA_URL =
   "https://raw.githubusercontent.com/Mogzauri14/Exp_KS2025/main/elections.json";
 
-const CACHE_KEY = "elections_cache";
-const CACHE_TTL = 30 * 60 * 1000; // 30 minutes
+const CACHE_KEY            = "elections_cache";
+const CACHE_TTL            = 30 * 60 * 1000; // 30 minutes
+const PINNED_COUNTRIES_KEY = "pinned_countries";
 
 // ── DOM refs ──────────────────────────────────────────────────
 const $ = (id) => document.getElementById(id);
@@ -32,14 +33,17 @@ const listTitle      = $("listTitle");
 const tabUpcoming    = $("tabUpcoming");
 const tabResults     = $("tabResults");
 const tabAll         = $("tabAll");
+const pinBar         = $("pinBar");
+const pinBarText     = $("pinBarText");
 
 // ── State ─────────────────────────────────────────────────────
 let monthsData   = {};   // { "YYYY-MM": [...elections] }
 let currentMonth = "";   // "YYYY-MM" currently displayed
 let serverCurrentMonth = ""; // what the scraper considers "now"
 let availableMonths = []; // sorted list of month keys in the data
-let activeTab    = "all"; // "upcoming" | "held" | "all"
-let filterQuery  = "";
+let activeTab        = "all"; // "upcoming" | "held" | "all"
+let filterQuery      = "";
+let pinnedCountries  = [];  // countries to show exclusively (empty = show all)
 
 // ── Helpers ───────────────────────────────────────────────────
 function show(el) { el.classList.remove("hidden"); }
@@ -168,6 +172,16 @@ function renderCurrentMonth() {
     );
   }
 
+  // Apply pin filter — if any countries are pinned, show only those
+  if (pinnedCountries.length > 0) {
+    filtered = filtered.filter(e => pinnedCountries.includes(e.country));
+    show(pinBar);
+    const n = pinnedCountries.length;
+    pinBarText.textContent = `Pinned view · ${n} ${n === 1 ? "country" : "countries"}`;
+  } else {
+    hide(pinBar);
+  }
+
   // Apply search query
   if (filterQuery) {
     const q = filterQuery.toLowerCase();
@@ -234,6 +248,14 @@ function renderCurrentMonth() {
 }
 
 // ── Data loading ──────────────────────────────────────────────
+function loadPinnedCountries() {
+  return new Promise(resolve => {
+    chrome.storage.local.get(PINNED_COUNTRIES_KEY, result => {
+      resolve(result[PINNED_COUNTRIES_KEY] || []);
+    });
+  });
+}
+
 async function loadFromCache() {
   return new Promise((resolve) => {
     chrome.storage.local.get(CACHE_KEY, (result) => {
@@ -269,13 +291,24 @@ function applyDataToUI(json, isStale = false) {
     currentMonth = serverCurrentMonth;
   }
 
-  const genAt = json.generated_at
-    ? new Date(json.generated_at).toLocaleString("en-US", {
+  const lastUpdated = json.generated_at ? new Date(json.generated_at) : null;
+  const genAt = lastUpdated
+    ? lastUpdated.toLocaleString("en-US", {
         month: "short", day: "numeric",
         hour: "2-digit", minute: "2-digit",
       })
     : "unknown";
-  footerEl.textContent = `Updated ${genAt}${isStale ? " · cached" : ""}`;
+
+  const STALE_THRESHOLD = 48 * 60 * 60 * 1000;
+  const isDataStale = lastUpdated && (Date.now() - lastUpdated > STALE_THRESHOLD);
+
+  if (isDataStale) {
+    footerEl.classList.add("stale-data-warning");
+    footerEl.textContent = `⚠️ WARNING: Stale Data. Last Updated: ${genAt}${isStale ? " · cached" : ""}`;
+  } else {
+    footerEl.classList.remove("stale-data-warning");
+    footerEl.textContent = `Updated ${genAt}${isStale ? " · cached" : ""}`;
+  }
 
   if (json.errors && json.errors.length > 0) {
     console.warn("Scraper reported errors:", json.errors);
@@ -285,6 +318,7 @@ function applyDataToUI(json, isStale = false) {
 }
 
 async function fetchData(forceRefresh = false) {
+  pinnedCountries = await loadPinnedCountries();
   show(stateLoading);
   hide(stateError);
   hide(stateEmpty);

@@ -132,6 +132,47 @@ body {
   user-select: none;
 }
 
+/* ── Pin button ─────────────────────────────────────────────── */
+.pin-btn {
+  flex-shrink: 0;
+  margin-left: auto;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--outline);
+  display: flex;
+  align-items: center;
+  padding: 3px;
+  border-radius: var(--r);
+  transition: color 0.15s, opacity 0.15s;
+  opacity: 0;
+}
+.country-item:hover .pin-btn,
+.pin-btn.active { opacity: 1; }
+.pin-btn:hover  { color: var(--primary); }
+.pin-btn.active { color: var(--primary); }
+.pin-btn.active svg { fill: var(--primary); }
+
+/* ── Pinned row highlight ───────────────────────────────────── */
+.country-item.pinned {
+  background: var(--primary-soft);
+  border-left: 2px solid var(--primary);
+  padding-left: 14px;
+}
+.country-item.pinned label { color: var(--primary); font-weight: 600; }
+
+/* ── Pin summary banner ─────────────────────────────────────── */
+.pin-summary {
+  font-size: 12px;
+  color: var(--outline);
+  padding: 6px 0 2px;
+  transition: color 0.2s;
+}
+.pin-summary.active {
+  color: var(--primary);
+  font-weight: 600;
+}
+
 /* ── No-data message ────────────────────────────────────────── */
 .no-data {
   padding: 24px 16px;
