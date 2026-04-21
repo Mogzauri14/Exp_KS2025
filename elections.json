@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T14:39:43Z",
+  "generated_at": "2026-04-21T01:50:56Z",
   "current_month": "2026-04",
   "months": {
     "2026-03": [
@@ -58,24 +58,6 @@
         ]
       },
       {
-        "date": "2026-03-09",
-        "country": "Nepal",
-        "type": "National Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/NP/NP-UC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/NP/NP-UC01/elections/elections"
-          }
-        ]
-      },
-      {
         "date": "2026-03-10",
         "country": "United States",
         "type": "Georgia 14th congressional district , special election (1st round) 53rd Senate district , special election (1st round) 94th House of Representatives district , special election (1st round) 130th House of Representatives district , special election (1st round) New Hampshire , House of Representatives Carroll 7 district, special election",
@@ -90,78 +72,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-11",
-        "country": "Chile",
-        "type": "Chamber of Deputies",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/CL/CL-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/CL/CL-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-11",
-        "country": "Chile",
-        "type": "Senate",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/CL/CL-UC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/CL/CL-UC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-12",
-        "country": "Bangladesh",
-        "type": "Parliament",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/BD/BD-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/BD/BD-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-14",
-        "country": "Thailand",
-        "type": "House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/TH/TH-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/TH/TH-LC01/elections/elections"
           }
         ]
       },
@@ -275,24 +185,6 @@
       },
       {
         "date": "2026-03-22",
-        "country": "North Korea",
-        "type": "Supreme People's Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/KP/KP-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/KP/KP-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-22",
         "country": "France",
         "type": "Municipal Councils (2nd round) Metropolis of Lyon , Metropolitan Council (2nd round) Lyon , Municipal Council (2nd round) Marseille , Municipal Council (2nd round) Nice , Municipal Council (2nd round) Paris , Council (2nd round) Toulouse , Municipal Council (2nd round) Germany , Rhineland-Palatinate , Landtag Bolivia , regional elections (1st round) [ es ]",
         "status": "Held",
@@ -306,24 +198,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_France"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-23",
-        "country": "Laos",
-        "type": "National Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/LA/LA-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/LA/LA-LC01/elections/elections"
           }
         ]
       },
@@ -456,24 +330,6 @@
         ]
       },
       {
-        "date": "2026-04-02",
-        "country": "Nepal",
-        "type": "House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/NP/NP-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/NP/NP-LC01/elections/elections"
-          }
-        ]
-      },
-      {
         "date": "2026-04-04",
         "country": "Maldives",
         "type": "Referendum",
@@ -528,24 +384,6 @@
         ]
       },
       {
-        "date": "2026-04-06",
-        "country": "Vietnam",
-        "type": "National Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/VN/VN-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/VN/VN-LC01/elections/elections"
-          }
-        ]
-      },
-      {
         "date": "2026-04-07",
         "country": "United States",
         "type": "Alaska , Anchorage , municipal elections Georgia 14th congressional district , special election (2nd round) 53rd Senate district , special election (2nd round) 94th House of Representatives district , special election (2nd round) 130th House of Representatives district , special election (2nd round) Wisconsin , Supreme Court",
@@ -596,42 +434,6 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5061/"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-10",
-        "country": "Denmark",
-        "type": "The Danish Parliament",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/DK/DK-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/DK/DK-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-10",
-        "country": "Slovenia",
-        "type": "National Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/SI/SI-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/SI/SI-LC01/elections/elections"
           }
         ]
       },
@@ -765,7 +567,7 @@
         "date": "2026-04-21",
         "country": "United States",
         "type": "Virginia , ballot measure",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -841,24 +643,6 @@
       }
     ],
     "2026-05": [
-      {
-        "date": "2026-05-01",
-        "country": "Costa Rica",
-        "type": "Legislative Assembly",
-        "status": "Upcoming",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/CR/CR-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/CR/CR-LC01/elections/elections"
-          }
-        ]
-      },
       {
         "date": "2026-05-01",
         "country": "Samoa",
@@ -1072,24 +856,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-13",
-        "country": "Uganda",
-        "type": "Parliament",
-        "status": "Upcoming",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/UG/UG-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/UG/UG-LC01/elections/elections"
           }
         ]
       },
