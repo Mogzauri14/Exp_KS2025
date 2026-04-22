@@ -20,6 +20,9 @@
     "page": "options.html",
     "open_in_tab": true
   },
+  "background": {
+    "service_worker": "background.js"
+  },
   "permissions": ["storage"],
   "host_permissions": [
     "https://raw.githubusercontent.com/*"

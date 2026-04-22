@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Global Elections Calendar — How to Use</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:              #101223;
+      --surface-low:     #181a2c;
+      --surface-mid:     #1c1e30;
+      --surface-high:    #27293b;
+      --surface-highest: #323347;
+      --border:          #36384b;
+      --outline:         #8c909f;
+      --outline-var:     #424754;
+      --primary:         #adc6ff;
+      --primary-soft:    rgba(173, 198, 255, 0.12);
+      --secondary:       #b1c6f9;
+      --secondary-cont:  #304671;
+      --on-surface:      #e0e0fa;
+      --on-surf-var:     #c2c6d6;
+      --green:           #45d09e;
+      --green-soft:      rgba(69, 208, 158, 0.15);
+      --orange:          #ffa500;
+      --orange-soft:     rgba(255, 165, 0, 0.15);
+      --error:           #ff5f5f;
+      --red-soft:        rgba(255, 95, 95, 0.15);
+      --gray-soft:       rgba(124, 132, 168, 0.15);
+      --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+      --font-head: Manrope, "Segoe UI", system-ui, sans-serif;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--on-surface);
+      font-family: var(--font-body);
+      font-size: 15px;
+      line-height: 1.65;
+      padding: 48px 24px 80px;
+    }
+
+    .page {
+      max-width: 680px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 40px;
+    }
+
+    /* ── Hero ── */
+    .hero {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .hero-eyebrow {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--outline);
+    }
+
+    .hero-title {
+      font-family: var(--font-head);
+      font-size: 34px;
+      font-weight: 800;
+      color: var(--primary);
+      letter-spacing: -0.02em;
+      line-height: 1.15;
+    }
+
+    .hero-sub {
+      font-size: 15px;
+      color: var(--on-surf-var);
+      max-width: 540px;
+    }
+
+    /* ── Section ── */
+    section {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .section-title {
+      font-family: var(--font-head);
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--outline);
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 8px;
+    }
+
+    /* ── Feature cards ── */
+    .feature-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 12px;
+    }
+
+    .feature-card {
+      background: var(--surface-low);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .feature-card-head {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .feature-icon {
+      width: 34px;
+      height: 34px;
+      background: var(--primary-soft);
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      color: var(--primary);
+    }
+
+    .feature-label {
+      font-family: var(--font-head);
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--on-surface);
+    }
+
+    .feature-desc {
+      font-size: 13px;
+      color: var(--on-surf-var);
+      line-height: 1.55;
+    }
+
+    /* ── Step list ── */
+    .steps {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .step {
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+    }
+
+    .step-num {
+      flex-shrink: 0;
+      width: 28px;
+      height: 28px;
+      background: var(--secondary-cont);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-head);
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--primary);
+      margin-top: 2px;
+    }
+
+    .step-body { flex: 1; }
+
+    .step-title {
+      font-family: var(--font-head);
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--on-surface);
+      margin-bottom: 2px;
+    }
+
+    .step-desc {
+      font-size: 13px;
+      color: var(--on-surf-var);
+    }
+
+    /* ── Status chips (demo) ── */
+    .chip-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .chip {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border-radius: 999px;
+      padding: 4px 10px;
+    }
+
+    .chip-upcoming  { background: var(--green-soft);  color: var(--green); }
+    .chip-held      { background: var(--gray-soft);   color: var(--on-surf-var); }
+    .chip-postponed { background: var(--orange-soft); color: var(--orange); }
+    .chip-cancelled { background: var(--red-soft);    color: var(--error); }
+    .chip-disputed  { background: var(--red-soft);    color: var(--error); }
+
+    .chip-desc {
+      font-size: 13px;
+      color: var(--on-surf-var);
+    }
+
+    .chip-table {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .chip-row-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    /* ── Source badge strip ── */
+    .source-strip {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .source-badge {
+      background: var(--surface-high);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 6px 12px;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--on-surf-var);
+    }
+
+    /* ── Tip box ── */
+    .tip {
+      background: var(--primary-soft);
+      border: 1px solid rgba(173, 198, 255, 0.25);
+      border-radius: 10px;
+      padding: 14px 18px;
+      font-size: 13px;
+      color: var(--on-surf-var);
+      line-height: 1.6;
+    }
+
+    .tip strong { color: var(--primary); }
+
+    /* ── Mock card preview ── */
+    .mock-card {
+      background: var(--surface-low);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px;
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      max-width: 380px;
+    }
+
+    .mock-badge {
+      flex-shrink: 0;
+      width: 46px;
+      height: 54px;
+      background: var(--secondary-cont);
+      border-radius: 6px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 2px;
+    }
+
+    .mock-badge .day {
+      font-family: var(--font-head);
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .mock-badge .mon {
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: var(--on-surf-var);
+      letter-spacing: 0.05em;
+    }
+
+    .mock-info { flex: 1; }
+
+    .mock-country {
+      font-family: var(--font-head);
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--on-surface);
+      margin-bottom: 2px;
+    }
+
+    .mock-type {
+      font-size: 11px;
+      color: var(--on-surf-var);
+      margin-bottom: 6px;
+    }
+
+    .mock-chips { display: flex; gap: 6px; flex-wrap: wrap; }
+
+    .chip-source {
+      background: var(--surface-highest);
+      color: var(--on-surf-var);
+      font-size: 9px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border-radius: 999px;
+      padding: 2px 7px;
+    }
+
+    /* ── Settings layout preview ── */
+    .settings-preview {
+      background: var(--surface-low);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    .settings-preview-header {
+      padding: 14px 18px;
+      border-bottom: 1px solid var(--border);
+      font-family: var(--font-head);
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--outline);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    .settings-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 18px;
+      border-bottom: 1px solid rgba(54,56,75,0.5);
+      font-size: 13px;
+      color: var(--on-surface);
+    }
+
+    .settings-row:last-child { border-bottom: none; }
+
+    .settings-row input[type="checkbox"] {
+      accent-color: var(--primary);
+      width: 15px;
+      height: 15px;
+    }
+
+    .pin-indicator {
+      margin-left: auto;
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      color: var(--primary);
+      background: var(--primary-soft);
+      padding: 2px 8px;
+      border-radius: 999px;
+    }
+
+    /* ── Footer ── */
+    .page-footer {
+      text-align: center;
+      font-size: 12px;
+      color: var(--outline);
+      padding-top: 8px;
+      border-top: 1px solid var(--border);
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+
+    <!-- Hero -->
+    <div class="hero">
+      <div class="hero-eyebrow">Chrome Extension · How to Use</div>
+      <h1 class="hero-title">Global Elections Calendar</h1>
+      <p class="hero-sub">
+        A real-time calendar of elections worldwide, fused from 7 international
+        monitoring organisations. Track upcoming votes, check results, and filter
+        by country — all from your browser toolbar.
+      </p>
+    </div>
+
+    <!-- Quick start -->
+    <section>
+      <div class="section-title">Getting started</div>
+      <div class="steps">
+        <div class="step">
+          <div class="step-num">1</div>
+          <div class="step-body">
+            <div class="step-title">Click the extension icon</div>
+            <div class="step-desc">
+              The globe icon in your Chrome toolbar opens the popup. It loads
+              this month's elections automatically. Data is cached for 30 minutes
+              so it opens instantly on repeat visits.
+            </div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <div class="step-body">
+            <div class="step-title">Browse by month</div>
+            <div class="step-desc">
+              Use the <strong style="color:var(--primary)">◀ ▶</strong> arrows
+              at the top to navigate between the previous, current, and next
+              calendar month. The greyed labels beside the arrows show which
+              months are available.
+            </div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">3</div>
+          <div class="step-body">
+            <div class="step-title">Click any election card to learn more</div>
+            <div class="step-desc">
+              Tapping a card opens the primary source in a new tab. Each card
+              also shows coloured source chips — click a specific chip to open
+              that monitoring organisation's page directly.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- What you're looking at -->
+    <section>
+      <div class="section-title">Reading a card</div>
+      <p style="font-size:13px;color:var(--on-surf-var);margin-bottom:4px;">
+        Each election is shown as a card like this:
+      </p>
+      <div class="mock-card">
+        <div class="mock-badge">
+          <span class="day">19</span>
+          <span class="mon">APR</span>
+        </div>
+        <div class="mock-info">
+          <div class="mock-country">Ecuador</div>
+          <div class="mock-type">Presidential Election (Second Round)</div>
+          <div class="mock-chips">
+            <span class="chip-source">ElectionGuide</span>
+            <span class="chip-source">OSCE/ODIHR</span>
+            <span class="chip chip-upcoming">Upcoming</span>
+          </div>
+        </div>
+      </div>
+      <p style="font-size:13px;color:var(--on-surf-var);margin-top:8px;">
+        The date badge shows the day and month. The source chips list every
+        monitoring organisation that reported this election — the same event
+        from multiple sources is merged into one card automatically.
+      </p>
+    </section>
+
+    <!-- Tabs -->
+    <section>
+      <div class="section-title">Tabs: Upcoming · Results · All</div>
+      <div class="feature-grid">
+        <div class="feature-card">
+          <div class="feature-card-head">
+            <div class="feature-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                   stroke-linecap="round" stroke-linejoin="round" width="18" height="18">
+                <rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/>
+                <line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/>
+              </svg>
+            </div>
+            <div class="feature-label">Upcoming</div>
+          </div>
+          <div class="feature-desc">
+            Shows only elections that have not yet taken place — status is
+            <span class="chip chip-upcoming" style="font-size:10px;padding:2px 7px;">Upcoming</span>
+            or Unknown.
+          </div>
+        </div>
+        <div class="feature-card">
+          <div class="feature-card-head">
+            <div class="feature-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                   stroke-linecap="round" stroke-linejoin="round" width="18" height="18">
+                <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+              </svg>
+            </div>
+            <div class="feature-label">Results</div>
+          </div>
+          <div class="feature-desc">
+            Shows only elections that have already been held. Use this to
+            quickly find completed votes and check result sources.
+          </div>
+        </div>
+        <div class="feature-card">
+          <div class="feature-card-head">
+            <div class="feature-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                   stroke-linecap="round" stroke-linejoin="round" width="18" height="18">
+                <line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/>
+                <line x1="8" y1="18" x2="21" y2="18"/>
+                <line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/>
+                <line x1="3" y1="18" x2="3.01" y2="18"/>
+              </svg>
+            </div>
+            <div class="feature-label">All</div>
+          </div>
+          <div class="feature-desc">
+            Shows every election for the selected month regardless of status.
+            Good for a complete overview of the period.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Status chips -->
+    <section>
+      <div class="section-title">Status meanings</div>
+      <div class="chip-table">
+        <div class="chip-row-item">
+          <span class="chip chip-upcoming">Upcoming</span>
+          <span class="chip-desc">Scheduled and not yet held.</span>
+        </div>
+        <div class="chip-row-item">
+          <span class="chip chip-held">Held</span>
+          <span class="chip-desc">Election took place; results may be available.</span>
+        </div>
+        <div class="chip-row-item">
+          <span class="chip chip-postponed">Postponed</span>
+          <span class="chip-desc">Originally scheduled but pushed to a later date.</span>
+        </div>
+        <div class="chip-row-item">
+          <span class="chip chip-cancelled">Cancelled</span>
+          <span class="chip-desc">Called off entirely.</span>
+        </div>
+        <div class="chip-row-item">
+          <span class="chip chip-disputed">Disputed</span>
+          <span class="chip-desc">Legitimacy or results are contested.</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Filter & search -->
+    <section>
+      <div class="section-title">Filtering</div>
+      <div class="steps">
+        <div class="step">
+          <div class="step-num" style="border-radius:6px;width:28px;height:28px;">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                 stroke-linecap="round" stroke-linejoin="round" width="14" height="14">
+              <line x1="4" y1="6" x2="20" y2="6"/><line x1="8" y1="12" x2="16" y2="12"/>
+              <line x1="11" y1="18" x2="13" y2="18"/>
+            </svg>
+          </div>
+          <div class="step-body">
+            <div class="step-title">Search filter (funnel icon)</div>
+            <div class="step-desc">
+              Click the funnel icon (≡) next to "Schedule" to reveal a search box.
+              Type any part of a <strong style="color:var(--on-surface)">country name</strong>,
+              <strong style="color:var(--on-surface)">election type</strong>,
+              <strong style="color:var(--on-surface)">source</strong>, or
+              <strong style="color:var(--on-surface)">status</strong> to filter the list live.
+              Clear the box to show all results again.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Settings / pinning -->
+    <section>
+      <div class="section-title">Settings — Country filter &amp; pinning</div>
+      <p style="font-size:13px;color:var(--on-surf-var);">
+        Right-click the extension icon and choose <strong style="color:var(--on-surface)">Options</strong>
+        to open the Settings page. You can also reach it from
+        <code style="background:var(--surface-high);padding:1px 5px;border-radius:4px;font-size:12px;">
+          chrome://extensions</code> → Details → Extension options.
+      </p>
+
+      <div class="settings-preview">
+        <div class="settings-preview-header">Country Filter</div>
+        <div class="settings-row">
+          <input type="checkbox" checked disabled /> Brazil
+          <span class="pin-indicator">Pinned</span>
+        </div>
+        <div class="settings-row">
+          <input type="checkbox" checked disabled /> France
+        </div>
+        <div class="settings-row">
+          <input type="checkbox" disabled /> North Korea
+        </div>
+      </div>
+
+      <div class="steps">
+        <div class="step">
+          <div class="step-num">1</div>
+          <div class="step-body">
+            <div class="step-title">Hide countries you don't need</div>
+            <div class="step-desc">
+              Uncheck any country and click <strong style="color:var(--on-surface)">Save</strong>.
+              Unchecked countries are hidden from your feed. Use
+              <strong style="color:var(--on-surface)">Select All</strong> /
+              <strong style="color:var(--on-surface)">Clear All</strong> for bulk changes.
+              The search box at the top filters the country list as you type.
+            </div>
+          </div>
+        </div>
+        <div class="step">
+          <div class="step-num">2</div>
+          <div class="step-body">
+            <div class="step-title">Pin countries for a focused view</div>
+            <div class="step-desc">
+              Hover a country row and click the 📌 pin icon. When at least one
+              country is pinned, the popup shows <em>only</em> those countries —
+              useful if you follow a specific region. A
+              <strong style="color:var(--primary)">"Pinned view · N countries"</strong>
+              banner appears at the top of the popup when active.
+              Pins save instantly; no Save button needed.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="tip">
+        <strong>Tip:</strong> Pinning is different from unchecking. Unchecking
+        permanently hides a country. Pinning temporarily focuses only the pinned
+        countries — unpinning them restores the full view without changing your
+        checkbox selections.
+      </div>
+    </section>
+
+    <!-- Other controls -->
+    <section>
+      <div class="section-title">Other controls</div>
+      <div class="feature-grid">
+        <div class="feature-card">
+          <div class="feature-card-head">
+            <div class="feature-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                   stroke-linecap="round" stroke-linejoin="round" width="18" height="18">
+                <path d="M23 4v6h-6"/><path d="M1 20v-6h6"/>
+                <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10"/>
+                <path d="M20.49 15a9 9 0 0 1-14.85 3.36L1 14"/>
+              </svg>
+            </div>
+            <div class="feature-label">Refresh ↻</div>
+          </div>
+          <div class="feature-desc">
+            Forces a fresh fetch from the data source, bypassing the 30-minute
+            cache. Use this if you suspect the data is stale.
+          </div>
+        </div>
+        <div class="feature-card">
+          <div class="feature-card-head">
+            <div class="feature-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                   stroke-linecap="round" stroke-linejoin="round" width="18" height="18">
+                <circle cx="12" cy="12" r="10"/>
+                <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/>
+                <line x1="12" y1="17" x2="12.01" y2="17"/>
+              </svg>
+            </div>
+            <div class="feature-label">Help ?</div>
+          </div>
+          <div class="feature-desc">
+            Opens this page any time. Find it in the top-right corner of the
+            popup, next to the refresh button.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Data sources -->
+    <section>
+      <div class="section-title">Data sources</div>
+      <p style="font-size:13px;color:var(--on-surf-var);margin-bottom:8px;">
+        Elections are cross-referenced from 7 international monitoring bodies
+        and merged into single deduplicated records:
+      </p>
+      <div class="source-strip">
+        <span class="source-badge">OSCE/ODIHR</span>
+        <span class="source-badge">EEAS (EU)</span>
+        <span class="source-badge">Carter Center</span>
+        <span class="source-badge">ElectionGuide</span>
+        <span class="source-badge">A-WEB</span>
+        <span class="source-badge">IPU</span>
+        <span class="source-badge">Wikipedia</span>
+      </div>
+      <div class="tip" style="margin-top:4px;">
+        <strong>Stale data warning:</strong> If the footer turns red and shows
+        "⚠️ WARNING: Stale Data", the underlying data file is more than 48 hours
+        old. The data is still usable but may not reflect very recent
+        announcements.
+      </div>
+    </section>
+
+    <div class="page-footer">
+      Global Elections Calendar · Chrome Extension
+    </div>
+
+  </div>
+</body>
+</html>

@@ -19,6 +19,7 @@ const errorMsgEl     = $("errorMsg");
 const searchInput    = $("searchInput");
 const filterBar      = $("filterBar");
 const refreshBtn     = $("refreshBtn");
+const helpBtn        = $("helpBtn");
 const retryBtn       = $("retryBtn");
 const filterToggle   = $("filterToggle");
 const prevMonthBtn   = $("prevMonthBtn");
@@ -354,6 +355,7 @@ async function fetchData(forceRefresh = false) {
 
 // ── Event listeners ───────────────────────────────────────────
 refreshBtn.addEventListener("click", () => fetchData(true));
+helpBtn.addEventListener("click", () => chrome.tabs.create({ url: chrome.runtime.getURL("help.html") }));
 retryBtn.addEventListener("click",   () => fetchData(true));
 
 filterToggle.addEventListener("click", () => {
