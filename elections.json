@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T01:49:53Z",
+  "generated_at": "2026-04-23T01:53:23Z",
   "current_month": "2026-04",
   "months": {
     "2026-03": [
@@ -585,7 +585,7 @@
         "date": "2026-04-23",
         "country": "India",
         "type": "Tamil Nadu , Legislative Assembly West Bengal , Legislative Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -928,6 +928,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-22",
+        "country": "Ireland",
+        "type": "Dublin Central , Dáil by-election Galway West , Dáil by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_the_Republic_of_Ireland"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_Republic_of_Ireland"
           }
         ]
       },
