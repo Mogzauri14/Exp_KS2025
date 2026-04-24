@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T01:53:23Z",
+  "generated_at": "2026-04-24T01:53:35Z",
   "current_month": "2026-04",
   "months": {
     "2026-03": [
@@ -439,6 +439,24 @@
       },
       {
         "date": "2026-04-12",
+        "country": "Peru",
+        "type": "Peruvian Senate",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5155/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5155/"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-12",
         "country": "Hungary",
         "type": "Hungarian National Assembly",
         "status": "Held",
@@ -452,24 +470,6 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5062/"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-12",
-        "country": "Peru",
-        "type": "Peruvian Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5057/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5057/"
           }
         ]
       },
@@ -584,7 +584,7 @@
       {
         "date": "2026-04-23",
         "country": "India",
-        "type": "Tamil Nadu , Legislative Assembly West Bengal , Legislative Assembly",
+        "type": "Tamil Nadu , Legislative Assembly",
         "status": "Held",
         "source_names": [
           "Wikipedia"
