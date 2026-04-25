@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T01:53:35Z",
+  "generated_at": "2026-04-25T01:44:52Z",
   "current_month": "2026-04",
   "months": {
     "2026-03": [
@@ -603,7 +603,7 @@
         "date": "2026-04-25",
         "country": "Palestine",
         "type": "2026 Local elections",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "A-WEB",
           "Wikipedia"
