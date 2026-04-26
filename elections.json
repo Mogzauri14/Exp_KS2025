@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T01:44:52Z",
+  "generated_at": "2026-04-26T01:56:53Z",
   "current_month": "2026-04",
   "months": {
     "2026-03": [
@@ -602,21 +602,15 @@
       {
         "date": "2026-04-25",
         "country": "Palestine",
-        "type": "2026 Local elections",
+        "type": "local elections",
         "status": "Held",
         "source_names": [
-          "A-WEB",
           "Wikipedia"
         ],
         "links": [
-          "https://www.elections.ps/tabid/1301/language/en-US/Default.aspx",
           "https://en.wikipedia.org/wiki/Elections_in_Palestine"
         ],
         "sources": [
-          {
-            "name": "A-WEB",
-            "link": "https://www.elections.ps/tabid/1301/language/en-US/Default.aspx"
-          },
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Palestine"
