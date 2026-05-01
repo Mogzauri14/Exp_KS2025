@@ -1,460 +1,8 @@
 {
-  "generated_at": "2026-04-30T02:07:47Z",
-  "current_month": "2026-04",
+  "generated_at": "2026-05-01T02:12:04Z",
+  "current_month": "2026-05",
   "months": {
-    "2026-03": [
-      {
-        "date": "2026-03-03",
-        "country": "United States",
-        "type": "Arkansas 26th Senate district, special election 70th House of Representatives district, special election Massachusetts , Senate's 1st Middlesex district , special election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-07",
-        "country": "Australia",
-        "type": "Northern Territory , Nightcliff by-election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Australia"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-08",
-        "country": "Germany",
-        "type": "Bavaria , local elections Baden-Württemberg , Landtag Switzerland Nidwalden , Landrat [ de ] Obwalden , Kantonsrat [ de ] Japan , Ishikawa Prefecture , Governor",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Germany"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Germany"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-09",
-        "country": "Nepal",
-        "type": "National Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/NP/NP-UC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/NP/NP-UC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-10",
-        "country": "United States",
-        "type": "Georgia 14th congressional district , special election (1st round) 53rd Senate district , special election (1st round) 94th House of Representatives district , special election (1st round) 130th House of Representatives district , special election (1st round) New Hampshire , House of Representatives Carroll 7 district, special election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-11",
-        "country": "Chile",
-        "type": "Chamber of Deputies",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/CL/CL-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/CL/CL-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-11",
-        "country": "Chile",
-        "type": "Senate",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/CL/CL-UC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/CL/CL-UC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-12",
-        "country": "Bangladesh",
-        "type": "Parliament",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/BD/BD-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/BD/BD-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-14",
-        "country": "Thailand",
-        "type": "House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/TH/TH-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/TH/TH-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-14",
-        "country": "Philippines",
-        "type": "Antipolo , 2nd congressional district , special election United States , Louisiana 3rd Senate district , special election (2nd round) 69th House of Representatives district , special election 100th House of Representatives district, special election (2nd round)",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_Philippines"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_Philippines"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-15",
-        "country": "France",
-        "type": "Municipal Councils (1st round) Metropolis of Lyon , Metropolitan Council (1st round) Lyon , Municipal Council (1st round) Marseille , Municipal Council (1st round) Nice , Municipal Council (1st round) Paris , Council (1st round) Toulouse , Municipal Council (1st round) Germany , Hesse , local elections [ de ] Spain , Castile and León , Cortes",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_France"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_France"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-16",
-        "country": "Antigua and Barbuda",
-        "type": "St. Philip's North , House of Representatives by-election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Antigua_and_Barbuda"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Antigua_and_Barbuda"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-17",
-        "country": "United States",
-        "type": "Pennsylvania 79th House of Representatives district , special election 193rd House of Representatives district , special election Virginia , 98th House of Delegates district , special election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-18",
-        "country": "Netherlands",
-        "type": "municipal elections The Hague , municipal election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Netherlands"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Netherlands"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-21",
-        "country": "Australia",
-        "type": "South Australia , House of Assembly and Legislative Council , First Nations Voice",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Australia"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-22",
-        "country": "North Korea",
-        "type": "Supreme People's Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/KP/KP-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/KP/KP-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-22",
-        "country": "France",
-        "type": "Municipal Councils (2nd round) Metropolis of Lyon , Metropolitan Council (2nd round) Lyon , Municipal Council (2nd round) Marseille , Municipal Council (2nd round) Nice , Municipal Council (2nd round) Paris , Council (2nd round) Toulouse , Municipal Council (2nd round) Germany , Rhineland-Palatinate , Landtag Bolivia , regional elections (1st round) [ es ]",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_France"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_France"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-23",
-        "country": "Laos",
-        "type": "National Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/LA/LA-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/LA/LA-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-24",
-        "country": "United States",
-        "type": "Florida 14th Senate district , special election 51st House of Representatives district , special election 87th House of Representatives district , special election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-26",
-        "country": "Faroe Islands",
-        "type": "Faroese Parliament",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5111/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5111/"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-29",
-        "country": "Serbia",
-        "type": "local elections [ 3 ] Switzerland , Bern , Grosser Rat [ de ]",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Serbia"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Serbia"
-          }
-        ]
-      },
-      {
-        "date": "2026-03-31",
-        "country": "United States",
-        "type": "Massachusetts , House of Representatives 5th Essex District , special election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      }
-    ],
     "2026-04": [
-      {
-        "date": "2026-04-01",
-        "country": "Colombia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-colombia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-01",
-        "country": "Peru",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-peru-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-01",
-        "country": "Bangladesh",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-bangladesh-2026"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
-          }
-        ]
-      },
       {
         "date": "2026-04-02",
         "country": "Nepal",
@@ -857,7 +405,7 @@
         "date": "2026-05-01",
         "country": "Costa Rica",
         "type": "Legislative Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "IPU"
         ],
@@ -875,7 +423,7 @@
         "date": "2026-05-01",
         "country": "Samoa",
         "type": "Vaimauga 3, Legislative Assembly by-election [ 4 ]",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -886,6 +434,60 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Samoa"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-01",
+        "country": "Colombia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-colombia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-01",
+        "country": "Peru",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-peru-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-01",
+        "country": "Bangladesh",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-bangladesh-2026"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
           }
         ]
       },
@@ -1264,6 +866,122 @@
           {
             "name": "A-WEB",
             "link": "https://www.as-coa.org/articles/voter-concerns-and-intentions-one-year-colombias-2026-elections"
+          }
+        ]
+      }
+    ],
+    "2026-06": [
+      {
+        "date": "2026-06-01",
+        "country": "Ethiopia",
+        "type": "2026 General Election",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://reurl.cc/lag60j"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://reurl.cc/lag60j"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-02",
+        "country": "United States",
+        "type": "California [ 7 ] California , 1st congressional district , special election Los Angeles , Mayor , City Attorney, City Controller, and City Council Los Angeles County , Board of Supervisors and Sheriff",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-03",
+        "country": "South Korea",
+        "type": "2026 Nationwide Simultaneous Local Elections",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB",
+          "Wikipedia"
+        ],
+        "links": [
+          "https://focustaiwan.tw/politics/202510310018",
+          "https://en.wikipedia.org/wiki/Elections_in_South_Korea"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://focustaiwan.tw/politics/202510310018"
+          },
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_South_Korea"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-07",
+        "country": "Armenia",
+        "type": "2026 Parliamentary Election",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://www.1lurer.am/en/2025/06/07/Next-Parliamentary-elections-will-be-held-on-June-7-2026-Alen-Simonyan/1326754"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://www.1lurer.am/en/2025/06/07/Next-Parliamentary-elections-will-be-held-on-June-7-2026-Alen-Simonyan/1326754"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-07",
+        "country": "Pakistan",
+        "type": "Gilgit-Baltistan , Legislative Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Pakistan"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Pakistan"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-16",
+        "country": "United States",
+        "type": "Oklahoma , ballot measure California , 14th congressional district , special election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
           }
         ]
       }
