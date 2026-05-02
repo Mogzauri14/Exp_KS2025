@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T02:12:04Z",
+  "generated_at": "2026-05-02T01:59:14Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -186,36 +186,18 @@
       {
         "date": "2026-04-12",
         "country": "Peru",
-        "type": "Peruvian Senate",
+        "type": "Peruvian Chamber of Deputies",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5155/"
+          "https://www.electionguide.org/elections/id/5058/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5155/"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-12",
-        "country": "Hungary",
-        "type": "Hungarian National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5062/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5062/"
+            "link": "https://www.electionguide.org/elections/id/5058/"
           }
         ]
       },
@@ -234,6 +216,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5056/"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-12",
+        "country": "Hungary",
+        "type": "Hungarian National Assembly",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5062/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5062/"
           }
         ]
       },
@@ -495,7 +495,7 @@
         "date": "2026-05-02",
         "country": "Niue",
         "type": "Niuean Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -512,8 +512,8 @@
       {
         "date": "2026-05-02",
         "country": "Australia",
-        "type": "Tasmania , Legislative Council Victoria , Nepean, Legislative Assembly by-election United States , Texas , 4th Senate district , special election",
-        "status": "Upcoming",
+        "type": "Tasmania , Legislative Council Victoria , Nepean , Legislative Assembly by-election United States , Texas , 4th Senate district , special election",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -547,24 +547,6 @@
       },
       {
         "date": "2026-05-07",
-        "country": "Scotland (part of the United Kingdom)",
-        "type": "Scottish Parliament",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5064/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5064/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-07",
         "country": "Wales (part of the United Kingdom)",
         "type": "Welsh National Assembly",
         "status": "Upcoming",
@@ -578,6 +560,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5065/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-07",
+        "country": "Scotland (part of the United Kingdom)",
+        "type": "Scottish Parliament",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5064/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5064/"
           }
         ]
       },
@@ -830,6 +830,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5067/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-30",
+        "country": "Malta",
+        "type": "Maltese House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5161/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5161/"
           }
         ]
       },
