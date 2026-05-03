@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T01:59:14Z",
+  "generated_at": "2026-05-03T02:03:33Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -1000,6 +1000,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-28",
+        "country": "Austria",
+        "type": "Graz , Gemeinderat",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Austria"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Austria"
           }
         ]
       }
