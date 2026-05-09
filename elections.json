@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T02:12:21Z",
+  "generated_at": "2026-05-09T02:05:51Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -113,24 +113,6 @@
       },
       {
         "date": "2026-04-10",
-        "country": "Djibouti",
-        "type": "Djiboutian Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5061/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5061/"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-10",
         "country": "Denmark",
         "type": "The Danish Parliament",
         "status": "Held",
@@ -186,36 +168,18 @@
       {
         "date": "2026-04-12",
         "country": "Peru",
-        "type": "Peruvian Senate",
+        "type": "Peruvian Chamber of Deputies",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5155/"
+          "https://www.electionguide.org/elections/id/5058/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5155/"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-12",
-        "country": "Hungary",
-        "type": "Hungarian National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5062/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5062/"
+            "link": "https://www.electionguide.org/elections/id/5058/"
           }
         ]
       },
@@ -585,7 +549,7 @@
         "date": "2026-05-09",
         "country": "Hungary",
         "type": "National Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "IPU"
         ],
@@ -603,7 +567,7 @@
         "date": "2026-05-09",
         "country": "Australia",
         "type": "Farrer , House of Representatives by-election [ 6 ]",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -835,6 +799,42 @@
       },
       {
         "date": "2026-05-31",
+        "country": "Guinea",
+        "type": "Guinean National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5156/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5156/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-31",
+        "country": "Somaliland",
+        "type": "Somaliland House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5072/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5072/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-31",
         "country": "Colombia",
         "type": "Colombian Presidency",
         "status": "Upcoming",
@@ -868,27 +868,27 @@
             "link": "https://www.as-coa.org/articles/voter-concerns-and-intentions-one-year-colombias-2026-elections"
           }
         ]
-      },
+      }
+    ],
+    "2026-06": [
       {
-        "date": "2026-05-31",
-        "country": "Somaliland",
-        "type": "Somaliland House of Representatives",
+        "date": "2026-06-01",
+        "country": "Ethiopia",
+        "type": "Ethiopian House of People's Representatives",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5072/"
+          "https://www.electionguide.org/elections/id/5073/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5072/"
+            "link": "https://www.electionguide.org/elections/id/5073/"
           }
         ]
-      }
-    ],
-    "2026-06": [
+      },
       {
         "date": "2026-06-01",
         "country": "Ethiopia",
