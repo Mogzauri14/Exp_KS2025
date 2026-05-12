@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T02:25:20Z",
+  "generated_at": "2026-05-12T02:10:45Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -149,6 +149,24 @@
       },
       {
         "date": "2026-04-12",
+        "country": "Peru",
+        "type": "Peruvian Senate",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5155/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5155/"
+          }
+        ]
+      },
+      {
+        "date": "2026-04-12",
         "country": "Benin",
         "type": "Beninese Presidency",
         "status": "Held",
@@ -162,24 +180,6 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5056/"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-12",
-        "country": "Peru",
-        "type": "Peruvian Chamber of Deputies",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5058/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5058/"
           }
         ]
       },
@@ -493,24 +493,6 @@
       },
       {
         "date": "2026-05-07",
-        "country": "Scotland (part of the United Kingdom)",
-        "type": "Scottish Parliament",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5064/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5064/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-07",
         "country": "Wales (part of the United Kingdom)",
         "type": "Welsh National Assembly",
         "status": "Held",
@@ -524,6 +506,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5065/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-07",
+        "country": "Scotland (part of the United Kingdom)",
+        "type": "Scottish Parliament",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5064/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5064/"
           }
         ]
       },
@@ -621,7 +621,7 @@
         "date": "2026-05-12",
         "country": "Bahamas",
         "type": "Bahaman House of Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -639,7 +639,7 @@
         "date": "2026-05-12",
         "country": "United States",
         "type": "Georgia , 177th House of Representatives district , special election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -799,24 +799,6 @@
       },
       {
         "date": "2026-05-31",
-        "country": "Guinea",
-        "type": "Guinean National Assembly",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5156/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5156/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-31",
         "country": "Somaliland",
         "type": "Somaliland House of Representatives",
         "status": "Upcoming",
@@ -830,6 +812,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5072/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-31",
+        "country": "Guinea",
+        "type": "Guinean National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5156/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5156/"
           }
         ]
       },
@@ -946,6 +946,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_South_Korea"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-07",
+        "country": "Kosovo",
+        "type": "Kosovar Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5162/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5162/"
           }
         ]
       },
