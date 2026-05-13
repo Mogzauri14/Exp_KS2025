@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T02:10:45Z",
+  "generated_at": "2026-05-13T02:25:51Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -78,7 +78,7 @@
       {
         "date": "2026-04-07",
         "country": "United States",
-        "type": "Alaska , Anchorage , municipal elections Georgia 14th congressional district , special election (2nd round) 53rd Senate district , special election (2nd round) 94th House of Representatives district , special election (2nd round) 130th House of Representatives district , special election (2nd round) Wisconsin , Supreme Court",
+        "type": "Alaska , Anchorage , municipal elections Georgia 14th congressional district , special election (2nd round) 53rd Senate district , special election (2nd round) 94th House of Representatives district , special election (2nd round) 130th House of Representatives district , special election (2nd round) Wisconsin Supreme Court Waukesha , Mayor",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -602,7 +602,7 @@
       {
         "date": "2026-05-11",
         "country": "Canada",
-        "type": "New Brunswick , municipal",
+        "type": "New Brunswick , municipal elections",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -638,7 +638,7 @@
       {
         "date": "2026-05-12",
         "country": "United States",
-        "type": "Georgia , 177th House of Representatives district , special election",
+        "type": "Georgia , 177th House of Representatives district , special election New Jersey , Newark , Mayor",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -657,7 +657,7 @@
         "date": "2026-05-13",
         "country": "Uganda",
         "type": "Parliament",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "IPU"
         ],
@@ -674,7 +674,7 @@
       {
         "date": "2026-05-16",
         "country": "Iceland",
-        "type": "municipal Reykjavík , City Council",
+        "type": "municipal elections Reykjavík , City Council",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
