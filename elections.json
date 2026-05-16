@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T02:26:30Z",
+  "generated_at": "2026-05-16T02:08:25Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -493,24 +493,6 @@
       },
       {
         "date": "2026-05-07",
-        "country": "Scotland (part of the United Kingdom)",
-        "type": "Scottish Parliament",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5064/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5064/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-07",
         "country": "Wales (part of the United Kingdom)",
         "type": "Welsh National Assembly",
         "status": "Held",
@@ -524,6 +506,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5065/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-07",
+        "country": "Scotland (part of the United Kingdom)",
+        "type": "Scottish Parliament",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5064/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5064/"
           }
         ]
       },
@@ -578,24 +578,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-10",
-        "country": "Lebanon",
-        "type": "Lebanese National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5069/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5069/"
           }
         ]
       },
@@ -675,7 +657,7 @@
         "date": "2026-05-16",
         "country": "Iceland",
         "type": "municipal elections Reykjavík , City Council United States , Louisiana Amendment 1 Amendment 5",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -1036,6 +1018,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-18",
+        "country": "United Kingdom",
+        "type": "Makerfield , House of Commons by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/United_Kingdom"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/United_Kingdom"
           }
         ]
       },
