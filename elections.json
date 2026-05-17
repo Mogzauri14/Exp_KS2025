@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T02:08:25Z",
+  "generated_at": "2026-05-17T02:13:13Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -656,7 +656,7 @@
       {
         "date": "2026-05-16",
         "country": "Iceland",
-        "type": "municipal elections Reykjavík , City Council United States , Louisiana Amendment 1 Amendment 5",
+        "type": "municipal elections Reykjavík , City Council United States , Louisiana Amendment 1 Amendment 5 Australia , Queensland , Stafford by-election",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -675,7 +675,7 @@
         "date": "2026-05-17",
         "country": "Cape Verde",
         "type": "Cabo Verdean National Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -693,7 +693,7 @@
         "date": "2026-05-17",
         "country": "Spain",
         "type": "Andalusia , Parliament",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -758,6 +758,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5067/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-26",
+        "country": "Punjab, India",
+        "type": "local elections",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Punjab,_India"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Punjab,_India"
           }
         ]
       },
