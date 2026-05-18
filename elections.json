@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T02:13:13Z",
+  "generated_at": "2026-05-18T02:33:46Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -655,19 +655,19 @@
       },
       {
         "date": "2026-05-16",
-        "country": "Iceland",
-        "type": "municipal elections Reykjavík , City Council United States , Louisiana Amendment 1 Amendment 5 Australia , Queensland , Stafford by-election",
+        "country": "Australia",
+        "type": "Queensland , Stafford by-election Iceland , municipal elections Reykjavík , City Council United States , Louisiana Amendment 1 Amendment 5",
         "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Iceland"
+          "https://en.wikipedia.org/wiki/Elections_in_Australia"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Iceland"
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
           }
         ]
       },
@@ -817,6 +817,24 @@
       },
       {
         "date": "2026-05-31",
+        "country": "Somaliland",
+        "type": "Somaliland House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5072/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5072/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-31",
         "country": "Colombia",
         "type": "Colombian Presidency",
         "status": "Upcoming",
@@ -848,24 +866,6 @@
           {
             "name": "A-WEB",
             "link": "https://www.as-coa.org/articles/voter-concerns-and-intentions-one-year-colombias-2026-elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-31",
-        "country": "Somaliland",
-        "type": "Somaliland House of Representatives",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5072/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5072/"
           }
         ]
       }
@@ -987,19 +987,19 @@
       },
       {
         "date": "2026-06-07",
-        "country": "Kosovo",
-        "type": "Kosovar Assembly",
+        "country": "Peru",
+        "type": "Peruvian Presidency",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5162/"
+          "https://www.electionguide.org/elections/id/5159/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5162/"
+            "link": "https://www.electionguide.org/elections/id/5159/"
           }
         ]
       },
@@ -1024,7 +1024,7 @@
       {
         "date": "2026-06-16",
         "country": "United States",
-        "type": "Oklahoma , ballot measure California , 14th congressional district , special election",
+        "type": "California , 14th congressional district , special election Oklahoma , ballot measure",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -1060,7 +1060,7 @@
       {
         "date": "2026-06-28",
         "country": "Austria",
-        "type": "Graz , Gemeinderat",
+        "type": "Graz , Gemeinderat Thailand , Bangkok , Governor , Metropolitan Council",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
