@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T02:33:46Z",
+  "generated_at": "2026-05-19T02:32:19Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -144,24 +144,6 @@
           {
             "name": "IPU",
             "link": "https://data.ipu.org/parliament/SI/SI-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-12",
-        "country": "Hungary",
-        "type": "Hungarian National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5062/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5062/"
           }
         ]
       },
@@ -619,19 +601,19 @@
       },
       {
         "date": "2026-05-12",
-        "country": "United States",
-        "type": "Georgia , 177th House of Representatives district , special election New Jersey , Newark , Mayor West Virginia , Supreme Court of Appeals",
+        "country": "New Zealand",
+        "type": "Dunedin , City Council by-election [ 7 ] United States Georgia , 177th House of Representatives district , special election (1st round) New Jersey , Newark , Mayor West Virginia , Supreme Court of Appeals",
         "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          "https://en.wikipedia.org/wiki/Elections_in_New_Zealand"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+            "link": "https://en.wikipedia.org/wiki/Elections_in_New_Zealand"
           }
         ]
       },
@@ -711,7 +693,7 @@
         "date": "2026-05-19",
         "country": "United States",
         "type": "Alabama Amendment 1 Amendment 2 Georgia 7th Senate district , special election Supreme Court Pennsylvania , 196th House of Representatives district , special election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -799,24 +781,6 @@
       },
       {
         "date": "2026-05-31",
-        "country": "Guinea",
-        "type": "Guinean National Assembly",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5156/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5156/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-31",
         "country": "Somaliland",
         "type": "Somaliland House of Representatives",
         "status": "Upcoming",
@@ -830,6 +794,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5072/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-31",
+        "country": "Guinea",
+        "type": "Guinean National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5156/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5156/"
           }
         ]
       },
@@ -910,7 +892,7 @@
       {
         "date": "2026-06-02",
         "country": "United States",
-        "type": "California [ 7 ] California , 1st congressional district , special election Los Angeles , Mayor , City Attorney, City Controller, and City Council Los Angeles County , Board of Supervisors and Sheriff",
+        "type": "California [ 8 ] California , 1st congressional district , special election Los Angeles , Mayor , City Attorney, City Controller, and City Council Los Angeles County , Board of Supervisors and Sheriff",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -935,13 +917,13 @@
           "Wikipedia"
         ],
         "links": [
-          "https://focustaiwan.tw/politics/202510310018",
+          "https://www.nec.go.kr/site/eng/ex/bbs/View.do?cbIdx=1270&bcIdx=304199",
           "https://en.wikipedia.org/wiki/Elections_in_South_Korea"
         ],
         "sources": [
           {
             "name": "A-WEB",
-            "link": "https://focustaiwan.tw/politics/202510310018"
+            "link": "https://www.nec.go.kr/site/eng/ex/bbs/View.do?cbIdx=1270&bcIdx=304199"
           },
           {
             "name": "Wikipedia",
@@ -1000,6 +982,42 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5159/"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-07",
+        "country": "Peru",
+        "type": "2026 Presidential Election (2nd Round)",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://www.infobae.com/peru/2026/05/17/jurado-nacional-de-elecciones-de-peru-proclamo-oficialmente-a-roberto-sanchez-y-keiko-fujimori-como-candidatos-que-pasan-al-balotaje/"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://www.infobae.com/peru/2026/05/17/jurado-nacional-de-elecciones-de-peru-proclamo-oficialmente-a-roberto-sanchez-y-keiko-fujimori-como-candidatos-que-pasan-al-balotaje/"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-07",
+        "country": "Kosovo",
+        "type": "Kosovar Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5162/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5162/"
           }
         ]
       },
