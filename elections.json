@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T02:32:19Z",
+  "generated_at": "2026-05-20T02:32:43Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -150,18 +150,18 @@
       {
         "date": "2026-04-12",
         "country": "Peru",
-        "type": "Peruvian Presidency",
+        "type": "Peruvian Senate",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5057/"
+          "https://www.electionguide.org/elections/id/5155/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5057/"
+            "link": "https://www.electionguide.org/elections/id/5155/"
           }
         ]
       },
@@ -686,6 +686,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Spain"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-18",
+        "country": "Antigua and Barbuda",
+        "type": "House of Representatives",
+        "status": "Held",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/AG/AG-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/AG/AG-LC01/elections/elections"
           }
         ]
       },
