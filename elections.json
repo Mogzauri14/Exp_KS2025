@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T02:33:44Z",
+  "generated_at": "2026-05-22T02:35:31Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -726,10 +726,46 @@
         ]
       },
       {
+        "date": "2026-05-20",
+        "country": "Bahamas",
+        "type": "House of Assembly",
+        "status": "Held",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/BS/BS-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/BS/BS-LC01/elections/elections"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-20",
+        "country": "Bahamas",
+        "type": "Senate",
+        "status": "Held",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/BS/BS-UC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/BS/BS-UC01/elections/elections"
+          }
+        ]
+      },
+      {
         "date": "2026-05-22",
         "country": "Ireland",
         "type": "Dublin Central , Dáil by-election Galway West , Dáil by-election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -910,7 +946,7 @@
       {
         "date": "2026-06-02",
         "country": "United States",
-        "type": "California [ 8 ] California , 1st congressional district , special election Los Angeles , Mayor , City Attorney, City Controller, and City Council Los Angeles County , Board of Supervisors and Sheriff",
+        "type": "California California , 1st congressional district , special election Los Angeles , Mayor , City Attorney, City Controller, and City Council Los Angeles County , Board of Supervisors and Sheriff",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -1058,9 +1094,27 @@
         ]
       },
       {
+        "date": "2026-06-09",
+        "country": "United States",
+        "type": "Georgia , 177th House of Representatives district , special election (2nd round) Maine , 29th House of Representatives district, special election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
         "date": "2026-06-16",
         "country": "United States",
-        "type": "California , 14th congressional district , special election Oklahoma , ballot measure",
+        "type": "California , 14th congressional district , special election District of Columbia , at-large, special election Georgia , 7th Senate district , special election (2nd round) Oklahoma , ballot measure",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -1078,18 +1132,18 @@
       {
         "date": "2026-06-18",
         "country": "United Kingdom",
-        "type": "Makerfield , House of Commons by-election",
+        "type": "Makerfield , House of Commons by-election Aberdeen South , House of Commons by-election Arbroath and Broughty Ferry , House of Commons by-election",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/United_Kingdom"
+          "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/United_Kingdom"
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
           }
         ]
       },
