@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T02:35:31Z",
+  "generated_at": "2026-05-23T02:11:49Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -727,6 +727,24 @@
       },
       {
         "date": "2026-05-20",
+        "country": "Antigua and Barbuda",
+        "type": "Senate",
+        "status": "Held",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/AG/AG-UC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/AG/AG-UC01/elections/elections"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-20",
         "country": "Bahamas",
         "type": "House of Assembly",
         "status": "Held",
@@ -946,7 +964,7 @@
       {
         "date": "2026-06-02",
         "country": "United States",
-        "type": "California California , 1st congressional district , special election Los Angeles , Mayor , City Attorney, City Controller, and City Council Los Angeles County , Board of Supervisors and Sheriff",
+        "type": "California California , 1st congressional district , special election Long Beach , Mayor Los Angeles , Mayor , City Attorney , City Controller, and City Council Los Angeles County , Board of Supervisors , Sheriff, and Assessor San Diego , City Council",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
