@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T02:11:49Z",
+  "generated_at": "2026-05-24T02:30:36Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -801,7 +801,7 @@
         "date": "2026-05-24",
         "country": "Cyprus",
         "type": "Cypriot House of Representatives",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
