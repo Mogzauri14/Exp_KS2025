@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T02:28:58Z",
+  "generated_at": "2026-05-27T02:38:16Z",
   "current_month": "2026-05",
   "months": {
     "2026-04": [
@@ -853,24 +853,6 @@
       },
       {
         "date": "2026-05-31",
-        "country": "Guinea",
-        "type": "Guinean National Assembly",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5156/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5156/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-31",
         "country": "Colombia",
         "type": "Colombian Presidency",
         "status": "Upcoming",
@@ -902,6 +884,24 @@
           {
             "name": "A-WEB",
             "link": "https://www.as-coa.org/articles/voter-concerns-and-intentions-one-year-colombias-2026-elections"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-31",
+        "country": "Guinea",
+        "type": "Guinean National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5156/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5156/"
           }
         ]
       },
@@ -985,18 +985,30 @@
         "type": "2026 Nationwide Simultaneous Local Elections",
         "status": "Upcoming",
         "source_names": [
-          "A-WEB",
-          "Wikipedia"
+          "A-WEB"
         ],
         "links": [
-          "https://www.nec.go.kr/site/eng/ex/bbs/View.do?cbIdx=1270&bcIdx=304199",
-          "https://en.wikipedia.org/wiki/Elections_in_South_Korea"
+          "https://www.nec.go.kr/site/eng/ex/bbs/View.do?cbIdx=1270&bcIdx=304199"
         ],
         "sources": [
           {
             "name": "A-WEB",
             "link": "https://www.nec.go.kr/site/eng/ex/bbs/View.do?cbIdx=1270&bcIdx=304199"
-          },
+          }
+        ]
+      },
+      {
+        "date": "2026-06-03",
+        "country": "South Korea",
+        "type": "Local elections National Assembly , 14 by-elections",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_South_Korea"
+        ],
+        "sources": [
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_South_Korea"
@@ -1198,6 +1210,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-23",
+        "country": "Canada",
+        "type": "Nova Scotia , Chéticamp-Margarees-Pleasant Bay , by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
           }
         ]
       },
