@@ -1,351 +1,7 @@
 {
-  "generated_at": "2026-05-31T02:39:53Z",
-  "current_month": "2026-05",
+  "generated_at": "2026-06-01T02:49:09Z",
+  "current_month": "2026-06",
   "months": {
-    "2026-04": [
-      {
-        "date": "2026-04-02",
-        "country": "Nepal",
-        "type": "House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/NP/NP-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/NP/NP-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-04",
-        "country": "Maldives",
-        "type": "5th Local Island Election and 2nd Women’s Development Committee’s Election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Maldives"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Maldives"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-05",
-        "country": "Japan",
-        "type": "Kyoto Prefecture , Governor",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Japan"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-06",
-        "country": "Vietnam",
-        "type": "National Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/VN/VN-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/VN/VN-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-07",
-        "country": "United States",
-        "type": "Alaska , Anchorage , municipal elections Georgia 14th congressional district , special election (2nd round) 53rd Senate district , special election (2nd round) 94th House of Representatives district , special election (2nd round) 130th House of Representatives district , special election (2nd round) Wisconsin Supreme Court Waukesha , Mayor",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-09",
-        "country": "India",
-        "type": "Assam , Legislative Assembly Kerala , Legislative Assembly Puducherry , Legislative Assembly",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_India"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_India"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-10",
-        "country": "Denmark",
-        "type": "The Danish Parliament",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/DK/DK-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/DK/DK-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-10",
-        "country": "Slovenia",
-        "type": "National Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/SI/SI-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/SI/SI-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-12",
-        "country": "Peru",
-        "type": "Peruvian Senate",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5155/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5155/"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-13",
-        "country": "Canada",
-        "type": "Scarborough Southwest : federal by-election Terrebonne : federal by-election University—Rosedale : federal by-election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Canada"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-16",
-        "country": "United States",
-        "type": "New Jersey , 11th congressional district , special election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-19",
-        "country": "Bulgaria",
-        "type": "Bulgarian National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5120/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5120/"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-19",
-        "country": "Bolivia",
-        "type": "regional elections (2nd round) [ es ]",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Bolivia"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Bolivia"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-21",
-        "country": "United States",
-        "type": "Virginia , ballot measure",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-23",
-        "country": "India",
-        "type": "Tamil Nadu , Legislative Assembly",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_India"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_India"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-25",
-        "country": "Palestine",
-        "type": "local elections",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Palestine"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Palestine"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-26",
-        "country": "India",
-        "type": "Gujarat , local elections",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_India"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_India"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-30",
-        "country": "Antigua and Barbuda",
-        "type": "Antiguan and Barbudan House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5157/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5157/"
-          }
-        ]
-      },
-      {
-        "date": "2026-04-30",
-        "country": "Bulgaria",
-        "type": "National Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/BG/BG-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/BG/BG-LC01/elections/elections"
-          }
-        ]
-      }
-    ],
     "2026-05": [
       {
         "date": "2026-05-01",
@@ -380,60 +36,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Samoa"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-01",
-        "country": "Colombia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-colombia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-01",
-        "country": "Peru",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-peru-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-01",
-        "country": "Bangladesh",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-bangladesh-2026"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
           }
         ]
       },
@@ -493,24 +95,6 @@
       },
       {
         "date": "2026-05-07",
-        "country": "Wales (part of the United Kingdom)",
-        "type": "Welsh National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5065/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5065/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-07",
         "country": "Scotland (part of the United Kingdom)",
         "type": "Scottish Parliament",
         "status": "Held",
@@ -524,6 +108,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5064/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-07",
+        "country": "Wales (part of the United Kingdom)",
+        "type": "Welsh National Assembly",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5065/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5065/"
           }
         ]
       },
@@ -578,6 +180,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-10",
+        "country": "Lebanon",
+        "type": "Lebanese National Assembly",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5069/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5069/"
           }
         ]
       },
@@ -710,7 +330,7 @@
       {
         "date": "2026-05-17",
         "country": "Spain",
-        "type": "Andalusia , Parliament",
+        "type": "Andalusia , Parliament India , Himachal Pradesh , local elections",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -889,24 +509,6 @@
       },
       {
         "date": "2026-05-31",
-        "country": "Somaliland",
-        "type": "Somaliland House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5072/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5072/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-31",
         "country": "Guinea",
         "type": "Guinean National Assembly",
         "status": "Held",
@@ -943,19 +545,19 @@
       },
       {
         "date": "2026-05-31",
-        "country": "Colombia",
-        "type": "2026 Presidential Election (first round)",
+        "country": "Japan",
+        "type": "Niigata Prefecture , Governor",
         "status": "Held",
         "source_names": [
-          "A-WEB"
+          "Wikipedia"
         ],
         "links": [
-          "https://www.as-coa.org/articles/voter-concerns-and-intentions-one-year-colombias-2026-elections"
+          "https://en.wikipedia.org/wiki/Elections_in_Japan"
         ],
         "sources": [
           {
-            "name": "A-WEB",
-            "link": "https://www.as-coa.org/articles/voter-concerns-and-intentions-one-year-colombias-2026-elections"
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
           }
         ]
       }
@@ -965,7 +567,7 @@
         "date": "2026-06-01",
         "country": "Ethiopia",
         "type": "Ethiopian House of People's Representatives",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -983,7 +585,7 @@
         "date": "2026-06-01",
         "country": "Ethiopia",
         "type": "2026 General Election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "A-WEB"
         ],
@@ -994,6 +596,60 @@
           {
             "name": "A-WEB",
             "link": "https://reurl.cc/lag60j"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-01",
+        "country": "Colombia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-colombia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-01",
+        "country": "Peru",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-peru-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-01",
+        "country": "Bangladesh",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-bangladesh-2026"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
           }
         ]
       },
@@ -1282,6 +938,98 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Austria"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-30",
+        "country": "Armenia",
+        "type": "Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5059/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5059/"
+          }
+        ]
+      }
+    ],
+    "2026-07": [
+      {
+        "date": "2026-07-02",
+        "country": "Algeria",
+        "type": "Algerian National People's Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5076/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5076/"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-20",
+        "country": "Colombia",
+        "type": "House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/CO/CO-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/CO/CO-LC01/elections/elections"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-20",
+        "country": "Colombia",
+        "type": "Senate",
+        "status": "Upcoming",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/CO/CO-UC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/CO/CO-UC01/elections/elections"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-28",
+        "country": "United States",
+        "type": "Georgia , 13th congressional district , special election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_United_States"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_United_States"
           }
         ]
       }
