@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T02:49:09Z",
+  "generated_at": "2026-06-02T02:46:18Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -41,24 +41,6 @@
       },
       {
         "date": "2026-05-02",
-        "country": "Niue",
-        "type": "Niuean Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5119/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5119/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-02",
         "country": "Australia",
         "type": "Tasmania , Legislative Council Victoria , Nepean , Legislative Assembly by-election United States , Texas , 4th Senate district , special election",
         "status": "Held",
@@ -90,24 +72,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-07",
-        "country": "Scotland (part of the United Kingdom)",
-        "type": "Scottish Parliament",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5064/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5064/"
           }
         ]
       },
@@ -509,24 +473,6 @@
       },
       {
         "date": "2026-05-31",
-        "country": "Guinea",
-        "type": "Guinean National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5156/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5156/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-31",
         "country": "Colombia",
         "type": "Colombian Presidency",
         "status": "Held",
@@ -540,6 +486,42 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5066/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-31",
+        "country": "Somaliland",
+        "type": "Somaliland House of Representatives",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5072/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5072/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-31",
+        "country": "Guinea",
+        "type": "Guinean National Assembly",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5156/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5156/"
           }
         ]
       },
@@ -578,24 +560,6 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5073/"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-01",
-        "country": "Ethiopia",
-        "type": "2026 General Election",
-        "status": "Held",
-        "source_names": [
-          "A-WEB"
-        ],
-        "links": [
-          "https://reurl.cc/lag60j"
-        ],
-        "sources": [
-          {
-            "name": "A-WEB",
-            "link": "https://reurl.cc/lag60j"
           }
         ]
       },
@@ -657,7 +621,7 @@
         "date": "2026-06-02",
         "country": "United States",
         "type": "California California , 1st congressional district , special election Long Beach , Mayor Los Angeles , Mayor , City Attorney , City Controller, and City Council Los Angeles County , Board of Supervisors , Sheriff, and Assessor",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -906,6 +870,24 @@
         ]
       },
       {
+        "date": "2026-06-21",
+        "country": "Colombia",
+        "type": "Colombian Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5195/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5195/"
+          }
+        ]
+      },
+      {
         "date": "2026-06-23",
         "country": "Canada",
         "type": "Nova Scotia , Chéticamp-Margarees-Pleasant Bay , by-election",
@@ -976,6 +958,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5076/"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-19",
+        "country": "Sao Tome and Principe",
+        "type": "Sao Tomean Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5085/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5085/"
           }
         ]
       },
