@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T02:46:18Z",
+  "generated_at": "2026-06-03T02:55:10Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -72,24 +72,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-07",
-        "country": "Wales (part of the United Kingdom)",
-        "type": "Welsh National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5065/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5065/"
           }
         ]
       },
@@ -258,7 +240,7 @@
       {
         "date": "2026-05-16",
         "country": "Australia",
-        "type": "Queensland , Stafford by-election Iceland , municipal elections Reykjavík , City Council United States , Louisiana 5 Amendments",
+        "type": "Queensland , Stafford by-election Iceland , municipal elections Reykjavík , City Council United States , Louisiana 5 amendments",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -473,24 +455,6 @@
       },
       {
         "date": "2026-05-31",
-        "country": "Colombia",
-        "type": "Colombian Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5066/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5066/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-31",
         "country": "Somaliland",
         "type": "Somaliland House of Representatives",
         "status": "Held",
@@ -522,6 +486,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5156/"
+          }
+        ]
+      },
+      {
+        "date": "2026-05-31",
+        "country": "Colombia",
+        "type": "Colombian Presidency",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5066/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5066/"
           }
         ]
       },
@@ -620,7 +602,7 @@
       {
         "date": "2026-06-02",
         "country": "United States",
-        "type": "California California , 1st congressional district , special election Long Beach , Mayor Los Angeles , Mayor , City Attorney , City Controller, and City Council Los Angeles County , Board of Supervisors , Sheriff, and Assessor",
+        "type": "California California , 1st congressional district , special election Long Beach , Mayor Los Angeles , Mayor , City Attorney , City Controller, and City Council Los Angeles County , Board of Supervisors , Sheriff, and Assessor South Dakota , Sioux Falls , Mayor",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -639,7 +621,7 @@
         "date": "2026-06-03",
         "country": "South Korea",
         "type": "2026 Nationwide Simultaneous Local Elections",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "A-WEB"
         ],
@@ -657,7 +639,7 @@
         "date": "2026-06-03",
         "country": "South Korea",
         "type": "Local elections National Assembly , 14 by-elections",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -686,42 +668,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Mexico"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-07",
-        "country": "Armenia",
-        "type": "Armenian National Assembly",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5074/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5074/"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-07",
-        "country": "Armenia",
-        "type": "2026 Parliamentary Election",
-        "status": "Upcoming",
-        "source_names": [
-          "A-WEB"
-        ],
-        "links": [
-          "https://www.1lurer.am/en/2025/06/07/Next-Parliamentary-elections-will-be-held-on-June-7-2026-Alen-Simonyan/1326754"
-        ],
-        "sources": [
-          {
-            "name": "A-WEB",
-            "link": "https://www.1lurer.am/en/2025/06/07/Next-Parliamentary-elections-will-be-held-on-June-7-2026-Alen-Simonyan/1326754"
           }
         ]
       },
@@ -781,6 +727,42 @@
       },
       {
         "date": "2026-06-07",
+        "country": "Armenia",
+        "type": "Armenian National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5074/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5074/"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-07",
+        "country": "Armenia",
+        "type": "2026 Parliamentary Election",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://www.1lurer.am/en/2025/06/07/Next-Parliamentary-elections-will-be-held-on-June-7-2026-Alen-Simonyan/1326754"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://www.1lurer.am/en/2025/06/07/Next-Parliamentary-elections-will-be-held-on-June-7-2026-Alen-Simonyan/1326754"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-07",
         "country": "Pakistan",
         "type": "Gilgit-Baltistan , Legislative Assembly",
         "status": "Upcoming",
@@ -799,19 +781,19 @@
       },
       {
         "date": "2026-06-09",
-        "country": "United States",
-        "type": "Georgia , 177th House of Representatives district , special election (2nd round) Maine , 29th House of Representatives district, special election",
+        "country": "India",
+        "type": "Uttarakhand , local elections United States Georgia , 177th House of Representatives district , special election (2nd round) Maine , 29th House of Representatives district, special election",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          "https://en.wikipedia.org/wiki/Elections_in_India"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+            "link": "https://en.wikipedia.org/wiki/Elections_in_India"
           }
         ]
       },
