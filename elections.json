@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T02:50:31Z",
+  "generated_at": "2026-06-05T02:37:35Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -546,6 +546,60 @@
         ]
       },
       {
+        "date": "2026-06-01",
+        "country": "Colombia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-colombia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-01",
+        "country": "Peru",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-peru-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-01",
+        "country": "Bangladesh",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-bangladesh-2026"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
+          }
+        ]
+      },
+      {
         "date": "2026-06-02",
         "country": "United States",
         "type": "California California , 1st congressional district , special election Long Beach , Mayor Los Angeles , Mayor (1st round), City Attorney (1st round), City Controller, and City Council (1st round) Los Angeles County , Board of Supervisors , Sheriff, and Assessor South Dakota , Sioux Falls , Mayor (1st round)",
@@ -578,6 +632,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_South_Korea"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-04",
+        "country": "Cyprus",
+        "type": "House of Representatives",
+        "status": "Held",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/CY/CY-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/CY/CY-LC01/elections/elections"
           }
         ]
       },
