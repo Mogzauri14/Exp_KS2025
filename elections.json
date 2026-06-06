@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T02:37:35Z",
+  "generated_at": "2026-06-06T02:26:01Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -455,19 +455,19 @@
       },
       {
         "date": "2026-05-31",
-        "country": "Colombia",
-        "type": "Colombian Presidency",
+        "country": "Somaliland",
+        "type": "Somaliland House of Representatives",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5066/"
+          "https://www.electionguide.org/elections/id/5072/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5066/"
+            "link": "https://www.electionguide.org/elections/id/5072/"
           }
         ]
       },
@@ -491,19 +491,19 @@
       },
       {
         "date": "2026-05-31",
-        "country": "Somaliland",
-        "type": "Somaliland House of Representatives",
+        "country": "Colombia",
+        "type": "Colombian Presidency",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5072/"
+          "https://www.electionguide.org/elections/id/5066/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5072/"
+            "link": "https://www.electionguide.org/elections/id/5066/"
           }
         ]
       },
@@ -546,60 +546,6 @@
         ]
       },
       {
-        "date": "2026-06-01",
-        "country": "Colombia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-colombia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-01",
-        "country": "Peru",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-peru-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-01",
-        "country": "Bangladesh",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-bangladesh-2026"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
-          }
-        ]
-      },
-      {
         "date": "2026-06-02",
         "country": "United States",
         "type": "California California , 1st congressional district , special election Long Beach , Mayor Los Angeles , Mayor (1st round), City Attorney (1st round), City Controller, and City Council (1st round) Los Angeles County , Board of Supervisors , Sheriff, and Assessor South Dakota , Sioux Falls , Mayor (1st round)",
@@ -620,7 +566,7 @@
       {
         "date": "2026-06-03",
         "country": "South Korea",
-        "type": "local elections National Assembly , 14 by-elections",
+        "type": "Local elections National Assembly , 14 by-elections",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -650,24 +596,6 @@
           {
             "name": "IPU",
             "link": "https://data.ipu.org/parliament/CY/CY-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-04",
-        "country": "Mexico",
-        "type": "Coahuila , Congress",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Mexico"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Mexico"
           }
         ]
       },
@@ -709,6 +637,24 @@
       },
       {
         "date": "2026-06-07",
+        "country": "Kosovo",
+        "type": "Kosovar Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5162/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5162/"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-07",
         "country": "Peru",
         "type": "Peruvian Presidency",
         "status": "Upcoming",
@@ -745,37 +691,19 @@
       },
       {
         "date": "2026-06-07",
-        "country": "Kosovo",
-        "type": "Kosovar Assembly",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5162/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5162/"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-07",
-        "country": "Pakistan",
-        "type": "Gilgit-Baltistan , Legislative Assembly",
+        "country": "Mexico",
+        "type": "Coahuila , Congress Pakistan , Gilgit-Baltistan , Legislative Assembly",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Pakistan"
+          "https://en.wikipedia.org/wiki/Elections_in_Mexico"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Pakistan"
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Mexico"
           }
         ]
       },
