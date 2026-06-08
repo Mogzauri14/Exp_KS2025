@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T02:43:18Z",
+  "generated_at": "2026-06-08T02:47:01Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -673,24 +673,6 @@
       },
       {
         "date": "2026-06-07",
-        "country": "Armenia",
-        "type": "2026 Parliamentary Election",
-        "status": "Held",
-        "source_names": [
-          "A-WEB"
-        ],
-        "links": [
-          "https://www.1lurer.am/en/2025/06/07/Next-Parliamentary-elections-will-be-held-on-June-7-2026-Alen-Simonyan/1326754"
-        ],
-        "sources": [
-          {
-            "name": "A-WEB",
-            "link": "https://www.1lurer.am/en/2025/06/07/Next-Parliamentary-elections-will-be-held-on-June-7-2026-Alen-Simonyan/1326754"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-07",
         "country": "Kosovo",
         "type": "Kosovar Assembly",
         "status": "Held",
@@ -722,24 +704,6 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5159/"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-07",
-        "country": "Peru",
-        "type": "2026 Presidential Election (2nd Round)",
-        "status": "Held",
-        "source_names": [
-          "A-WEB"
-        ],
-        "links": [
-          "https://www.infobae.com/peru/2026/05/17/jurado-nacional-de-elecciones-de-peru-proclamo-oficialmente-a-roberto-sanchez-y-keiko-fujimori-como-candidatos-que-pasan-al-balotaje/"
-        ],
-        "sources": [
-          {
-            "name": "A-WEB",
-            "link": "https://www.infobae.com/peru/2026/05/17/jurado-nacional-de-elecciones-de-peru-proclamo-oficialmente-a-roberto-sanchez-y-keiko-fujimori-como-candidatos-que-pasan-al-balotaje/"
           }
         ]
       },
