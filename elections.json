@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T02:37:21Z",
+  "generated_at": "2026-06-11T02:47:36Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -674,7 +674,7 @@
       {
         "date": "2026-06-09",
         "country": "India",
-        "type": "Uttarakhand , local elections United States Georgia , 177th House of Representatives district , special election (2nd round) Maine , 29th House of Representatives district, special election",
+        "type": "Uttarakhand , local elections United States Georgia , 177th House of Representatives district , special election (2nd round) Maine , 29th House of Representatives district, special election North Dakota , amendment",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -727,19 +727,19 @@
       },
       {
         "date": "2026-06-18",
-        "country": "",
-        "type": "Local election",
+        "country": "India",
+        "type": "Bihar , Legislative Council Karnataka , Legislative Council Maharashtra , Legislative Council United Kingdom Aberdeen South , House of Commons by-election Arbroath and Broughty Ferry , House of Commons by-election Makerfield , House of Commons by-election",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/2026_local_electoral_calendar"
+          "https://en.wikipedia.org/wiki/Elections_in_India"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/2026_local_electoral_calendar"
+            "link": "https://en.wikipedia.org/wiki/Elections_in_India"
           }
         ]
       },
