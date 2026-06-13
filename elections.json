@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T02:44:02Z",
+  "generated_at": "2026-06-13T02:36:21Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -727,6 +727,24 @@
       },
       {
         "date": "2026-06-18",
+        "country": "Cape Verde",
+        "type": "National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/CV/CV-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/CV/CV-LC01/elections/elections"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-18",
         "country": "India",
         "type": "Bihar , Legislative Council Karnataka , Legislative Council Maharashtra , Legislative Council United Kingdom Aberdeen South , House of Commons by-election Arbroath and Broughty Ferry , House of Commons by-election Makerfield , House of Commons by-election",
         "status": "Upcoming",
@@ -850,6 +868,42 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5076/"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-04",
+        "country": "Slovakia",
+        "type": "Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5197/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5197/"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-11",
+        "country": "Malaysia",
+        "type": "Johor , State Legislative Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
           }
         ]
       },
