@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T02:52:32Z",
+  "generated_at": "2026-06-16T02:53:54Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -346,24 +346,6 @@
         ]
       },
       {
-        "date": "2026-05-24",
-        "country": "Cyprus",
-        "type": "Cypriot House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5067/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5067/"
-          }
-        ]
-      },
-      {
         "date": "2026-05-26",
         "country": "Punjab, India",
         "type": "local elections",
@@ -619,24 +601,6 @@
       },
       {
         "date": "2026-06-07",
-        "country": "Armenia",
-        "type": "Armenian National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5074/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5074/"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-07",
         "country": "Peru",
         "type": "Peruvian Presidency",
         "status": "Held",
@@ -650,6 +614,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5159/"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-07",
+        "country": "Armenia",
+        "type": "Armenian National Assembly",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5074/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5074/"
           }
         ]
       },
@@ -711,7 +693,7 @@
         "date": "2026-06-16",
         "country": "United States",
         "type": "California , 14th congressional district , special election District of Columbia , at-large, special election Georgia , 7th Senate district , special election (2nd round) Oklahoma , ballot measure",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
