@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T02:50:55Z",
+  "generated_at": "2026-06-18T02:46:08Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -692,7 +692,7 @@
       {
         "date": "2026-06-16",
         "country": "United States",
-        "type": "California , 14th congressional district , special election District of Columbia , at-large, special election Georgia , 7th Senate district , special election (2nd round) Oklahoma , ballot measure",
+        "type": "California , 14th congressional district , special election (1st round) District of Columbia , at-large, special election Georgia , 7th Senate district , special election (2nd round) Oklahoma , ballot measure",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -711,7 +711,7 @@
         "date": "2026-06-18",
         "country": "Cape Verde",
         "type": "National Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "IPU"
         ],
@@ -727,19 +727,19 @@
       },
       {
         "date": "2026-06-18",
-        "country": "India",
-        "type": "Bihar , Legislative Council Karnataka , Legislative Council Maharashtra , Legislative Council United Kingdom Aberdeen South , House of Commons by-election Arbroath and Broughty Ferry , House of Commons by-election Makerfield , House of Commons by-election",
-        "status": "Upcoming",
+        "country": "United Kingdom",
+        "type": "Aberdeen South , House of Commons by-election Arbroath and Broughty Ferry , House of Commons by-election Makerfield , House of Commons by-election",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_India"
+          "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_India"
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
           }
         ]
       },
@@ -886,6 +886,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-13",
+        "country": "Canada",
+        "type": "Prince Edward Island , Cornwall-Meadowbank , by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
           }
         ]
       },
