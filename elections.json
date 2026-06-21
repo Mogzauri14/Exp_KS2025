@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T02:35:55Z",
+  "generated_at": "2026-06-21T02:51:49Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -747,7 +747,7 @@
         "date": "2026-06-21",
         "country": "Colombia",
         "type": "Colombian Presidency",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -765,7 +765,7 @@
         "date": "2026-06-21",
         "country": "Colombia",
         "type": "2026 Presidential Election (2nd round)",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "A-WEB"
         ],
