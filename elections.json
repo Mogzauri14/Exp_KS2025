@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T02:51:49Z",
+  "generated_at": "2026-06-22T02:54:13Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -474,60 +474,6 @@
         ]
       },
       {
-        "date": "2026-06-01",
-        "country": "Colombia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-colombia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-01",
-        "country": "Peru",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-peru-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-01",
-        "country": "Bangladesh",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-bangladesh-2026"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
-          }
-        ]
-      },
-      {
         "date": "2026-06-02",
         "country": "United States",
         "type": "California California , 1st congressional district , special election Long Beach , Mayor Los Angeles , Mayor (1st round), City Attorney (1st round), City Controller, and City Council (1st round) Los Angeles County , Board of Supervisors , Sheriff (1st round), and Assessor South Dakota , Sioux Falls , Mayor (1st round)",
@@ -758,24 +704,6 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5195/"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-21",
-        "country": "Colombia",
-        "type": "2026 Presidential Election (2nd round)",
-        "status": "Held",
-        "source_names": [
-          "A-WEB"
-        ],
-        "links": [
-          "https://colombiaone.com/2026/05/28/colombia-presidential-elections-two-round-system/"
-        ],
-        "sources": [
-          {
-            "name": "A-WEB",
-            "link": "https://colombiaone.com/2026/05/28/colombia-presidential-elections-two-round-system/"
           }
         ]
       },
