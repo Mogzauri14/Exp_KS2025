@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T02:29:31Z",
+  "generated_at": "2026-06-24T02:30:29Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -668,6 +668,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-20",
+        "country": "Malta",
+        "type": "House of Representatives",
+        "status": "Held",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/MT/MT-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/MT/MT-LC01/elections/elections"
           }
         ]
       },
