@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T02:30:29Z",
+  "generated_at": "2026-06-25T02:31:53Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -886,6 +886,24 @@
           {
             "name": "IPU",
             "link": "https://data.ipu.org/parliament/CO/CO-UC01/elections/elections"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-21",
+        "country": "Canada",
+        "type": "Manitoba , The Pas-Kameesak , by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
           }
         ]
       },
