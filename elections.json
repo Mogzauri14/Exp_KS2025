@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T02:27:51Z",
+  "generated_at": "2026-06-28T02:40:02Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -729,7 +729,7 @@
         "date": "2026-06-28",
         "country": "Austria",
         "type": "Graz , Gemeinderat Thailand , Bangkok , Governor , Metropolitan Council",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -836,6 +836,24 @@
         ]
       },
       {
+        "date": "2026-07-16",
+        "country": "United Kingdom",
+        "type": "Norfolk , police and crime commissioner by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+          }
+        ]
+      },
+      {
         "date": "2026-07-19",
         "country": "Sao Tome and Principe",
         "type": "Sao Tomean Presidency",
@@ -922,6 +940,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-30",
+        "country": "United Kingdom",
+        "type": "Greater Manchester , mayoral by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
           }
         ]
       }
