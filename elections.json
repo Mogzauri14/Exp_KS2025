@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T02:40:47Z",
+  "generated_at": "2026-06-30T02:35:04Z",
   "current_month": "2026-06",
   "months": {
     "2026-05": [
@@ -747,7 +747,7 @@
         "date": "2026-06-30",
         "country": "Armenia",
         "type": "Referendum",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
