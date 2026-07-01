@@ -1,441 +1,7 @@
 {
-  "generated_at": "2026-06-30T02:35:04Z",
-  "current_month": "2026-06",
+  "generated_at": "2026-07-01T02:41:02Z",
+  "current_month": "2026-07",
   "months": {
-    "2026-05": [
-      {
-        "date": "2026-05-01",
-        "country": "Costa Rica",
-        "type": "Legislative Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/CR/CR-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/CR/CR-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-01",
-        "country": "Samoa",
-        "type": "Vaimauga 3, Legislative Assembly by-election [ 4 ]",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Samoa"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Samoa"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-02",
-        "country": "Australia",
-        "type": "Tasmania , Legislative Council Victoria , Nepean , Legislative Assembly by-election United States , Texas , 4th Senate district , special election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Australia"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-05",
-        "country": "United States",
-        "type": "Michigan , 35th Senate district , special election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-07",
-        "country": "United Kingdom",
-        "type": "local elections [ 5 ] Scotland , Parliament Wales , Senedd",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-09",
-        "country": "Hungary",
-        "type": "National Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/HU/HU-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/HU/HU-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-09",
-        "country": "Australia",
-        "type": "Farrer , House of Representatives by-election [ 6 ]",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Australia"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-10",
-        "country": "India",
-        "type": "Haryana , Municipal Corporation",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_India"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_India"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-11",
-        "country": "Canada",
-        "type": "New Brunswick , municipal elections",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Canada"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-12",
-        "country": "New Zealand",
-        "type": "Dunedin , City Council by-election [ 7 ] United States Georgia , 177th House of Representatives district , special election (1st round) New Jersey , Newark , Mayor West Virginia , Supreme Court of Appeals",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_New_Zealand"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_New_Zealand"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-13",
-        "country": "Uganda",
-        "type": "Parliament",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/UG/UG-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/UG/UG-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-16",
-        "country": "Australia",
-        "type": "Queensland , Stafford by-election Iceland , municipal elections Reykjavík , City Council United States , Louisiana , amendments",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Australia"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-17",
-        "country": "Spain",
-        "type": "Andalusia , Parliament India , Himachal Pradesh , local elections",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Spain"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Spain"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-18",
-        "country": "Antigua and Barbuda",
-        "type": "House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/AG/AG-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/AG/AG-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-19",
-        "country": "United States",
-        "type": "Alabama , amendments Georgia 7th Senate district , special election (1st round) Court of Appeals Supreme Court Oregon Referendum Commissioner of Labor Pennsylvania , 196th House of Representatives district , special election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-20",
-        "country": "Antigua and Barbuda",
-        "type": "Senate",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/AG/AG-UC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/AG/AG-UC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-20",
-        "country": "Bahamas",
-        "type": "House of Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/BS/BS-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/BS/BS-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-20",
-        "country": "Bahamas",
-        "type": "Senate",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/BS/BS-UC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/BS/BS-UC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-22",
-        "country": "Ireland",
-        "type": "Dublin Central , Dáil by-election Galway West , Dáil by-election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_Republic_of_Ireland"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_Republic_of_Ireland"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-26",
-        "country": "Punjab, India",
-        "type": "local elections",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Punjab,_India"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Punjab,_India"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-31",
-        "country": "Colombia",
-        "type": "Colombian Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5066/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5066/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-31",
-        "country": "Somaliland",
-        "type": "Somaliland House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5072/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5072/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-31",
-        "country": "Guinea",
-        "type": "Guinean National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5156/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5156/"
-          }
-        ]
-      },
-      {
-        "date": "2026-05-31",
-        "country": "Japan",
-        "type": "Niigata Prefecture , Governor",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Japan"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
-          }
-        ]
-      }
-    ],
     "2026-06": [
       {
         "date": "2026-06-01",
@@ -958,6 +524,206 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+          }
+        ]
+      }
+    ],
+    "2026-08": [
+      {
+        "date": "2026-08-01",
+        "country": "Malaysia",
+        "type": "Negeri Sembilan , State Legislative Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-02",
+        "country": "Cook Islands",
+        "type": "Cook Islands Parliament",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5196/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5196/"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-02",
+        "country": "Armenia",
+        "type": "National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/AM/AM-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/AM/AM-LC01/elections/elections"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-04",
+        "country": "United States",
+        "type": "Arkansas , 44th House of Representatives district, special election Kansas , ballot measure Michigan , Flint , Mayor",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "country": "Zambia",
+        "type": "Zambian Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5077/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5077/"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "country": "Zambia",
+        "type": "2026 General Election",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://www.aa.com.tr/en/africa/zambia-invites-eu-as-observer-to-2026-general-elections/3575445"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://www.aa.com.tr/en/africa/zambia-invites-eu-as-observer-to-2026-general-elections/3575445"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-18",
+        "country": "United States",
+        "type": "California , 14th congressional district , special election (2nd round) Florida St. Petersburg , Mayor Tallahassee , Mayor",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-29",
+        "country": "Iceland",
+        "type": "Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5158/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5158/"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-29",
+        "country": "Philippines",
+        "type": "Cavite , 4th congressional district , special election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_the_Philippines"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_Philippines"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "country": "Haiti",
+        "type": "Haitian Senate",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/4665/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/4665/"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "country": "Haiti",
+        "type": "2026 General Election(first round)",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://efe.com/en/latest-news/2025-12-02/haiti-approves-electoral-decree-opening-path-to-first-elections-in-a-decade/"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://efe.com/en/latest-news/2025-12-02/haiti-approves-electoral-decree-opening-path-to-first-elections-in-a-decade/"
           }
         ]
       }
