@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T02:41:02Z",
+  "generated_at": "2026-07-02T02:30:24Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -333,7 +333,7 @@
         "date": "2026-07-02",
         "country": "Algeria",
         "type": "Algerian National People's Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -549,24 +549,6 @@
       },
       {
         "date": "2026-08-02",
-        "country": "Cook Islands",
-        "type": "Cook Islands Parliament",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5196/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5196/"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-02",
         "country": "Armenia",
         "type": "National Assembly",
         "status": "Upcoming",
@@ -602,20 +584,38 @@
         ]
       },
       {
-        "date": "2026-08-13",
-        "country": "Zambia",
-        "type": "Zambian Presidency",
+        "date": "2026-08-12",
+        "country": "Cook Islands",
+        "type": "Cook Islands Parliament",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5077/"
+          "https://www.electionguide.org/elections/id/5196/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5077/"
+            "link": "https://www.electionguide.org/elections/id/5196/"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "country": "Zambia",
+        "type": "Zambian National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5078/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5078/"
           }
         ]
       },
@@ -652,6 +652,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-23",
+        "country": "Kazakhstan",
+        "type": "Kazakh National Congress",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5160/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5160/"
           }
         ]
       },
