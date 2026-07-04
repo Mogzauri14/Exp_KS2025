@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T02:05:54Z",
+  "generated_at": "2026-07-04T02:03:56Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -30,12 +30,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_States"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_States"
           }
         ]
       },
@@ -48,12 +48,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_South_Korea"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_South_Korea"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_South_Korea"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_South_Korea"
           }
         ]
       },
@@ -72,24 +72,6 @@
           {
             "name": "IPU",
             "link": "https://data.ipu.org/parliament/CY/CY-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-07",
-        "country": "Kosovo",
-        "type": "Kosovar Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5162/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5162/"
           }
         ]
       },
@@ -131,6 +113,24 @@
       },
       {
         "date": "2026-06-07",
+        "country": "Kosovo",
+        "type": "Kosovar Assembly",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5162/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5162/"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-07",
         "country": "Mexico",
         "type": "Coahuila , Congress Pakistan , Gilgit-Baltistan , Legislative Assembly",
         "status": "Held",
@@ -138,12 +138,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Mexico"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Mexico"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Mexico"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Mexico"
           }
         ]
       },
@@ -156,12 +156,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_India"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_India"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_India"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_India"
           }
         ]
       },
@@ -192,12 +192,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_States"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_States"
           }
         ]
       },
@@ -228,12 +228,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
           }
         ]
       },
@@ -282,12 +282,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Canada"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Canada"
           }
         ]
       },
@@ -300,12 +300,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Austria"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Austria"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Austria"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Austria"
           }
         ]
       },
@@ -351,7 +351,7 @@
         "date": "2026-07-04",
         "country": "Slovakia",
         "type": "Referendum",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -374,12 +374,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Malaysia"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Malaysia"
           }
         ]
       },
@@ -392,12 +392,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Canada"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Canada"
           }
         ]
       },
@@ -410,12 +410,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
           }
         ]
       },
@@ -482,12 +482,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Canada"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Canada"
           }
         ]
       },
@@ -500,12 +500,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_United_States"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_United_States"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_United_States"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_United_States"
           }
         ]
       },
@@ -518,12 +518,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
           }
         ]
       }
@@ -538,12 +538,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Malaysia"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Malaysia"
           }
         ]
       },
@@ -574,12 +574,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_States"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_States"
           }
         ]
       },
@@ -640,18 +640,18 @@
       {
         "date": "2026-08-18",
         "country": "United States",
-        "type": "California , 14th congressional district , special election (2nd round) Florida St. Petersburg , Mayor Tallahassee , Mayor",
+        "type": "California , 14th congressional district , special election (2nd round) Florida St. Petersburg , Mayor Tallahassee , Mayor Pennsylvania , 12th House of Representatives district , special election",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_States"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_States"
           }
         ]
       },
@@ -700,12 +700,12 @@
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_Philippines"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_Philippines"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_Philippines"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_Philippines"
           }
         ]
       },
