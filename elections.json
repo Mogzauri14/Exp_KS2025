@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T02:12:17Z",
+  "generated_at": "2026-07-06T02:24:05Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -95,24 +95,6 @@
       },
       {
         "date": "2026-06-07",
-        "country": "Peru",
-        "type": "Peruvian Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5159/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5159/"
-          }
-        ]
-      },
-      {
-        "date": "2026-06-07",
         "country": "Kosovo",
         "type": "Kosovar Assembly",
         "status": "Held",
@@ -126,6 +108,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5162/"
+          }
+        ]
+      },
+      {
+        "date": "2026-06-07",
+        "country": "Peru",
+        "type": "Peruvian Presidency",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5159/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5159/"
           }
         ]
       },
@@ -362,6 +362,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5197/"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-05",
+        "country": "Japan",
+        "type": "Shiga Prefecture , Governor",
+        "status": "Held",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Japan"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Japan"
           }
         ]
       },
