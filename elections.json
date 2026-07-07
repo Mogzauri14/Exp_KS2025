@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T02:24:05Z",
+  "generated_at": "2026-07-07T02:12:33Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -586,7 +586,7 @@
       {
         "date": "2026-08-04",
         "country": "United States",
-        "type": "Arkansas , 44th House of Representatives district, special election Kansas , ballot measure Michigan , Flint , Mayor",
+        "type": "Kansas , ballot measure Michigan , Flint , Mayor",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -622,18 +622,18 @@
       {
         "date": "2026-08-13",
         "country": "Zambia",
-        "type": "Zambian National Assembly",
+        "type": "Zambian Presidency",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5078/"
+          "https://www.electionguide.org/elections/id/5077/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5078/"
+            "link": "https://www.electionguide.org/elections/id/5077/"
           }
         ]
       },
