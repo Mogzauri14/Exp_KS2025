@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T01:53:07Z",
+  "generated_at": "2026-07-09T02:06:19Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -329,6 +329,96 @@
       }
     ],
     "2026-07": [
+      {
+        "date": "2026-07-01",
+        "country": "Colombia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-colombia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-01",
+        "country": "Peru",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-peru-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-01",
+        "country": "Bangladesh",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-bangladesh-2026"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-01",
+        "country": "Zambia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-zambia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-zambia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-01",
+        "country": "São Tomé e Príncipe",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
+          }
+        ]
+      },
       {
         "date": "2026-07-02",
         "country": "Algeria",
