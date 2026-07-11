@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T02:04:48Z",
+  "generated_at": "2026-07-11T01:51:28Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -477,7 +477,7 @@
         "date": "2026-07-11",
         "country": "Malaysia",
         "type": "Johor , State Legislative Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -742,6 +742,24 @@
           {
             "name": "A-WEB",
             "link": "https://www.aa.com.tr/en/africa/zambia-invites-eu-as-observer-to-2026-general-elections/3575445"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "country": "United Kingdom",
+        "type": "Clacton , House of Commons by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/United_Kingdom"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/United_Kingdom"
           }
         ]
       },
