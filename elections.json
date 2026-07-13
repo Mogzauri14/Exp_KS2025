@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T01:54:29Z",
+  "generated_at": "2026-07-13T01:56:41Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -495,7 +495,7 @@
         "date": "2026-07-13",
         "country": "Canada",
         "type": "Prince Edward Island , Cornwall-Meadowbank , by-election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
