@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T01:29:31Z",
+  "generated_at": "2026-07-16T01:49:59Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -474,6 +474,24 @@
         ]
       },
       {
+        "date": "2026-07-10",
+        "country": "Samoa",
+        "type": "Safata 2, Legislative Assembly by-election [ 8 ]",
+        "status": "Held",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Samoa"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Samoa"
+          }
+        ]
+      },
+      {
         "date": "2026-07-11",
         "country": "Malaysia",
         "type": "Johor , State Legislative Assembly",
@@ -513,7 +531,7 @@
         "date": "2026-07-16",
         "country": "United Kingdom",
         "type": "Norfolk , police and crime commissioner by-election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -712,18 +730,18 @@
       {
         "date": "2026-08-13",
         "country": "Zambia",
-        "type": "Zambian Presidency",
+        "type": "Zambian National Assembly",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5077/"
+          "https://www.electionguide.org/elections/id/5078/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5077/"
+            "link": "https://www.electionguide.org/elections/id/5078/"
           }
         ]
       },
