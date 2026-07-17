@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T01:49:59Z",
+  "generated_at": "2026-07-17T01:53:17Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -221,19 +221,19 @@
       },
       {
         "date": "2026-06-18",
-        "country": "United Kingdom",
-        "type": "Aberdeen South , House of Commons by-election Arbroath and Broughty Ferry , House of Commons by-election Makerfield , House of Commons by-election",
+        "country": "Nigeria",
+        "type": "Ekiti State , Governor United Kingdom Aberdeen South , House of Commons by-election Arbroath and Broughty Ferry , House of Commons by-election Makerfield , House of Commons by-election",
         "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Nigeria"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Nigeria"
           }
         ]
       },
@@ -778,6 +778,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/United_Kingdom"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-15",
+        "country": "Nigeria",
+        "type": "Osun State , Governor",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Nigeria"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org//en.wikipedia.org/wiki/Elections_in_Nigeria"
           }
         ]
       },
