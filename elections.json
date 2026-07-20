@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T01:51:54Z",
+  "generated_at": "2026-07-20T03:18:43Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -567,7 +567,7 @@
         "date": "2026-07-20",
         "country": "Colombia",
         "type": "House of Representatives",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "IPU"
         ],
@@ -585,7 +585,7 @@
         "date": "2026-07-20",
         "country": "Colombia",
         "type": "Senate",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "IPU"
         ],
