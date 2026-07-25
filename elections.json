@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T01:53:30Z",
+  "generated_at": "2026-07-25T01:53:17Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -712,7 +712,7 @@
       {
         "date": "2026-08-04",
         "country": "United States",
-        "type": "Kansas , amendemnt Michigan , Flint , Mayor Missouri , amendments",
+        "type": "Kansas , amendment Michigan , Flint , Mayor Missouri , amendments",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -910,18 +910,18 @@
       {
         "date": "2026-08-30",
         "country": "Haiti",
-        "type": "Haitian Presidency",
+        "type": "Haitian Chamber of Deputies",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/4663/"
+          "https://www.electionguide.org/elections/id/4664/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/4663/"
+            "link": "https://www.electionguide.org/elections/id/4664/"
           }
         ]
       },
