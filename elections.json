@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T01:53:17Z",
+  "generated_at": "2026-07-26T01:57:15Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -850,6 +850,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-21",
+        "country": "New Zealand",
+        "type": "Greater Wellington , Wairarapa , by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_New_Zealand"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_New_Zealand"
           }
         ]
       },
