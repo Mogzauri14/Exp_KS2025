@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T01:57:15Z",
+  "generated_at": "2026-07-27T02:05:05Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -132,7 +132,7 @@
       {
         "date": "2026-06-09",
         "country": "India",
-        "type": "Uttarakhand , local elections United States Georgia , 177th House of Representatives district , special election (2nd round) Maine , 29th House of Representatives district, special election North Dakota , amendment",
+        "type": "Uttarakhand , local elections United States Georgia , 177th House of Representatives district , special election (2nd round) Maine , 29th House of Representatives district, special election Nevada Henderson , Mayor (1st round) North Las Vegas , Mayor (1st round) North Dakota , amendment",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -583,19 +583,19 @@
       },
       {
         "date": "2026-07-21",
-        "country": "Canada",
-        "type": "Manitoba , The Pas-Kameesak , by-election",
+        "country": "United States",
+        "type": "Arizona , Chandler , Mayor Canada , Manitoba , The Pas-Kameesak , by-election",
         "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          "https://en.wikipedia.org/wiki/Elections_in_United_States"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+            "link": "https://en.wikipedia.org/wiki/Elections_in_United_States"
           }
         ]
       },
@@ -603,7 +603,7 @@
         "date": "2026-07-27",
         "country": "Pakistan",
         "type": "Azad Kashmir , Legislative Assembly (first phase)",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -910,7 +910,7 @@
       {
         "date": "2026-08-29",
         "country": "Philippines",
-        "type": "Cavite , 4th congressional district , special election",
+        "type": "Cavite , 4th congressional district , special election Australia , Western Australia , Secret Harbour by-election",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -958,6 +958,24 @@
           {
             "name": "A-WEB",
             "link": "https://efe.com/en/latest-news/2025-12-02/haiti-approves-electoral-decree-opening-path-to-first-elections-in-a-decade/"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-31",
+        "country": "Canada",
+        "type": "Ontario , Beaches—East York , by-election Quebec , Chicoutimi—Le Fjord , by-election British Columbia , North Vancouver—Capilano , by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
           }
         ]
       }
