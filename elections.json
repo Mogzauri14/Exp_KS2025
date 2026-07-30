@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T01:48:48Z",
+  "generated_at": "2026-07-30T01:41:53Z",
   "current_month": "2026-07",
   "months": {
     "2026-06": [
@@ -583,19 +583,19 @@
       },
       {
         "date": "2026-07-21",
-        "country": "United States",
-        "type": "Arizona , Chandler , Mayor Canada , Manitoba , The Pas-Kameesak , by-election",
+        "country": "Canada",
+        "type": "Manitoba , The Pas-Kameesak , by-election United States , Arizona , Chandler , Mayor",
         "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_United_States"
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_United_States"
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
           }
         ]
       },
@@ -639,7 +639,7 @@
         "date": "2026-07-30",
         "country": "United Kingdom",
         "type": "Greater Manchester , mayoral by-election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
