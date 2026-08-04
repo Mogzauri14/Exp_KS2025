@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T01:58:54Z",
+  "generated_at": "2026-08-04T01:44:50Z",
   "current_month": "2026-08",
   "months": {
     "2026-07": [
@@ -405,7 +405,7 @@
         "date": "2026-08-04",
         "country": "United States",
         "type": "Kansas , amendment Michigan , Flint , Mayor Missouri , amendments",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -458,18 +458,18 @@
       {
         "date": "2026-08-13",
         "country": "Zambia",
-        "type": "Zambian Presidency",
+        "type": "Zambian National Assembly",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5077/"
+          "https://www.electionguide.org/elections/id/5078/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5077/"
+            "link": "https://www.electionguide.org/elections/id/5078/"
           }
         ]
       },
@@ -632,6 +632,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_Philippines"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "country": "Guinea-Bissau",
+        "type": "Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5198/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5198/"
           }
         ]
       },
@@ -832,24 +850,6 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5083/"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-27",
-        "country": "Sao Tome and Principe",
-        "type": "Sao Tomean National Assembly",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5086/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5086/"
           }
         ]
       },
