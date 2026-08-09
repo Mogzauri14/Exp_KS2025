@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T00:58:29Z",
+  "generated_at": "2026-08-09T01:01:49Z",
   "current_month": "2026-08",
   "months": {
     "2026-07": [
@@ -438,6 +438,42 @@
         ]
       },
       {
+        "date": "2026-08-06",
+        "country": "United States",
+        "type": "Tennessee Supreme Court , retention elections Knox County , Mayor Shelby County , Mayor",
+        "status": "Held",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-09",
+        "country": "Japan",
+        "type": "Nagano Prefecture , Governor",
+        "status": "Held",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Japan"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
+          }
+        ]
+      },
+      {
         "date": "2026-08-10",
         "country": "Pakistan",
         "type": "Azad Kashmir , Legislative Assembly (third phase)",
@@ -686,6 +722,24 @@
           {
             "name": "A-WEB",
             "link": "https://efe.com/en/latest-news/2025-12-02/haiti-approves-electoral-decree-opening-path-to-first-elections-in-a-decade/"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "country": "Japan",
+        "type": "Kagawa Prefecture , Governor",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Japan"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
           }
         ]
       },
