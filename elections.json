@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T01:03:55Z",
+  "generated_at": "2026-08-11T01:03:11Z",
   "current_month": "2026-08",
   "months": {
     "2026-07": [
@@ -512,18 +512,18 @@
       {
         "date": "2026-08-13",
         "country": "Zambia",
-        "type": "Zambian National Assembly",
+        "type": "Zambian Presidency",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5078/"
+          "https://www.electionguide.org/elections/id/5077/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5078/"
+            "link": "https://www.electionguide.org/elections/id/5077/"
           }
         ]
       },
