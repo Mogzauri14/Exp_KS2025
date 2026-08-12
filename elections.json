@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T01:03:11Z",
+  "generated_at": "2026-08-12T01:10:42Z",
   "current_month": "2026-08",
   "months": {
     "2026-07": [
@@ -495,7 +495,7 @@
         "date": "2026-08-12",
         "country": "Cook Islands",
         "type": "Cook Islands Parliament",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
