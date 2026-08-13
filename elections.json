@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T01:10:42Z",
+  "generated_at": "2026-08-13T01:12:37Z",
   "current_month": "2026-08",
   "months": {
     "2026-07": [
@@ -513,7 +513,7 @@
         "date": "2026-08-13",
         "country": "Zambia",
         "type": "Zambian Presidency",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -531,7 +531,7 @@
         "date": "2026-08-13",
         "country": "Zambia",
         "type": "2026 General Election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "A-WEB"
         ],
@@ -549,7 +549,7 @@
         "date": "2026-08-13",
         "country": "United Kingdom",
         "type": "Clacton , House of Commons by-election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
