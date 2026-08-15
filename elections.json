@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T01:11:26Z",
+  "generated_at": "2026-08-15T00:43:01Z",
   "current_month": "2026-08",
   "months": {
     "2026-07": [
@@ -549,7 +549,7 @@
         "date": "2026-08-15",
         "country": "Nigeria",
         "type": "Osun State , Governor",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -940,6 +940,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5086/"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "country": "Switzerland",
+        "type": "Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5080/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5080/"
           }
         ]
       },
