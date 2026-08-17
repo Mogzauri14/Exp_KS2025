@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T00:45:53Z",
+  "generated_at": "2026-08-17T00:43:31Z",
   "current_month": "2026-08",
   "months": {
     "2026-07": [
@@ -728,7 +728,7 @@
       {
         "date": "2026-08-31",
         "country": "Canada",
-        "type": "Ontario , Beaches—East York , by-election Quebec , Chicoutimi—Le Fjord , by-election British Columbia , North Vancouver—Capilano , by-election",
+        "type": "Beaches—East York , by-election Chicoutimi—Le Fjord , by-election North Vancouver—Capilano , by-election",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
