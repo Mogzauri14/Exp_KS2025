@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:43:10Z",
+  "generated_at": "2026-08-23T00:47:22Z",
   "current_month": "2026-08",
   "months": {
     "2026-07": [
@@ -148,42 +148,6 @@
         ]
       },
       {
-        "date": "2026-07-20",
-        "country": "Colombia",
-        "type": "House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/CO/CO-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/CO/CO-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-20",
-        "country": "Colombia",
-        "type": "Senate",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/CO/CO-UC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/CO/CO-UC01/elections/elections"
-          }
-        ]
-      },
-      {
         "date": "2026-07-21",
         "country": "Canada",
         "type": "Manitoba , The Pas-Kameesak , by-election United States , Arizona , Chandler , Mayor",
@@ -234,24 +198,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-30",
-        "country": "Benin",
-        "type": "Senate",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/BJ/BJ-UC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/BJ/BJ-UC01/elections/elections"
           }
         ]
       },
@@ -380,24 +326,6 @@
           {
             "name": "EEAS",
             "link": "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-02",
-        "country": "Armenia",
-        "type": "National Assembly",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/AM/AM-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/AM/AM-LC01/elections/elections"
           }
         ]
       },
@@ -603,7 +531,7 @@
         "date": "2026-08-23",
         "country": "Kazakhstan",
         "type": "Kazakh National Congress",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -868,6 +796,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5084/"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "country": "Samoa",
+        "type": "[ 9 ] Falealili 1, Legislative Assembly by-election Vaimauga 3, Legislative Assembly by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Samoa"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Samoa"
           }
         ]
       },
