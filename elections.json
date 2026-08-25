@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T00:44:45Z",
+  "generated_at": "2026-08-25T00:44:13Z",
   "current_month": "2026-08",
   "months": {
     "2026-07": [
@@ -621,7 +621,7 @@
         "date": "2026-08-25",
         "country": "United States",
         "type": "Georgia , Georgia's 13th congressional district , special election (2nd round)",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -801,26 +801,8 @@
       },
       {
         "date": "2026-09-13",
-        "country": "Sweden",
-        "type": "regional and municipal elections",
-        "status": "Upcoming",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Sweden"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Sweden"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-13",
         "country": "Germany",
-        "type": "Lower Saxony , local elections",
+        "type": "Lower Saxony , local elections Sweden , regional and municipal elections Japan , Okinawa Prefecture , Governor",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -945,24 +927,6 @@
       },
       {
         "date": "2026-09-27",
-        "country": "Sao Tome and Principe",
-        "type": "Sao Tomean National Assembly",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5086/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5086/"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-27",
         "country": "Switzerland",
         "type": "Referendum",
         "status": "Upcoming",
@@ -976,6 +940,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5080/"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "country": "Sao Tome and Principe",
+        "type": "Sao Tomean National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5086/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5086/"
           }
         ]
       },
