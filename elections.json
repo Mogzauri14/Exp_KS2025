@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T00:45:39Z",
+  "generated_at": "2026-08-27T05:56:34Z",
   "current_month": "2026-08",
   "months": {
     "2026-07": [
@@ -782,6 +782,24 @@
         ]
       },
       {
+        "date": "2026-09-12",
+        "country": "Australia",
+        "type": "Northern Territory , Mulka , by-election [ 9 ]",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Australia"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
+          }
+        ]
+      },
+      {
         "date": "2026-09-13",
         "country": "Sweden",
         "type": "Swedish Parliament",
@@ -820,7 +838,7 @@
       {
         "date": "2026-09-14",
         "country": "Philippines",
-        "type": "Bangsamoro Parliament Canada , Alberta , Calgary-Shaw , by-election",
+        "type": "Bangsamoro Parliament Canada , Alberta , Calgary-Shaw , by-election [ 10 ]",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -856,7 +874,7 @@
       {
         "date": "2026-09-18",
         "country": "Samoa",
-        "type": "[ 9 ] Falealili 1, Legislative Assembly by-election Vaimauga 3, Legislative Assembly by-election",
+        "type": "[ 11 ] Falealili 1, Legislative Assembly by-election Vaimauga 3, Legislative Assembly by-election",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -927,24 +945,6 @@
       },
       {
         "date": "2026-09-27",
-        "country": "Switzerland",
-        "type": "Referendum",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5080/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5080/"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-27",
         "country": "Sao Tome and Principe",
         "type": "Sao Tomean National Assembly",
         "status": "Upcoming",
@@ -958,6 +958,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5086/"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "country": "Switzerland",
+        "type": "Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5080/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5080/"
           }
         ]
       },
