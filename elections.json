@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T02:39:06Z",
+  "generated_at": "2026-08-31T02:32:52Z",
   "current_month": "2026-08",
   "months": {
     "2026-07": [
@@ -691,24 +691,6 @@
       },
       {
         "date": "2026-08-30",
-        "country": "Haiti",
-        "type": "2026 General Election(first round)",
-        "status": "Held",
-        "source_names": [
-          "A-WEB"
-        ],
-        "links": [
-          "https://efe.com/en/latest-news/2025-12-02/haiti-approves-electoral-decree-opening-path-to-first-elections-in-a-decade/"
-        ],
-        "sources": [
-          {
-            "name": "A-WEB",
-            "link": "https://efe.com/en/latest-news/2025-12-02/haiti-approves-electoral-decree-opening-path-to-first-elections-in-a-decade/"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-30",
         "country": "Japan",
         "type": "Kagawa Prefecture , Governor",
         "status": "Held",
@@ -729,7 +711,7 @@
         "date": "2026-08-31",
         "country": "Canada",
         "type": "Beaches—East York , by-election Chicoutimi—Le Fjord , by-election North Vancouver—Capilano , by-election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -910,7 +892,7 @@
       {
         "date": "2026-09-20",
         "country": "Germany",
-        "type": "Berlin , Landtag and Bezirksverordnetenversammlungen Mecklenburg-Vorpommern , Landtag Russia , regional elections",
+        "type": "Berlin , Abgeordnetenhaus and Bezirksverordnetenversammlungen Mecklenburg-Vorpommern , Landtag Russia , regional elections",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
