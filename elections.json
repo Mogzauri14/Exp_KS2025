@@ -1,279 +1,7 @@
 {
-  "generated_at": "2026-08-31T02:32:52Z",
-  "current_month": "2026-08",
+  "generated_at": "2026-09-01T02:47:08Z",
+  "current_month": "2026-09",
   "months": {
-    "2026-07": [
-      {
-        "date": "2026-07-02",
-        "country": "Algeria",
-        "type": "Algerian National People's Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5076/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5076/"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-04",
-        "country": "Slovakia",
-        "type": "Referendum",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5197/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5197/"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-05",
-        "country": "Japan",
-        "type": "Shiga Prefecture , Governor",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Japan"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-10",
-        "country": "Samoa",
-        "type": "Safata 2, Legislative Assembly by-election [ 8 ]",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Samoa"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Samoa"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-11",
-        "country": "Malaysia",
-        "type": "Johor , State Legislative Assembly",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-13",
-        "country": "Canada",
-        "type": "Prince Edward Island , Cornwall-Meadowbank , by-election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Canada"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-16",
-        "country": "United Kingdom",
-        "type": "Norfolk , police and crime commissioner by-election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-19",
-        "country": "Sao Tome and Principe",
-        "type": "Sao Tomean Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5085/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5085/"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-20",
-        "country": "Colombia",
-        "type": "House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/CO/CO-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/CO/CO-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-20",
-        "country": "Colombia",
-        "type": "Senate",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/CO/CO-UC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/CO/CO-UC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-21",
-        "country": "Canada",
-        "type": "Manitoba , The Pas-Kameesak , by-election United States , Arizona , Chandler , Mayor",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Canada"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-27",
-        "country": "Pakistan",
-        "type": "Azad Kashmir , Legislative Assembly (first phase)",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Pakistan"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Pakistan"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-28",
-        "country": "United States",
-        "type": "Georgia , Georgia's 13th congressional district , special election (1st round)",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_United_States"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-30",
-        "country": "Benin",
-        "type": "Senate",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/BJ/BJ-UC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/BJ/BJ-UC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-30",
-        "country": "United Kingdom",
-        "type": "Greater Manchester , mayoral by-election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_Kingdom"
-          }
-        ]
-      }
-    ],
     "2026-08": [
       {
         "date": "2026-08-01",
@@ -290,96 +18,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-01",
-        "country": "Colombia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-colombia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-01",
-        "country": "Peru",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-peru-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-01",
-        "country": "Bangladesh",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-bangladesh-2026"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-01",
-        "country": "Zambia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-zambia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-zambia-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-01",
-        "country": "São Tomé e Príncipe",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
           }
         ]
       },
@@ -512,18 +150,18 @@
       {
         "date": "2026-08-13",
         "country": "Zambia",
-        "type": "Zambian Presidency",
+        "type": "Zambian National Assembly",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5077/"
+          "https://www.electionguide.org/elections/id/5078/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5077/"
+            "link": "https://www.electionguide.org/elections/id/5078/"
           }
         ]
       },
@@ -727,6 +365,96 @@
       }
     ],
     "2026-09": [
+      {
+        "date": "2026-09-01",
+        "country": "Colombia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-colombia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "country": "Peru",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-peru-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "country": "Bangladesh",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-bangladesh-2026"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "country": "Zambia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-zambia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-zambia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "country": "São Tomé e Príncipe",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
+          }
+        ]
+      },
       {
         "date": "2026-09-03",
         "country": "Canada",
@@ -994,6 +722,278 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Poland"
+          }
+        ]
+      }
+    ],
+    "2026-10": [
+      {
+        "date": "2026-10-03",
+        "country": "Latvia",
+        "type": "Latvian Parliament",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5087/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5087/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-03",
+        "country": "Latvia",
+        "type": "2026 Parliamentary Election",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Bosnia and Herzegovina",
+        "type": "Bosnia and Herzegovina Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5095/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5095/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Bosnia and Herzegovina",
+        "type": "2026 General Election",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Brazil",
+        "type": "Brazilian Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5091/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5091/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Brazil",
+        "type": "2026 General Elections (first round)",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://www.ifri.org/en/memos/brazil-one-year-away-october-2026-general-elections"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://www.ifri.org/en/memos/brazil-one-year-away-october-2026-general-elections"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Brazil",
+        "type": "Governors Alagoas , Governor Amazonas , Governor Bahia , Governor Ceará , Governor Espírito Santo , Governor Federal District , Governor Goiás , Governor Minas Gerais , Governor Pará , Governor Paraíba , Governor Paraná , Governor Pernambuco , Governor Rio de Janeiro , Governor Rio Grande do Norte , Governor Rio Grande do Sul , Governor Santa Catarina , Governor São Paulo , Governor Bosnia and Herzegovina Federation of Bosnia and Herzegovina , entity parliament and canton assemblies Republika Srpska , entity president and parliament",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Brazil"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Brazil"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-05",
+        "country": "Canada",
+        "type": "Quebec , National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-08",
+        "country": "Tonga",
+        "type": "[ 12 ] Niua 17 , Legislative Assembly by-election Tongatapu 2 , Legislative Assembly by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Tonga"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Tonga"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-17",
+        "country": "Canada",
+        "type": "British Columbia , municipal elections Vancouver , municipal elections",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-19",
+        "country": "Canada",
+        "type": "Alberta , Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-24",
+        "country": "Slovakia",
+        "type": "regional and local elections",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Slovakia"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Slovakia"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
+        "country": "Brazil",
+        "type": "2026 General Elections (2nd round)",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-26",
+        "country": "Canada",
+        "type": "Ontario , municipal elections Hamilton , municipal elections Ottawa , municipal elections Toronto , municipal elections",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-28",
+        "country": "Canada",
+        "type": "Manitoba , municipal elections",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
           }
         ]
       }
