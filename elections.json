@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T02:47:08Z",
+  "generated_at": "2026-09-02T02:07:35Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -18,6 +18,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Malaysia"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-02",
+        "country": "Algeria",
+        "type": "National People's Assembly",
+        "status": "Held",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/DZ/DZ-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/DZ/DZ-LC01/elections/elections"
           }
         ]
       },
