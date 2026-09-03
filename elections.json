@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T02:07:35Z",
+  "generated_at": "2026-09-03T02:13:42Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -292,6 +292,24 @@
         ]
       },
       {
+        "date": "2026-08-28",
+        "country": "Kazakhstan",
+        "type": "Kurultai",
+        "status": "Held",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/KZ/KZ-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/KZ/KZ-LC01/elections/elections"
+          }
+        ]
+      },
+      {
         "date": "2026-08-29",
         "country": "Iceland",
         "type": "Referendum",
@@ -477,7 +495,7 @@
         "date": "2026-09-03",
         "country": "Canada",
         "type": "Ontario Hamilton East—Stoney Creek , by-election York—Simcoe , by-election Scarborough Southwest , by-election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
