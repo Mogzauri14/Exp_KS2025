@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T02:13:42Z",
+  "generated_at": "2026-09-04T02:09:40Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -709,24 +709,6 @@
       },
       {
         "date": "2026-09-27",
-        "country": "Sao Tome and Principe",
-        "type": "Sao Tomean National Assembly",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5086/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5086/"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-27",
         "country": "Switzerland",
         "type": "Referendum",
         "status": "Upcoming",
@@ -740,6 +722,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5080/"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "country": "Sao Tome and Principe",
+        "type": "Sao Tomean National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5086/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5086/"
           }
         ]
       },
@@ -838,18 +838,18 @@
       {
         "date": "2026-10-04",
         "country": "Brazil",
-        "type": "Brazilian Presidency",
+        "type": "Brazilian Chamber of Deputies",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5091/"
+          "https://www.electionguide.org/elections/id/5090/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5091/"
+            "link": "https://www.electionguide.org/elections/id/5090/"
           }
         ]
       },
