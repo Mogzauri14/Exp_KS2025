@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T02:09:40Z",
+  "generated_at": "2026-09-05T02:09:56Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -709,24 +709,6 @@
       },
       {
         "date": "2026-09-27",
-        "country": "Switzerland",
-        "type": "Referendum",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5080/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5080/"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-27",
         "country": "Sao Tome and Principe",
         "type": "Sao Tomean National Assembly",
         "status": "Upcoming",
@@ -740,6 +722,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5086/"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "country": "Switzerland",
+        "type": "Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5080/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5080/"
           }
         ]
       },
@@ -802,18 +802,18 @@
       {
         "date": "2026-10-04",
         "country": "Bosnia and Herzegovina",
-        "type": "Bosnia and Herzegovina Presidency",
+        "type": "Bosnia and Herzegovina House of Representatives",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5095/"
+          "https://www.electionguide.org/elections/id/5096/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5095/"
+            "link": "https://www.electionguide.org/elections/id/5096/"
           }
         ]
       },
