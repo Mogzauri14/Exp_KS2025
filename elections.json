@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T02:09:56Z",
+  "generated_at": "2026-09-06T02:05:26Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -513,7 +513,7 @@
         "date": "2026-09-06",
         "country": "Germany",
         "type": "Saxony-Anhalt , Landtag",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
