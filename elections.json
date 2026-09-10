@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T02:18:03Z",
+  "generated_at": "2026-09-10T02:16:40Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -820,24 +820,6 @@
       {
         "date": "2026-10-04",
         "country": "Brazil",
-        "type": "Brazilian Federal Senate",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5089/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5089/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-04",
-        "country": "Brazil",
         "type": "2026 General Elections (first round)",
         "status": "Upcoming",
         "source_names": [
@@ -868,6 +850,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Brazil"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Bosnia and Herzegovina",
+        "type": "Bosnia and Herzegovina Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5095/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5095/"
           }
         ]
       },
