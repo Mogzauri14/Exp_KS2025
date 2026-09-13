@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T02:18:57Z",
+  "generated_at": "2026-09-13T02:16:21Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -549,7 +549,7 @@
         "date": "2026-09-13",
         "country": "Sweden",
         "type": "Swedish Parliament",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -567,7 +567,7 @@
         "date": "2026-09-13",
         "country": "Germany",
         "type": "Lower Saxony , local elections Sweden , regional and municipal elections Japan , Okinawa Prefecture , Governor",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -709,24 +709,6 @@
       },
       {
         "date": "2026-09-27",
-        "country": "Switzerland",
-        "type": "Referendum",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5080/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5080/"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-27",
         "country": "Sao Tome and Principe",
         "type": "Sao Tomean National Assembly",
         "status": "Upcoming",
@@ -740,6 +722,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5086/"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "country": "Switzerland",
+        "type": "Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5080/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5080/"
           }
         ]
       },
