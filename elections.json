@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T02:23:56Z",
+  "generated_at": "2026-09-20T02:33:37Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -639,7 +639,7 @@
         "date": "2026-09-20",
         "country": "Russia",
         "type": "2026 Legislative Election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "A-WEB"
         ],
@@ -657,7 +657,7 @@
         "date": "2026-09-20",
         "country": "Germany",
         "type": "Berlin , Abgeordnetenhaus and Bezirksverordnetenversammlungen Mecklenburg-Vorpommern , Landtag Russia , regional elections",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -940,6 +940,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-18",
+        "country": "Japan",
+        "type": "Yokohama , Mayor",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Japan"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
           }
         ]
       },
