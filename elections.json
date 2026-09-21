@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T02:33:37Z",
+  "generated_at": "2026-09-21T02:31:27Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -632,24 +632,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Samoa"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-20",
-        "country": "Russia",
-        "type": "2026 Legislative Election",
-        "status": "Held",
-        "source_names": [
-          "A-WEB"
-        ],
-        "links": [
-          "https://epde.org/?news=russian-authorities-shelve-plans-for-mass-rollout-of-electronic-voting"
-        ],
-        "sources": [
-          {
-            "name": "A-WEB",
-            "link": "https://epde.org/?news=russian-authorities-shelve-plans-for-mass-rollout-of-electronic-voting"
           }
         ]
       },
