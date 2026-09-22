@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T02:31:27Z",
+  "generated_at": "2026-09-22T02:34:09Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -168,18 +168,18 @@
       {
         "date": "2026-08-13",
         "country": "Zambia",
-        "type": "Zambian National Assembly",
+        "type": "Zambian Presidency",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5078/"
+          "https://www.electionguide.org/elections/id/5077/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5078/"
+            "link": "https://www.electionguide.org/elections/id/5077/"
           }
         ]
       },
@@ -783,55 +783,19 @@
       },
       {
         "date": "2026-10-04",
-        "country": "Bosnia and Herzegovina",
-        "type": "Bosnia and Herzegovina House of Representatives",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5096/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5096/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-04",
-        "country": "Bosnia and Herzegovina",
-        "type": "2026 General Election",
-        "status": "Upcoming",
-        "source_names": [
-          "A-WEB"
-        ],
-        "links": [
-          "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
-        ],
-        "sources": [
-          {
-            "name": "A-WEB",
-            "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-04",
         "country": "Brazil",
-        "type": "Brazilian Chamber of Deputies",
+        "type": "Brazilian Presidency",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5090/"
+          "https://www.electionguide.org/elections/id/5091/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5090/"
+            "link": "https://www.electionguide.org/elections/id/5091/"
           }
         ]
       },
@@ -856,7 +820,7 @@
       {
         "date": "2026-10-04",
         "country": "Brazil",
-        "type": "Governors Alagoas , Governor Amazonas , Governor Bahia , Governor Ceará , Governor Espírito Santo , Governor Federal District , Governor Goiás , Governor Maranhão , Governor Minas Gerais , Governor Pará , Governor Paraíba , Governor Paraná , Governor Pernambuco , Governor Rio de Janeiro , Governor Rio Grande do Norte , Governor Rio Grande do Sul , Governor Santa Catarina , Governor São Paulo , Governor Bosnia and Herzegovina Federation of Bosnia and Herzegovina , entity parliament and canton assemblies Republika Srpska , entity president and parliament",
+        "type": "Governors Alagoas , Governor Amazonas , Governor Bahia , Governor Ceará , Governor Espírito Santo , Governor Federal District , Governor Goiás , Governor Maranhão , Governor Minas Gerais , Governor Pará , Governor Paraíba , Governor Paraná , Governor Pernambuco , Governor Rio de Janeiro , Governor Rio Grande do Norte , Governor Rio Grande do Sul , Governor Santa Catarina , Governor São Paulo , Governor Bosnia and Herzegovina Federation of Bosnia and Herzegovina , entity parliament and canton assemblies Republika Srpska , entity president and parliament Peru , regional and municipal elections Lima , Mayor",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -868,6 +832,42 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Brazil"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Bosnia and Herzegovina",
+        "type": "Bosnia and Herzegovina Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5095/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5095/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Bosnia and Herzegovina",
+        "type": "2026 General Election",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
           }
         ]
       },
