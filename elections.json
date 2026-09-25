@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:23:38Z",
+  "generated_at": "2026-09-25T02:39:59Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -724,6 +724,24 @@
             "link": "https://en.wikipedia.org/wiki/Poland"
           }
         ]
+      },
+      {
+        "date": "2026-09-28",
+        "country": "Sweden",
+        "type": "Parliament",
+        "status": "Upcoming",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/SE/SE-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/SE/SE-LC01/elections/elections"
+          }
+        ]
       }
     ],
     "2026-10": [
@@ -766,18 +784,36 @@
       {
         "date": "2026-10-04",
         "country": "Brazil",
-        "type": "Brazilian Presidency",
+        "type": "Brazilian Federal Senate",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5091/"
+          "https://www.electionguide.org/elections/id/5089/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5091/"
+            "link": "https://www.electionguide.org/elections/id/5089/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Brazil",
+        "type": "Brazilian Chamber of Deputies",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5090/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5090/"
           }
         ]
       },
@@ -886,6 +922,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Tonga"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-09",
+        "country": "Czech Republic",
+        "type": "Czech Senate",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5082/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5082/"
           }
         ]
       },
