@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T02:42:41Z",
+  "generated_at": "2026-09-27T02:42:52Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -675,7 +675,7 @@
         "date": "2026-09-27",
         "country": "Sao Tome and Principe",
         "type": "Sao Tomean National Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -693,7 +693,7 @@
         "date": "2026-09-27",
         "country": "Switzerland",
         "type": "Referendum",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -711,7 +711,7 @@
         "date": "2026-09-27",
         "country": "Poland",
         "type": "Kraków , mayoral by-election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
