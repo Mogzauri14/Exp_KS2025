@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T02:42:52Z",
+  "generated_at": "2026-09-28T02:44:58Z",
   "current_month": "2026-09",
   "months": {
     "2026-08": [
@@ -710,7 +710,7 @@
       {
         "date": "2026-09-27",
         "country": "Poland",
-        "type": "Kraków , mayoral by-election",
+        "type": "Kraków , mayoral by-election (1st round)",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -729,7 +729,7 @@
         "date": "2026-09-28",
         "country": "Sweden",
         "type": "Parliament",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "IPU"
         ],
