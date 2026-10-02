@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T03:17:03Z",
+  "generated_at": "2026-10-02T03:17:39Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -422,18 +422,36 @@
       {
         "date": "2026-10-04",
         "country": "Brazil",
-        "type": "Brazilian Presidency",
+        "type": "Brazilian Federal Senate",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5091/"
+          "https://www.electionguide.org/elections/id/5089/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5091/"
+            "link": "https://www.electionguide.org/elections/id/5089/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Brazil",
+        "type": "Brazilian Chamber of Deputies",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5090/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5090/"
           }
         ]
       },
@@ -476,18 +494,18 @@
       {
         "date": "2026-10-04",
         "country": "Bosnia and Herzegovina",
-        "type": "Bosnia and Herzegovina House of Representatives",
+        "type": "Bosnia and Herzegovina Presidency",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5096/"
+          "https://www.electionguide.org/elections/id/5095/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5096/"
+            "link": "https://www.electionguide.org/elections/id/5095/"
           }
         ]
       },
@@ -506,6 +524,24 @@
           {
             "name": "A-WEB",
             "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-05",
+        "country": "Ethiopia",
+        "type": "House of Peoples' Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/ET/ET-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/ET/ET-LC01/elections/elections"
           }
         ]
       },
@@ -560,6 +596,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5082/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-09",
+        "country": "Morocco",
+        "type": "House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/MA/MA-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/MA/MA-LC01/elections/elections"
           }
         ]
       },
@@ -691,19 +745,19 @@
       },
       {
         "date": "2026-10-25",
-        "country": "Serbia",
-        "type": "Serbian National Assembly",
+        "country": "Bulgaria",
+        "type": "Bulgarian Presidency",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5252/"
+          "https://www.electionguide.org/elections/id/5101/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5252/"
+            "link": "https://www.electionguide.org/elections/id/5101/"
           }
         ]
       },
