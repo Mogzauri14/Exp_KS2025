@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:17:39Z",
+  "generated_at": "2026-10-03T03:03:40Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -387,7 +387,7 @@
         "date": "2026-10-03",
         "country": "Latvia",
         "type": "Latvian Parliament",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -405,7 +405,7 @@
         "date": "2026-10-03",
         "country": "Latvia",
         "type": "2026 Parliamentary Election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "A-WEB"
         ],
@@ -494,18 +494,18 @@
       {
         "date": "2026-10-04",
         "country": "Bosnia and Herzegovina",
-        "type": "Bosnia and Herzegovina Presidency",
+        "type": "Bosnia and Herzegovina House of Representatives",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5095/"
+          "https://www.electionguide.org/elections/id/5096/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5095/"
+            "link": "https://www.electionguide.org/elections/id/5096/"
           }
         ]
       },
@@ -745,19 +745,19 @@
       },
       {
         "date": "2026-10-25",
-        "country": "Bulgaria",
-        "type": "Bulgarian Presidency",
+        "country": "Serbia",
+        "type": "Serbian National Assembly",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5101/"
+          "https://www.electionguide.org/elections/id/5252/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5101/"
+            "link": "https://www.electionguide.org/elections/id/5252/"
           }
         ]
       },
