@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T03:12:32Z",
+  "generated_at": "2026-10-06T04:00:38Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -59,24 +59,6 @@
       },
       {
         "date": "2026-09-13",
-        "country": "Sweden",
-        "type": "Swedish Parliament",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5079/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5079/"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-13",
         "country": "Germany",
         "type": "Lower Saxony , local elections Sweden , regional and municipal elections Japan , Okinawa Prefecture , Governor",
         "status": "Held",
@@ -108,24 +90,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_Philippines"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-18",
-        "country": "Russia",
-        "type": "Russian State Duma",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5084/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5084/"
           }
         ]
       },
@@ -403,24 +367,6 @@
       },
       {
         "date": "2026-10-04",
-        "country": "Bosnia and Herzegovina",
-        "type": "Bosnia and Herzegovina Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5095/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5095/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-04",
         "country": "Brazil",
         "type": "Brazilian Federal Senate",
         "status": "Held",
@@ -470,6 +416,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Brazil"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Bosnia and Herzegovina",
+        "type": "Bosnia and Herzegovina Presidency",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5095/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5095/"
           }
         ]
       },
@@ -691,6 +655,24 @@
       },
       {
         "date": "2026-10-25",
+        "country": "Bulgaria",
+        "type": "Bulgarian Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5101/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5101/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
         "country": "Serbia",
         "type": "Serbian National Assembly",
         "status": "Upcoming",
@@ -709,19 +691,19 @@
       },
       {
         "date": "2026-10-25",
-        "country": "Bulgaria",
-        "type": "Bulgarian Presidency",
+        "country": "Brazil",
+        "type": "Brazilian Presidency",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5101/"
+          "https://www.electionguide.org/elections/id/5254/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5101/"
+            "link": "https://www.electionguide.org/elections/id/5254/"
           }
         ]
       },
@@ -776,6 +758,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-27",
+        "country": "Israel",
+        "type": "Israeli Knesset",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5092/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5092/"
           }
         ]
       },
@@ -838,6 +838,24 @@
       {
         "date": "2026-11-03",
         "country": "United States",
+        "type": "US House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5099/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5099/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "United States",
         "type": "midterm elections Alabama , Governor , Lieutenant Governor , Secretary of State , Attorney General , ballot measures, and local elections Alaska , Governor and Lieutenant Governor Arizona , Governor, Lieutenant Governor , Secretary of State , and Attorney General Arkansas , Governor , Lieutenant Governor , Secretary of State , and Attorney General California Governor , Lieutenant Governor , Secretary of State , and Attorney General Anaheim , Mayor Chula Vista , Mayor Irvine , Mayor Los Angeles , Mayor (2nd round) Oakland , Mayor Santa Ana , Mayor Colorado , Governor, Lieutenant Governor , Secretary of State , and Attorney General Connecticut , Governor, Lieutenant Governor , Secretary of the State , Attorney General , Comptroller , and Treasurer District of Columbia , Mayor and Attorney General Florida , Governor, Lieutenant Governor , and Attorney General Georgia , Governor , Lieutenant Governor , Secretary of State , and Attorney General Hawaii , Governor and Lieutenant Governor Idaho , Governor and Lieutenant Governor Illinois , Governor, Lieutenant Governor , Secretary of State , and Attorney General Indiana , Secretary of State Iowa , Governor, Lieutenant Governor , Secretary of State , and Attorney General Kansas , Governor, Lieutenant Governor , Secretary of State , Attorney General , and ballot measure Kentucky Lexington , Mayor Louisville , Mayor Maine , Governor Maryland , Governor, Lieutenant Governor , and Attorney General Massachusetts , Governor, Lieutenant Governor , Secretary of the Commonwealth , and Attorney General Michigan , Governor, Lieutenant Governor , Secretary of State , and Attorney General Minnesota Governor, Lieutenant Governor , Secretary of State , and Attorney General Hennepin County , County Attorney Nebraska , Governor and Lieutenant Governor Nevada Governor , Lieutenant Governor , Secretary of State , and Attorney General Henderson , Mayor (2nd round) North Las Vegas , Mayor (2nd round) Reno , Mayor New Hampshire , Governor New Mexico , Governor, Lieutenant Governor , and Secretary of State New York , Governor, Lieutenant Governor , and Attorney General North Carolina , Raleigh , Mayor Ohio , Governor, Lieutenant Governor , Secretary of State , and Attorney General Oklahoma , Governor , Lieutenant Governor , and Attorney General Oregon , Governor Pennsylvania , Governor and Lieutenant Governor Rhode Island , Governor , Lieutenant Governor , and Attorney General South Carolina , Governor, Lieutenant Governor , and Attorney General South Dakota , Governor, Lieutenant Governor , Secretary of State , Attorney General , and ballot measure Tennessee , Governor and county elections Texas Governor , Lieutenant Governor , and Attorney General Corpus Christi , Mayor Laredo , Mayor Vermont , Governor , Lieutenant Governor , and ballot measure Virginia , ballot measures Wisconsin , Governor, Lieutenant Governor , Secretary of State , and Attorney General Wyoming , Governor and local elections",
         "status": "Upcoming",
         "source_names": [
@@ -850,6 +868,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "Guam",
+        "type": "Guamanian Legislature",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5102/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5102/"
           }
         ]
       },
