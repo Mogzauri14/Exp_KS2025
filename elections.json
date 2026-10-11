@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T03:31:59Z",
+  "generated_at": "2026-10-11T03:04:45Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -422,7 +422,7 @@
       {
         "date": "2026-10-04",
         "country": "Brazil",
-        "type": "Governors Alagoas , Governor Amazonas , Governor Bahia , Governor Ceará , Governor Espírito Santo , Governor Federal District , Governor Goiás , Governor Maranhão , Governor Minas Gerais , Governor Pará , Governor Paraíba , Governor Paraná , Governor Pernambuco , Governor Rio de Janeiro , Governor Rio Grande do Norte , Governor Rio Grande do Sul , Governor Santa Catarina , Governor São Paulo , Governor Bosnia and Herzegovina Federation of Bosnia and Herzegovina , entity parliament and canton assemblies Republika Srpska , entity president and parliament Peru , regional and municipal elections Lima , Mayor",
+        "type": "Governors Alagoas , Governor Amazonas , Governor Bahia , Governor Ceará , Governor Espírito Santo , Governor Federal District , Governor Goiás , Governor Maranhão , Governor Minas Gerais , Governor Pará , Governor Paraíba , Governor Paraná , Governor Pernambuco , Governor Rio de Janeiro , Governor Rio Grande do Norte , Governor Rio Grande do Sul , Governor Santa Catarina , Governor São Paulo , Governor Bosnia and Herzegovina Federation of Bosnia and Herzegovina , entity parliament and canton assemblies Republika Srpska , entity president and parliament Paraguay , municipal elections [ es ] Peru , regional and municipal elections [ es ] Lima , Mayor",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -549,7 +549,7 @@
         "date": "2026-10-11",
         "country": "Slovenia",
         "type": "Referendum",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -567,7 +567,7 @@
         "date": "2026-10-11",
         "country": "Poland",
         "type": "Kraków , mayoral election (2nd round)",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -946,7 +946,7 @@
       {
         "date": "2026-11-08",
         "country": "Lithuania",
-        "type": "Northern Nalšios By-Election",
+        "type": "Northern Nalšia by-election",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
