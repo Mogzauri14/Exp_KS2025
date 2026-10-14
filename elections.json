@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T04:42:30Z",
+  "generated_at": "2026-10-14T02:51:20Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -546,6 +546,24 @@
         ]
       },
       {
+        "date": "2026-10-16",
+        "country": "Czech Republic",
+        "type": "Czech Senate",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5259/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5259/"
+          }
+        ]
+      },
+      {
         "date": "2026-10-17",
         "country": "Canada",
         "type": "British Columbia , municipal elections Vancouver , municipal elections",
@@ -637,6 +655,24 @@
       },
       {
         "date": "2026-10-25",
+        "country": "Serbia",
+        "type": "Serbian National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5252/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5252/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
         "country": "Brazil",
         "type": "Brazilian Presidency",
         "status": "Upcoming",
@@ -668,24 +704,6 @@
           {
             "name": "A-WEB",
             "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
-        "country": "Serbia",
-        "type": "Serbian National Assembly",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5252/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5252/"
           }
         ]
       },
@@ -801,24 +819,6 @@
       },
       {
         "date": "2026-11-03",
-        "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands Governor",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5105/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5105/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
         "country": "United States",
         "type": "US Senate",
         "status": "Upcoming",
@@ -855,6 +855,24 @@
       },
       {
         "date": "2026-11-03",
+        "country": "Northern Mariana Islands",
+        "type": "Northern Mariana Islands Governor",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5105/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5105/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
         "country": "American Samoa",
         "type": "American Samoan House of Representatives",
         "status": "Upcoming",
@@ -868,24 +886,6 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5214/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "Guam",
-        "type": "Guamanian Legislature",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5102/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5102/"
           }
         ]
       },
@@ -958,6 +958,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-10",
+        "country": "Sao Tome and Principe",
+        "type": "National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/ST/ST-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/ST/ST-LC01/elections/elections"
           }
         ]
       },
