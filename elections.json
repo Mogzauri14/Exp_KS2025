@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T02:24:49Z",
+  "generated_at": "2026-10-17T02:17:20Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -331,6 +331,24 @@
       },
       {
         "date": "2026-10-04",
+        "country": "Bosnia and Herzegovina",
+        "type": "Bosnia and Herzegovina House of Representatives",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5096/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5096/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
         "country": "Brazil",
         "type": "Brazilian Chamber of Deputies",
         "status": "Held",
@@ -380,24 +398,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Brazil"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-04",
-        "country": "Bosnia and Herzegovina",
-        "type": "Bosnia and Herzegovina Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5095/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5095/"
           }
         ]
       },
@@ -567,7 +567,7 @@
         "date": "2026-10-17",
         "country": "Canada",
         "type": "British Columbia , municipal elections Vancouver , municipal elections",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -637,24 +637,6 @@
       },
       {
         "date": "2026-10-25",
-        "country": "Bulgaria",
-        "type": "Bulgarian Presidency",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5101/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5101/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
         "country": "Serbia",
         "type": "Serbian National Assembly",
         "status": "Upcoming",
@@ -668,6 +650,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5252/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
+        "country": "Bulgaria",
+        "type": "Bulgarian Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5101/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5101/"
           }
         ]
       },
@@ -819,6 +819,42 @@
       },
       {
         "date": "2026-11-03",
+        "country": "Northern Mariana Islands",
+        "type": "Northern Mariana Islands Governor",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5105/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5105/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "American Samoa",
+        "type": "American Samoan House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5214/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5214/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
         "country": "United States",
         "type": "US Senate",
         "status": "Upcoming",
@@ -855,37 +891,19 @@
       },
       {
         "date": "2026-11-03",
-        "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands Governor",
+        "country": "Latvia",
+        "type": "Parliament",
         "status": "Upcoming",
         "source_names": [
-          "ElectionGuide"
+          "IPU"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5105/"
+          "https://data.ipu.org/parliament/LV/LV-LC01/elections/elections"
         ],
         "sources": [
           {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5105/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "American Samoa",
-        "type": "American Samoan House of Representatives",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5214/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5214/"
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/LV/LV-LC01/elections/elections"
           }
         ]
       },
