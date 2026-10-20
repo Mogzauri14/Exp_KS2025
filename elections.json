@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T02:32:28Z",
+  "generated_at": "2026-10-20T02:45:11Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -294,6 +294,24 @@
         ]
       },
       {
+        "date": "2026-10-01",
+        "country": "Gambia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-gambia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-gambia-2026_en"
+          }
+        ]
+      },
+      {
         "date": "2026-10-03",
         "country": "Latvia",
         "type": "Latvian Parliament",
@@ -314,24 +332,6 @@
       {
         "date": "2026-10-04",
         "country": "Brazil",
-        "type": "Brazilian Chamber of Deputies",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5090/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5090/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-04",
-        "country": "Brazil",
         "type": "Brazilian Federal Senate",
         "status": "Held",
         "source_names": [
@@ -344,6 +344,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5089/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Brazil",
+        "type": "Brazilian Chamber of Deputies",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5090/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5090/"
           }
         ]
       },
@@ -619,42 +637,6 @@
       },
       {
         "date": "2026-10-25",
-        "country": "Serbia",
-        "type": "Serbian National Assembly",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5252/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5252/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
-        "country": "Bulgaria",
-        "type": "Bulgarian Presidency",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5101/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5101/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
         "country": "Brazil",
         "type": "Brazilian Presidency",
         "status": "Upcoming",
@@ -686,6 +668,42 @@
           {
             "name": "A-WEB",
             "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
+        "country": "Serbia",
+        "type": "Serbian National Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5252/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5252/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
+        "country": "Bulgaria",
+        "type": "Bulgarian Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5101/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5101/"
           }
         ]
       },
@@ -801,6 +819,42 @@
       },
       {
         "date": "2026-11-03",
+        "country": "American Samoa",
+        "type": "American Samoan House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5214/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5214/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "Northern Mariana Islands",
+        "type": "Northern Mariana Islands House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5103/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5103/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
         "country": "United States",
         "type": "US Senate",
         "status": "Upcoming",
@@ -832,60 +886,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands Governor",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5105/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5105/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "American Samoa",
-        "type": "American Samoan House of Representatives",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5214/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5214/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "Guam",
-        "type": "Guamanian Legislature",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5102/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5102/"
           }
         ]
       },
