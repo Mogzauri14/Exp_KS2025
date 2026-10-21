@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T02:45:11Z",
+  "generated_at": "2026-10-21T02:38:57Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -602,7 +602,7 @@
       {
         "date": "2026-10-19",
         "country": "Canada",
-        "type": "Alberta , Referendum",
+        "type": "Alberta , Referendums",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -1012,6 +1012,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Moldova"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-19",
+        "country": "Czech Republic",
+        "type": "Senate",
+        "status": "Upcoming",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/CZ/CZ-UC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/CZ/CZ-UC01/elections/elections"
           }
         ]
       },
