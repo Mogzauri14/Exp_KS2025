@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:38:57Z",
+  "generated_at": "2026-10-22T02:36:43Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -200,114 +200,6 @@
           {
             "name": "IPU",
             "link": "https://data.ipu.org/parliament/FR/FR-UC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "Colombia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-colombia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "Peru",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-peru-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "Bangladesh",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-bangladesh-2026"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "Zambia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-zambia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-zambia-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "São Tomé e Príncipe",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "Gambia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-gambia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-gambia-2026_en"
           }
         ]
       },
@@ -637,42 +529,6 @@
       },
       {
         "date": "2026-10-25",
-        "country": "Brazil",
-        "type": "Brazilian Presidency",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5254/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5254/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
-        "country": "Brazil",
-        "type": "2026 General Elections (2nd round)",
-        "status": "Upcoming",
-        "source_names": [
-          "A-WEB"
-        ],
-        "links": [
-          "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
-        ],
-        "sources": [
-          {
-            "name": "A-WEB",
-            "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
         "country": "Serbia",
         "type": "Serbian National Assembly",
         "status": "Upcoming",
@@ -704,6 +560,42 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5101/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
+        "country": "Brazil",
+        "type": "Brazilian Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5254/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5254/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
+        "country": "Brazil",
+        "type": "2026 General Elections (2nd round)",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
           }
         ]
       },
@@ -838,18 +730,18 @@
       {
         "date": "2026-11-03",
         "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands House of Representatives",
+        "type": "Northern Mariana Islands Senate",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5103/"
+          "https://www.electionguide.org/elections/id/5104/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5103/"
+            "link": "https://www.electionguide.org/elections/id/5104/"
           }
         ]
       },
