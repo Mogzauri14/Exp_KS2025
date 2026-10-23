@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T02:36:43Z",
+  "generated_at": "2026-10-23T02:41:20Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -711,6 +711,24 @@
       },
       {
         "date": "2026-11-03",
+        "country": "Northern Mariana Islands",
+        "type": "Northern Mariana Islands Governor",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5105/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5105/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
         "country": "American Samoa",
         "type": "American Samoan House of Representatives",
         "status": "Upcoming",
@@ -724,24 +742,6 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5214/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands Senate",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5104/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5104/"
           }
         ]
       },
