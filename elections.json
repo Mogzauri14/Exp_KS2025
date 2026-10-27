@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T02:27:08Z",
+  "generated_at": "2026-10-27T03:02:05Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -204,20 +204,20 @@
         ]
       },
       {
-        "date": "2026-10-03",
-        "country": "Latvia",
-        "type": "Latvian Parliament",
+        "date": "2026-10-04",
+        "country": "Bosnia and Herzegovina",
+        "type": "Bosnia and Herzegovina Presidency",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5087/"
+          "https://www.electionguide.org/elections/id/5095/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5087/"
+            "link": "https://www.electionguide.org/elections/id/5095/"
           }
         ]
       },
@@ -242,24 +242,6 @@
       {
         "date": "2026-10-04",
         "country": "Brazil",
-        "type": "Brazilian Chamber of Deputies",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5090/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5090/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-04",
-        "country": "Brazil",
         "type": "Governors (1st round) Acre , Governor (1st round) Alagoas , Governor Amapá , Governor Amazonas , Governor (1st round) Bahia , Governor Ceará , Governor Espírito Santo , Governor (1st round) Federal District , Governor (1st round) Goiás , Governor Maranhão , Governor Mato Grosso , Governor Mato Grosso do Sul , Governor Minas Gerais , Governor Pará , Governor Paraíba , Governor Paraná , Governor Pernambuco , Governor Piauí , Governor Rio de Janeiro , Governor Rio Grande do Norte , Governor (1st round) Rio Grande do Sul , Governor Rondônia , Governor Roraima , Governor Santa Catarina , Governor São Paulo , Governor Sergipe , Governor Tocantins , Governor (1st round) Bosnia and Herzegovina Federation of Bosnia and Herzegovina , entity parliament and canton assemblies Republika Srpska , entity president and parliament Paraguay , municipal elections [ es ] Peru , regional and municipal elections [ es ] Lima , Mayor",
         "status": "Held",
         "source_names": [
@@ -272,24 +254,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Brazil"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-04",
-        "country": "Bosnia and Herzegovina",
-        "type": "Bosnia and Herzegovina Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5095/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5095/"
           }
         ]
       },
@@ -529,24 +493,6 @@
       },
       {
         "date": "2026-10-25",
-        "country": "Serbia",
-        "type": "Serbian National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5252/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5252/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
         "country": "Bulgaria",
         "type": "Bulgarian Presidency",
         "status": "Held",
@@ -600,6 +546,24 @@
         ]
       },
       {
+        "date": "2026-10-25",
+        "country": "Serbia",
+        "type": "Serbian National Assembly",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5252/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5252/"
+          }
+        ]
+      },
+      {
         "date": "2026-10-26",
         "country": "Canada",
         "type": "Ontario , municipal elections Hamilton , municipal elections Ottawa , municipal elections York Region municipal elections Toronto , municipal elections",
@@ -621,7 +585,7 @@
         "date": "2026-10-27",
         "country": "Israel",
         "type": "Israeli Knesset",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -655,6 +619,24 @@
       }
     ],
     "2026-11": [
+      {
+        "date": "2026-11-01",
+        "country": "Bulgaria",
+        "type": "Bulgarian Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5261/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5261/"
+          }
+        ]
+      },
       {
         "date": "2026-11-02",
         "country": "The Philippines",
@@ -693,37 +675,55 @@
       },
       {
         "date": "2026-11-03",
-        "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands Governor",
+        "country": "Guam",
+        "type": "Guamanian Governor",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5105/"
+          "https://www.electionguide.org/elections/id/5213/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5105/"
+            "link": "https://www.electionguide.org/elections/id/5213/"
           }
         ]
       },
       {
         "date": "2026-11-03",
-        "country": "American Samoa",
-        "type": "American Samoan House of Representatives",
+        "country": "Virgin Islands, U.S.",
+        "type": "U.S. Virgin Islands Governor",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5214/"
+          "https://www.electionguide.org/elections/id/5216/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5214/"
+            "link": "https://www.electionguide.org/elections/id/5216/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "Northern Mariana Islands",
+        "type": "Northern Mariana Islands Senate",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5104/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5104/"
           }
         ]
       },
@@ -868,6 +868,24 @@
           {
             "name": "IPU",
             "link": "https://data.ipu.org/parliament/ST/ST-LC01/elections/elections"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-14",
+        "country": "Malaysia",
+        "type": "Malacca , State Legislative Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Malaysia"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Malaysia"
           }
         ]
       },
