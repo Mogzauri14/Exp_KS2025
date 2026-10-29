@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T03:13:38Z",
+  "generated_at": "2026-10-29T03:38:58Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -206,18 +206,18 @@
       {
         "date": "2026-10-04",
         "country": "Brazil",
-        "type": "Brazilian Presidency",
+        "type": "Brazilian Chamber of Deputies",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5091/"
+          "https://www.electionguide.org/elections/id/5090/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5091/"
+            "link": "https://www.electionguide.org/elections/id/5090/"
           }
         ]
       },
@@ -242,18 +242,18 @@
       {
         "date": "2026-10-04",
         "country": "Bosnia and Herzegovina",
-        "type": "Bosnia and Herzegovina Presidency",
+        "type": "Bosnia and Herzegovina House of Representatives",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5095/"
+          "https://www.electionguide.org/elections/id/5096/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5095/"
+            "link": "https://www.electionguide.org/elections/id/5096/"
           }
         ]
       },
@@ -511,6 +511,24 @@
       },
       {
         "date": "2026-10-25",
+        "country": "Bulgaria",
+        "type": "Bulgarian Presidency",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5101/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5101/"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
         "country": "Brazil",
         "type": "Brazilian Presidency",
         "status": "Held",
@@ -542,24 +560,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Brazil"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
-        "country": "Bulgaria",
-        "type": "Bulgarian Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5101/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5101/"
           }
         ]
       },
@@ -676,20 +676,20 @@
       {
         "date": "2026-11-03",
         "country": "United States",
-        "type": "US Senate",
+        "type": "US House of Representatives",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide",
           "Wikipedia"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5098/",
+          "https://www.electionguide.org/elections/id/5099/",
           "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5098/"
+            "link": "https://www.electionguide.org/elections/id/5099/"
           },
           {
             "name": "Wikipedia",
@@ -699,19 +699,37 @@
       },
       {
         "date": "2026-11-03",
-        "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands Governor",
+        "country": "Guam",
+        "type": "Guamanian Legislature",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5105/"
+          "https://www.electionguide.org/elections/id/5102/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5105/"
+            "link": "https://www.electionguide.org/elections/id/5102/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "Virgin Islands, U.S.",
+        "type": "U.S. Virgin Islands Governor",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5216/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5216/"
           }
         ]
       },
@@ -735,37 +753,19 @@
       },
       {
         "date": "2026-11-03",
-        "country": "Guam",
-        "type": "Guamanian Governor",
+        "country": "Northern Mariana Islands",
+        "type": "Northern Mariana Islands House of Representatives",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5213/"
+          "https://www.electionguide.org/elections/id/5103/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5213/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "Virgin Islands, U.S.",
-        "type": "U.S. Virgin Islands Governor",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5216/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5216/"
+            "link": "https://www.electionguide.org/elections/id/5103/"
           }
         ]
       },
