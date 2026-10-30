@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T03:38:58Z",
+  "generated_at": "2026-10-30T03:42:37Z",
   "current_month": "2026-10",
   "months": {
     "2026-09": [
@@ -204,6 +204,132 @@
         ]
       },
       {
+        "date": "2026-10-01",
+        "country": "Colombia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-colombia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "country": "Peru",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-peru-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "country": "Bangladesh",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-bangladesh-2026"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "country": "Zambia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-zambia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-zambia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "country": "São Tomé e Príncipe",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "country": "Gambia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-gambia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-gambia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-04",
+        "country": "Bosnia and Herzegovina",
+        "type": "Bosnia and Herzegovina House of Representatives",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5096/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5096/"
+          }
+        ]
+      },
+      {
         "date": "2026-10-04",
         "country": "Brazil",
         "type": "Brazilian Chamber of Deputies",
@@ -236,24 +362,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Brazil"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-04",
-        "country": "Bosnia and Herzegovina",
-        "type": "Bosnia and Herzegovina House of Representatives",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5096/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5096/"
           }
         ]
       },
@@ -493,24 +601,6 @@
       },
       {
         "date": "2026-10-25",
-        "country": "Serbia",
-        "type": "Serbian National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5252/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5252/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
         "country": "Bulgaria",
         "type": "Bulgarian Presidency",
         "status": "Held",
@@ -560,6 +650,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Brazil"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
+        "country": "Serbia",
+        "type": "Serbian National Assembly",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5252/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5252/"
           }
         ]
       },
@@ -675,25 +783,73 @@
       },
       {
         "date": "2026-11-03",
-        "country": "United States",
-        "type": "US House of Representatives",
+        "country": "Northern Mariana Islands",
+        "type": "Northern Mariana Islands House of Representatives",
         "status": "Upcoming",
         "source_names": [
-          "ElectionGuide",
-          "Wikipedia"
+          "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5099/",
-          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          "https://www.electionguide.org/elections/id/5103/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5099/"
-          },
+            "link": "https://www.electionguide.org/elections/id/5103/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "United States",
+        "type": "US Senate",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5098/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5098/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "United States",
+        "type": "midterm elections Alabama , Governor , Lieutenant Governor , Secretary of State , Attorney General , ballot measures, and local elections Alaska , Governor and Lieutenant Governor Arizona , Governor, Lieutenant Governor , Secretary of State , and Attorney General Arkansas , Governor , Lieutenant Governor , Secretary of State , and Attorney General California Governor , Lieutenant Governor , Secretary of State , and Attorney General Anaheim , Mayor Chula Vista , Mayor Irvine , Mayor Los Angeles , Mayor (2nd round) Oakland , Mayor Santa Ana , Mayor Colorado , Governor, Lieutenant Governor , Secretary of State , and Attorney General Connecticut , Governor, Lieutenant Governor , Secretary of the State , Attorney General , Comptroller , and Treasurer District of Columbia , Mayor and Attorney General Florida Governor, Lieutenant Governor , and Attorney General St. Petersburg , Mayor (2nd round) Tallahassee , Mayor (2nd round) Georgia , Governor , Lieutenant Governor , Secretary of State , and Attorney General Hawaii , Governor and Lieutenant Governor Idaho , Governor and Lieutenant Governor Illinois , Governor, Lieutenant Governor , Secretary of State , and Attorney General Indiana , Secretary of State Iowa , Governor, Lieutenant Governor , Secretary of State , and Attorney General Kansas , Governor, Lieutenant Governor , Secretary of State , Attorney General , and ballot measure Kentucky Lexington , Mayor Louisville , Mayor Maine , Governor Maryland , Governor, Lieutenant Governor , and Attorney General Massachusetts , Governor, Lieutenant Governor , Secretary of the Commonwealth , and Attorney General Michigan , Governor, Lieutenant Governor , Secretary of State , and Attorney General Minnesota Governor, Lieutenant Governor , Secretary of State , and Attorney General Hennepin County , County Attorney Nebraska , Governor and Lieutenant Governor Nevada Governor , Lieutenant Governor , Secretary of State , and Attorney General Henderson , Mayor (2nd round) North Las Vegas , Mayor (2nd round) Reno , Mayor New Hampshire , Governor New Mexico , Governor, Lieutenant Governor , and Secretary of State New York , Governor, Lieutenant Governor , and Attorney General North Carolina , Raleigh , Mayor Ohio , Governor, Lieutenant Governor , Secretary of State , and Attorney General Oklahoma , Governor , Lieutenant Governor , and Attorney General Oregon , Governor Pennsylvania , Governor and Lieutenant Governor Rhode Island , Governor , Lieutenant Governor , and Attorney General South Carolina , Governor, Lieutenant Governor , and Attorney General South Dakota , Governor, Lieutenant Governor , Secretary of State , Attorney General , and ballot measure Tennessee , Governor and county elections Texas Governor , Lieutenant Governor , and Attorney General Corpus Christi , Mayor Laredo , Mayor Vermont , Governor , Lieutenant Governor , and ballot measure Virginia , ballot measures Wisconsin , Governor, Lieutenant Governor , Secretary of State , and Attorney General Wyoming , Governor and local elections",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+        ],
+        "sources": [
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "Virgin Islands, U.S.",
+        "type": "U.S. Virgin Islands Legislature",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5215/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5215/"
           }
         ]
       },
@@ -712,60 +868,6 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5102/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "Virgin Islands, U.S.",
-        "type": "U.S. Virgin Islands Governor",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5216/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5216/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "American Samoa",
-        "type": "American Samoan House of Representatives",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5214/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5214/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands House of Representatives",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5103/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5103/"
           }
         ]
       },
