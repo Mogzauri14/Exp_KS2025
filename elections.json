@@ -1,189 +1,7 @@
 {
-  "generated_at": "2026-10-31T03:26:10Z",
-  "current_month": "2026-10",
+  "generated_at": "2026-11-01T03:28:09Z",
+  "current_month": "2026-11",
   "months": {
-    "2026-09": [
-      {
-        "date": "2026-09-03",
-        "country": "Canada",
-        "type": "Ontario Hamilton East—Stoney Creek , by-election York—Simcoe , by-election Scarborough Southwest , by-election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Canada"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-06",
-        "country": "Germany",
-        "type": "Saxony-Anhalt , Landtag",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Germany"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Germany"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-12",
-        "country": "Australia",
-        "type": "Northern Territory , Mulka , by-election [ 9 ]",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Australia"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-13",
-        "country": "Germany",
-        "type": "Lower Saxony , local elections Sweden , regional and municipal elections Japan , Okinawa Prefecture , Governor",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Germany"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Germany"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-14",
-        "country": "Philippines",
-        "type": "Bangsamoro Parliament Canada , Alberta , Calgary-Shaw , by-election [ 10 ]",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_the_Philippines"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_the_Philippines"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-18",
-        "country": "Samoa",
-        "type": "[ 11 ] Falealili 1, Legislative Assembly by-election Vaimauga 3, Legislative Assembly by-election",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Samoa"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Samoa"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-20",
-        "country": "Germany",
-        "type": "Berlin , Abgeordnetenhaus and Bezirksverordnetenversammlungen Mecklenburg-Vorpommern , Landtag Russia , regional elections",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Germany"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Germany"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-27",
-        "country": "Poland",
-        "type": "Kraków , mayoral by-election (1st round)",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Poland"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Poland"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-28",
-        "country": "Sweden",
-        "type": "Parliament",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/SE/SE-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/SE/SE-LC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-30",
-        "country": "Russia",
-        "type": "State Duma",
-        "status": "Held",
-        "source_names": [
-          "IPU"
-        ],
-        "links": [
-          "https://data.ipu.org/parliament/RU/RU-LC01/elections/elections"
-        ],
-        "sources": [
-          {
-            "name": "IPU",
-            "link": "https://data.ipu.org/parliament/RU/RU-LC01/elections/elections"
-          }
-        ]
-      }
-    ],
     "2026-10": [
       {
         "date": "2026-10-01",
@@ -200,114 +18,6 @@
           {
             "name": "IPU",
             "link": "https://data.ipu.org/parliament/FR/FR-UC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "Colombia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-colombia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "Peru",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-peru-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "Bangladesh",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-bangladesh-2026"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "Zambia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-zambia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-zambia-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "São Tomé e Príncipe",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "country": "Gambia",
-        "type": "EU Election Observation Mission",
-        "status": "Held",
-        "source_names": [
-          "EEAS"
-        ],
-        "links": [
-          "https://www.eeas.europa.eu/eom-gambia-2026_en"
-        ],
-        "sources": [
-          {
-            "name": "EEAS",
-            "link": "https://www.eeas.europa.eu/eom-gambia-2026_en"
           }
         ]
       },
@@ -731,7 +441,7 @@
         "date": "2026-11-01",
         "country": "Bulgaria",
         "type": "Bulgarian Presidency",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -742,6 +452,114 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5261/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "country": "Colombia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-colombia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "country": "Peru",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-peru-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "country": "Bangladesh",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-bangladesh-2026"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "country": "Zambia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-zambia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-zambia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "country": "São Tomé e Príncipe",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "country": "Gambia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-gambia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-gambia-2026_en"
           }
         ]
       },
@@ -1084,6 +902,62 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
+          }
+        ]
+      }
+    ],
+    "2026-12": [
+      {
+        "date": "2026-12-05",
+        "country": "Gambia",
+        "type": "2026  Presidential Election",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://thepoint.gm/africa/gambia/headlines/2026-presidential-election-set-for-dec-5-iec-chairman"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://thepoint.gm/africa/gambia/headlines/2026-presidential-election-set-for-dec-5-iec-chairman"
+          }
+        ]
+      },
+      {
+        "date": "2026-12-14",
+        "country": "Canada",
+        "type": "Northwest Territories , municipal elections",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          }
+        ]
+      },
+      {
+        "date": "2026-12-22",
+        "country": "South Sudan",
+        "type": "2026 General Election",
+        "status": "Upcoming",
+        "source_names": [
+          "A-WEB"
+        ],
+        "links": [
+          "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+        ],
+        "sources": [
+          {
+            "name": "A-WEB",
+            "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
           }
         ]
       }
