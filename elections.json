@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T03:28:09Z",
+  "generated_at": "2026-11-02T03:36:42Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -567,7 +567,7 @@
         "date": "2026-11-02",
         "country": "The Philippines",
         "type": "2026 Barangay and Sangguniang Kabataan Elections (BSKE)",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "A-WEB"
         ],
@@ -585,7 +585,7 @@
         "date": "2026-11-02",
         "country": "Canada",
         "type": "Prince Edward Island , municipal elections",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -922,6 +922,24 @@
           {
             "name": "A-WEB",
             "link": "https://thepoint.gm/africa/gambia/headlines/2026-presidential-election-set-for-dec-5-iec-chairman"
+          }
+        ]
+      },
+      {
+        "date": "2026-12-07",
+        "country": "Elections in Canada",
+        "type": "Saint-Hyacinthe—Bagot—Acton : federal by-election Scarborough North : federal by-election Rosemont—La Petite-Patrie : federal by-election Laurier—Sainte-Marie : federal by-election Yorkton—Melville : federal by-election Brantford—Brant South : federal by-election",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Canada"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
           }
         ]
       },
