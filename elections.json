@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T04:42:16Z",
+  "generated_at": "2026-11-04T04:03:25Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -663,7 +663,7 @@
         "date": "2026-11-04",
         "country": "South Africa",
         "type": "municipal elections",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
