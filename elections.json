@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:03:25Z",
+  "generated_at": "2026-11-05T04:25:03Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -18,24 +18,6 @@
           {
             "name": "IPU",
             "link": "https://data.ipu.org/parliament/FR/FR-UC01/elections/elections"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-04",
-        "country": "Brazil",
-        "type": "Brazilian Chamber of Deputies",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5090/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5090/"
           }
         ]
       },
@@ -113,24 +95,6 @@
       },
       {
         "date": "2026-10-09",
-        "country": "Czech Republic",
-        "type": "Czech Senate",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5082/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5082/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-09",
         "country": "Morocco",
         "type": "House of Representatives",
         "status": "Held",
@@ -167,24 +131,6 @@
       },
       {
         "date": "2026-10-11",
-        "country": "Slovenia",
-        "type": "Referendum",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5253/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5253/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-11",
         "country": "Poland",
         "type": "Kraków , mayoral election (2nd round)",
         "status": "Held",
@@ -198,24 +144,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Poland"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-16",
-        "country": "Czech Republic",
-        "type": "Czech Senate",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5259/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5259/"
           }
         ]
       },
@@ -293,42 +221,6 @@
       },
       {
         "date": "2026-10-25",
-        "country": "Bulgaria",
-        "type": "Bulgarian Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5101/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5101/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
-        "country": "Brazil",
-        "type": "Brazilian Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5254/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5254/"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
         "country": "Brazil",
         "type": "Governors (2nd round) Acre , Governor (2nd round) Amazonas , Governor (2nd round) Espírito Santo , Governor (2nd round) Federal District , Governor (2nd round) Rio Grande do Norte , Governor (2nd round) Tocantins , Governor (2nd round) Japan , Fukushima , Governor",
         "status": "Held",
@@ -342,24 +234,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Brazil"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
-        "country": "Serbia",
-        "type": "Serbian National Assembly",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5252/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5252/"
           }
         ]
       },
@@ -378,24 +252,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-27",
-        "country": "Israel",
-        "type": "Israeli Knesset",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5092/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5092/"
           }
         ]
       },
@@ -419,24 +275,6 @@
       }
     ],
     "2026-11": [
-      {
-        "date": "2026-11-01",
-        "country": "Bulgaria",
-        "type": "Bulgarian Presidency",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5261/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5261/"
-          }
-        ]
-      },
       {
         "date": "2026-11-01",
         "country": "Colombia",
@@ -565,6 +403,24 @@
       },
       {
         "date": "2026-11-03",
+        "country": "Guam",
+        "type": "Guamanian Governor",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5213/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5213/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
         "country": "Virgin Islands, U.S.",
         "type": "U.S. Virgin Islands Governor",
         "status": "Held",
@@ -584,36 +440,18 @@
       {
         "date": "2026-11-03",
         "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands House of Representatives",
+        "type": "Northern Mariana Islands Senate",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5103/"
+          "https://www.electionguide.org/elections/id/5104/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5103/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "Guam",
-        "type": "Guamanian Governor",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5213/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5213/"
+            "link": "https://www.electionguide.org/elections/id/5104/"
           }
         ]
       },
@@ -678,6 +516,24 @@
         ]
       },
       {
+        "date": "2026-11-05",
+        "country": "Grenada",
+        "type": "Grenadian House of Representatives",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5260/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5260/"
+          }
+        ]
+      },
+      {
         "date": "2026-11-06",
         "country": "Ireland",
         "type": "Seanad by-election",
@@ -692,6 +548,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_Republic_of_Ireland"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-07",
+        "country": "New Zealand",
+        "type": "New Zealand House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5107/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5107/"
           }
         ]
       },
@@ -764,6 +638,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Malaysia"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-15",
+        "country": "Cape Verde",
+        "type": "Cabo Verdean Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5093/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5093/"
           }
         ]
       },
@@ -856,9 +748,63 @@
             "link": "https://en.wikipedia.org/wiki/Elections_in_Australia"
           }
         ]
+      },
+      {
+        "date": "2026-11-29",
+        "country": "Spain",
+        "type": "Spanish Congress of Deputies",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5256/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5256/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-29",
+        "country": "Switzerland",
+        "type": "Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5097/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5097/"
+          }
+        ]
       }
     ],
     "2026-12": [
+      {
+        "date": "2026-12-05",
+        "country": "Gambia, The",
+        "type": "Gambian Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5106/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5106/"
+          }
+        ]
+      },
       {
         "date": "2026-12-05",
         "country": "Gambia",
@@ -878,6 +824,24 @@
         ]
       },
       {
+        "date": "2026-12-06",
+        "country": "Northern Cyprus",
+        "type": "Northern Cypriot Assembly of the Republic",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5208/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5208/"
+          }
+        ]
+      },
+      {
         "date": "2026-12-07",
         "country": "Elections in Canada",
         "type": "Saint-Hyacinthe—Bagot—Acton : federal by-election Scarborough North : federal by-election Rosemont—La Petite-Patrie : federal by-election Laurier—Sainte-Marie : federal by-election Yorkton—Melville : federal by-election Brantford—Brant South : federal by-election",
@@ -892,6 +856,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
+          }
+        ]
+      },
+      {
+        "date": "2026-12-09",
+        "country": "Fiji",
+        "type": "Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5258/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5258/"
           }
         ]
       },
