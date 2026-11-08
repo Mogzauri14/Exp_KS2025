@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T03:51:42Z",
+  "generated_at": "2026-11-08T03:34:05Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -465,7 +465,7 @@
         "date": "2026-11-08",
         "country": "Lithuania",
         "type": "Northern Nalšia, Seimas by-election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -735,7 +735,7 @@
       },
       {
         "date": "2026-12-07",
-        "country": "Elections in Canada",
+        "country": "Canada",
         "type": "Saint-Hyacinthe—Bagot—Acton : federal by-election Scarborough North : federal by-election Rosemont—La Petite-Patrie : federal by-election Laurier—Sainte-Marie : federal by-election Yorkton—Melville : federal by-election Brantford—Brant South : federal by-election",
         "status": "Upcoming",
         "source_names": [
@@ -766,6 +766,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5258/"
+          }
+        ]
+      },
+      {
+        "date": "2026-12-12",
+        "country": "Malaysia",
+        "type": "Sarawak , State Legislative Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Malaysia"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Malaysia"
           }
         ]
       },
