@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T03:34:05Z",
+  "generated_at": "2026-11-09T03:48:55Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -296,36 +296,54 @@
       {
         "date": "2026-11-03",
         "country": "Guam",
-        "type": "Guamanian Governor",
+        "type": "Guamanian Legislature",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5213/"
+          "https://www.electionguide.org/elections/id/5102/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5213/"
+            "link": "https://www.electionguide.org/elections/id/5102/"
           }
         ]
       },
       {
         "date": "2026-11-03",
         "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands House of Representatives",
+        "type": "Northern Mariana Islands Governor",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5103/"
+          "https://www.electionguide.org/elections/id/5105/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5103/"
+            "link": "https://www.electionguide.org/elections/id/5105/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "Virgin Islands, U.S.",
+        "type": "U.S. Virgin Islands Legislature",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5215/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5215/"
           }
         ]
       },
@@ -350,24 +368,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "Virgin Islands, U.S.",
-        "type": "U.S. Virgin Islands Legislature",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5215/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5215/"
           }
         ]
       },
@@ -483,7 +483,7 @@
         "date": "2026-11-09",
         "country": "Canada",
         "type": "Saskatchewan , municipal elections",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -643,24 +643,6 @@
       },
       {
         "date": "2026-11-29",
-        "country": "Switzerland",
-        "type": "Referendum",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5097/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5097/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-29",
         "country": "Spain",
         "type": "Spanish Senate",
         "status": "Upcoming",
@@ -674,6 +656,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5255/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-29",
+        "country": "Switzerland",
+        "type": "Referendum",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5097/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5097/"
           }
         ]
       }
