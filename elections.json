@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T03:48:55Z",
+  "generated_at": "2026-11-10T05:22:52Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -162,24 +162,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Canada"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-18",
-        "country": "Japan",
-        "type": "Yokohama , Mayor",
-        "status": "Held",
-        "source_names": [
-          "Wikipedia"
-        ],
-        "links": [
-          "https://en.wikipedia.org/wiki/Elections_in_Japan"
-        ],
-        "sources": [
-          {
-            "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
           }
         ]
       },
@@ -464,7 +446,7 @@
       {
         "date": "2026-11-08",
         "country": "Lithuania",
-        "type": "Northern Nalšia, Seimas by-election",
+        "type": "Northern Nalšia, Seimas by-election (1st round)",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -499,9 +481,27 @@
       },
       {
         "date": "2026-11-10",
+        "country": "Israel",
+        "type": "Parliament",
+        "status": "Held",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/IL/IL-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/IL/IL-LC01/elections/elections"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-10",
         "country": "Sao Tome and Principe",
         "type": "National Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "IPU"
         ],
@@ -554,7 +554,7 @@
       {
         "date": "2026-11-15",
         "country": "Moldova",
-        "type": "Gagauzia , general election Japan , Fukuoka , Mayor",
+        "type": "Gagauzia , general election Japan , Ehime Prefecture , Governor",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
@@ -589,19 +589,19 @@
       },
       {
         "date": "2026-11-22",
-        "country": "Poland",
-        "type": "Senate Constituency no. 20 by-election",
+        "country": "Lithuania",
+        "type": "Northern Nalšia, Seimas by-election (2nd round) Poland , Senate Constituency no. 20 by-election",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
         ],
         "links": [
-          "https://en.wikipedia.org/wiki/Poland"
+          "https://en.wikipedia.org/wiki/Elections_in_Lithuania"
         ],
         "sources": [
           {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Poland"
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Lithuania"
           }
         ]
       },
@@ -806,6 +806,24 @@
         ]
       },
       {
+        "date": "2026-12-20",
+        "country": "Japan",
+        "type": "Saga Prefecture , Governor",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Japan"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
+          }
+        ]
+      },
+      {
         "date": "2026-12-22",
         "country": "South Sudan",
         "type": "South Sudanese Presidency",
@@ -838,6 +856,24 @@
           {
             "name": "A-WEB",
             "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+          }
+        ]
+      },
+      {
+        "date": "2026-12-27",
+        "country": "Japan",
+        "type": "Miyazaki Prefecture , Governor",
+        "status": "Upcoming",
+        "source_names": [
+          "Wikipedia"
+        ],
+        "links": [
+          "https://en.wikipedia.org/wiki/Elections_in_Japan"
+        ],
+        "sources": [
+          {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
           }
         ]
       }
