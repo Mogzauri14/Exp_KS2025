@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T05:22:52Z",
+  "generated_at": "2026-11-11T03:53:45Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -588,6 +588,24 @@
         ]
       },
       {
+        "date": "2026-11-20",
+        "country": "Northern Mariana Islands",
+        "type": "Northern Mariana Islands Governor",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5294/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5294/"
+          }
+        ]
+      },
+      {
         "date": "2026-11-22",
         "country": "Lithuania",
         "type": "Northern Nalšia, Seimas by-election (2nd round) Poland , Senate Constituency no. 20 by-election",
@@ -644,18 +662,18 @@
       {
         "date": "2026-11-29",
         "country": "Spain",
-        "type": "Spanish Senate",
+        "type": "Spanish Congress of Deputies",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5255/"
+          "https://www.electionguide.org/elections/id/5256/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5255/"
+            "link": "https://www.electionguide.org/elections/id/5256/"
           }
         ]
       },
