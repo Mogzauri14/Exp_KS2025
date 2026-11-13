@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T05:01:08Z",
+  "generated_at": "2026-11-13T04:16:59Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -661,24 +661,6 @@
       },
       {
         "date": "2026-11-29",
-        "country": "Spain",
-        "type": "Spanish Congress of Deputies",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5256/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5256/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-29",
         "country": "Switzerland",
         "type": "Referendum",
         "status": "Upcoming",
@@ -692,6 +674,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5097/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-29",
+        "country": "Spain",
+        "type": "Spanish Senate",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5255/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5255/"
           }
         ]
       }
