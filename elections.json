@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T04:16:59Z",
+  "generated_at": "2026-11-14T04:13:32Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -257,6 +257,114 @@
       }
     ],
     "2026-11": [
+      {
+        "date": "2026-11-01",
+        "country": "Colombia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-colombia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-colombia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "country": "Peru",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-peru-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-peru-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "country": "Bangladesh",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-bangladesh-2026"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-bangladesh-2026"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "country": "Zambia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-zambia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-zambia-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "country": "São Tomé e Príncipe",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-sao-tome-e-principe-2026_en"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-01",
+        "country": "Gambia",
+        "type": "EU Election Observation Mission",
+        "status": "Held",
+        "source_names": [
+          "EEAS"
+        ],
+        "links": [
+          "https://www.eeas.europa.eu/eom-gambia-2026_en"
+        ],
+        "sources": [
+          {
+            "name": "EEAS",
+            "link": "https://www.eeas.europa.eu/eom-gambia-2026_en"
+          }
+        ]
+      },
       {
         "date": "2026-11-02",
         "country": "Canada",
@@ -519,7 +627,7 @@
         "date": "2026-11-14",
         "country": "Malaysia",
         "type": "Malacca , State Legislative Assembly",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
