@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:13:32Z",
+  "generated_at": "2026-11-15T03:58:09Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -645,7 +645,7 @@
         "date": "2026-11-15",
         "country": "Cape Verde",
         "type": "Cabo Verdean Presidency",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
@@ -663,7 +663,7 @@
         "date": "2026-11-15",
         "country": "Moldova",
         "type": "Gagauzia , general election Japan , Ehime Prefecture , Governor",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -898,7 +898,7 @@
       {
         "date": "2026-12-12",
         "country": "Malaysia",
-        "type": "Sarawak , State Legislative Assembly",
+        "type": "Sarawak , State Legislative Assembly United States , Louisiana , general elections (2nd round) Louisiana's 5th congressional district , general election (2nd round) Louisiana's 6th congressional district , general election (2nd round) Shreveport , Mayor (2nd round)",
         "status": "Upcoming",
         "source_names": [
           "Wikipedia"
