@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T03:58:10Z",
+  "generated_at": "2026-11-17T05:50:42Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -385,55 +385,19 @@
       },
       {
         "date": "2026-11-03",
-        "country": "Guam",
-        "type": "Guamanian Legislature",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5102/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5102/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
         "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands Governor",
+        "type": "Northern Mariana Islands Senate",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5105/"
+          "https://www.electionguide.org/elections/id/5104/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5105/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "country": "Virgin Islands, U.S.",
-        "type": "U.S. Virgin Islands Legislature",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5215/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5215/"
+            "link": "https://www.electionguide.org/elections/id/5104/"
           }
         ]
       },
@@ -458,6 +422,42 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_the_United_States"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "Virgin Islands, U.S.",
+        "type": "U.S. Virgin Islands Legislature",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5215/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5215/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-03",
+        "country": "Guam",
+        "type": "Guamanian Legislature",
+        "status": "Held",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5102/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5102/"
           }
         ]
       },
@@ -662,7 +662,7 @@
       {
         "date": "2026-11-15",
         "country": "Moldova",
-        "type": "Gagauzia , general election Slovenia , local elections [ sl ] Japan , Ehime Prefecture , Governor",
+        "type": "Gagauzia , general election (1st round) Slovenia , local elections [ sl ] Japan , Ehime Prefecture , Governor",
         "status": "Held",
         "source_names": [
           "Wikipedia"
@@ -769,6 +769,24 @@
       },
       {
         "date": "2026-11-29",
+        "country": "Spain",
+        "type": "Spanish Senate",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5255/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5255/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-29",
         "country": "Switzerland",
         "type": "Referendum",
         "status": "Upcoming",
@@ -787,19 +805,19 @@
       },
       {
         "date": "2026-11-29",
-        "country": "Spain",
-        "type": "Spanish Senate",
+        "country": "Moldova",
+        "type": "Gagauzia , general election (2nd round)",
         "status": "Upcoming",
         "source_names": [
-          "ElectionGuide"
+          "Wikipedia"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5255/"
+          "https://en.wikipedia.org/wiki/Elections_in_Moldova"
         ],
         "sources": [
           {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5255/"
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Elections_in_Moldova"
           }
         ]
       }
@@ -878,24 +896,6 @@
         ]
       },
       {
-        "date": "2026-12-09",
-        "country": "Fiji",
-        "type": "Referendum",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5258/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5258/"
-          }
-        ]
-      },
-      {
         "date": "2026-12-12",
         "country": "Malaysia",
         "type": "Sarawak , State Legislative Assembly United States , Louisiana , general elections (2nd round) Louisiana's 5th congressional district , general election (2nd round) Louisiana's 6th congressional district , general election (2nd round) Shreveport , Mayor (2nd round)",
@@ -952,24 +952,6 @@
       {
         "date": "2026-12-22",
         "country": "South Sudan",
-        "type": "South Sudanese Presidency",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5110/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5110/"
-          }
-        ]
-      },
-      {
-        "date": "2026-12-22",
-        "country": "South Sudan",
         "type": "2026 General Election",
         "status": "Upcoming",
         "source_names": [
@@ -982,6 +964,42 @@
           {
             "name": "A-WEB",
             "link": "https://www.aweb.org/eng/bbs/B0000007/list.do?menuNo=300052"
+          }
+        ]
+      },
+      {
+        "date": "2026-12-24",
+        "country": "Fiji",
+        "type": "Fijian Parliament",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5206/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5206/"
+          }
+        ]
+      },
+      {
+        "date": "2026-12-27",
+        "country": "Serbia",
+        "type": "Serbian Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5295/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5295/"
           }
         ]
       },
@@ -1000,6 +1018,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
+          }
+        ]
+      },
+      {
+        "date": "2026-12-31",
+        "country": "Somalia",
+        "type": "Somali Presidency",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5112/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5112/"
           }
         ]
       }
