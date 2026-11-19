@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:16:58Z",
+  "generated_at": "2026-11-19T05:11:59Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -681,7 +681,7 @@
         "date": "2026-11-19",
         "country": "Czech Republic",
         "type": "Senate",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "IPU"
         ],
@@ -770,18 +770,18 @@
       {
         "date": "2026-11-29",
         "country": "Spain",
-        "type": "Spanish Senate",
+        "type": "Spanish Congress of Deputies",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5255/"
+          "https://www.electionguide.org/elections/id/5256/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5255/"
+            "link": "https://www.electionguide.org/elections/id/5256/"
           }
         ]
       },
