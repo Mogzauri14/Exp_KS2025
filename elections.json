@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T05:11:59Z",
+  "generated_at": "2026-11-20T04:59:26Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -699,7 +699,7 @@
         "date": "2026-11-20",
         "country": "Northern Mariana Islands",
         "type": "Northern Mariana Islands Governor",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
