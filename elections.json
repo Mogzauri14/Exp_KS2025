@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T04:55:11Z",
+  "generated_at": "2026-11-22T04:13:55Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -385,24 +385,6 @@
       },
       {
         "date": "2026-11-03",
-        "country": "Northern Mariana Islands",
-        "type": "Northern Mariana Islands Senate",
-        "status": "Held",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5104/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5104/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
         "country": "United States",
         "type": "US Senate",
         "status": "Held",
@@ -445,19 +427,19 @@
       },
       {
         "date": "2026-11-03",
-        "country": "Guam",
-        "type": "Guamanian Legislature",
+        "country": "Northern Mariana Islands",
+        "type": "Northern Mariana Islands Senate",
         "status": "Held",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5102/"
+          "https://www.electionguide.org/elections/id/5104/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5102/"
+            "link": "https://www.electionguide.org/elections/id/5104/"
           }
         ]
       },
@@ -717,7 +699,7 @@
         "date": "2026-11-22",
         "country": "Lithuania",
         "type": "Northern Nalšia, Seimas by-election (2nd round) Poland , Senate Constituency no. 20 by-election",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -769,24 +751,6 @@
       },
       {
         "date": "2026-11-29",
-        "country": "Spain",
-        "type": "Spanish Congress of Deputies",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5256/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5256/"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-29",
         "country": "Switzerland",
         "type": "Referendum",
         "status": "Upcoming",
@@ -800,6 +764,24 @@
           {
             "name": "ElectionGuide",
             "link": "https://www.electionguide.org/elections/id/5097/"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-29",
+        "country": "Spain",
+        "type": "Spanish Congress of Deputies",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5256/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5256/"
           }
         ]
       },
@@ -1024,18 +1006,18 @@
       {
         "date": "2026-12-31",
         "country": "Somalia",
-        "type": "Somali Presidency",
+        "type": "Somali House of the People",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5112/"
+          "https://www.electionguide.org/elections/id/5113/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5112/"
+            "link": "https://www.electionguide.org/elections/id/5113/"
           }
         ]
       }
