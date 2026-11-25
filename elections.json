@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T07:43:05Z",
+  "generated_at": "2026-11-25T06:14:00Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -805,6 +805,24 @@
       }
     ],
     "2026-12": [
+      {
+        "date": "2026-12-01",
+        "country": "Bosnia and Herzegovina",
+        "type": "House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/BA/BA-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/BA/BA-LC01/elections/elections"
+          }
+        ]
+      },
       {
         "date": "2026-12-05",
         "country": "Gambia, The",
