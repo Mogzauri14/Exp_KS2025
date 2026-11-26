@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T06:14:00Z",
+  "generated_at": "2026-11-26T06:05:54Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -770,18 +770,18 @@
       {
         "date": "2026-11-29",
         "country": "Spain",
-        "type": "Spanish Congress of Deputies",
+        "type": "Spanish Senate",
         "status": "Upcoming",
         "source_names": [
           "ElectionGuide"
         ],
         "links": [
-          "https://www.electionguide.org/elections/id/5256/"
+          "https://www.electionguide.org/elections/id/5255/"
         ],
         "sources": [
           {
             "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5256/"
+            "link": "https://www.electionguide.org/elections/id/5255/"
           }
         ]
       },
@@ -932,6 +932,24 @@
         ]
       },
       {
+        "date": "2026-12-16",
+        "country": "Dominica",
+        "type": "Dominican House of Assembly",
+        "status": "Upcoming",
+        "source_names": [
+          "ElectionGuide"
+        ],
+        "links": [
+          "https://www.electionguide.org/elections/id/5329/"
+        ],
+        "sources": [
+          {
+            "name": "ElectionGuide",
+            "link": "https://www.electionguide.org/elections/id/5329/"
+          }
+        ]
+      },
+      {
         "date": "2026-12-20",
         "country": "Japan",
         "type": "Saga Prefecture , Governor",
@@ -1018,24 +1036,6 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Japan"
-          }
-        ]
-      },
-      {
-        "date": "2026-12-31",
-        "country": "Somalia",
-        "type": "Somali House of the People",
-        "status": "Upcoming",
-        "source_names": [
-          "ElectionGuide"
-        ],
-        "links": [
-          "https://www.electionguide.org/elections/id/5113/"
-        ],
-        "sources": [
-          {
-            "name": "ElectionGuide",
-            "link": "https://www.electionguide.org/elections/id/5113/"
           }
         ]
       }
