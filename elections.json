@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T06:05:54Z",
+  "generated_at": "2026-11-27T05:57:24Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -656,6 +656,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Moldova"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-17",
+        "country": "Serbia",
+        "type": "National Assembly",
+        "status": "Held",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/RS/RS-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/RS/RS-LC01/elections/elections"
           }
         ]
       },
