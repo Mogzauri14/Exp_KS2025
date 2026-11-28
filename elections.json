@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T05:57:24Z",
+  "generated_at": "2026-11-28T05:39:02Z",
   "current_month": "2026-11",
   "months": {
     "2026-10": [
@@ -735,7 +735,7 @@
         "date": "2026-11-28",
         "country": "Taiwan",
         "type": "2026 Local Elections",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "A-WEB"
         ],
@@ -753,7 +753,7 @@
         "date": "2026-11-28",
         "country": "Australia",
         "type": "Victoria , Legislative Assembly Philippines , Batanes , at-large congressional district , special election Taiwan , local elections",
-        "status": "Upcoming",
+        "status": "Held",
         "source_names": [
           "Wikipedia"
         ],
@@ -818,6 +818,24 @@
           {
             "name": "Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Elections_in_Moldova"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-30",
+        "country": "Grenada",
+        "type": "House of Representatives",
+        "status": "Upcoming",
+        "source_names": [
+          "IPU"
+        ],
+        "links": [
+          "https://data.ipu.org/parliament/GD/GD-LC01/elections/elections"
+        ],
+        "sources": [
+          {
+            "name": "IPU",
+            "link": "https://data.ipu.org/parliament/GD/GD-LC01/elections/elections"
           }
         ]
       }
